@@ -1,0 +1,1000 @@
+Avenida Central 459
+Calle Principal España 710
+Calle Principal Arnulfo Arias 429
+Avenida Pedro Miguel 357
+Calle Principal Tumba Muerto 637
+Calle 12 de Octubre 211
+Avenida México 408
+Vía 12 de Octubre 353
+Avenida Transistmica 533
+Calle Principal Omar Torrijos 959
+Avenida Pedro Miguel 230
+Avenida Tumba Muerto 826
+Vía Domingo Díaz 570
+Vía Central 69
+Calle Cincuentenario 921
+Avenida Perú 691
+Calle Principal Arnulfo Arias 171
+Calle Principal Mártires 757
+Vía 3 de Noviembre 434
+Calle Principal Tumba Muerto 869
+Vía El Dorado 92
+Avenida Ecuador 530
+Calle Principal Domingo Díaz 625
+Vía Ancón 822
+Avenida Transistmica 478
+Vía Argentina 986
+Avenida Gamboa 17
+Avenida Venezuela 368
+Calle Albrook 558
+Avenida El Dorado 269
+Calle Principal Colombia 3
+Avenida Perú 820
+Avenida Domingo Díaz 613
+Calle Principal Argentina 332
+Avenida México 909
+Avenida Belisario Porras 580
+Avenida Domingo Díaz 742
+Calle Principal Belisario Porras 7
+Calle Principal Cincuentenario 986
+Vía Arnulfo Arias 581
+Calle Principal Gamboa 128
+Avenida 17 de Abril 93
+Calle 3 de Noviembre 553
+Avenida Domingo Díaz 887
+Calle Principal Argentina 225
+Avenida Tumba Muerto 650
+Avenida Clayton 609
+Avenida Omar Torrijos 704
+Calle Principal Gamboa 761
+Vía Clayton 726
+Avenida Clayton 19
+Calle Principal Venezuela 677
+Avenida Argentina 922
+Vía Miraflores 218
+Calle Ancón 542
+Calle Central 930
+Calle Central 244
+Calle Principal Ricardo J. Alfaro 26
+Vía Colombia 926
+Calle Cincuentenario 444
+Calle Balboa 838
+Calle Principal Roosevelt 55
+Avenida Roosevelt 143
+Calle Principal Central 457
+Avenida Tumba Muerto 725
+Calle Principal 17 de Abril 781
+Avenida Albrook 669
+Avenida El Dorado 463
+Avenida Perú 973
+Avenida Cincuentenario 416
+Calle Principal Perú 292
+Calle Belisario Porras 395
+Avenida Pedro Miguel 559
+Vía España 645
+Calle Arnulfo Arias 410
+Avenida Colombia 344
+Avenida Argentina 788
+Avenida Albrook 483
+Calle Ecuador 920
+Calle 12 de Octubre 507
+Calle Principal Central 375
+Avenida Balboa 453
+Calle Gamboa 173
+Calle Principal Pedro Miguel 536
+Calle Principal Tumba Muerto 787
+Vía Mártires 9
+Calle Roosevelt 503
+Vía Transistmica 84
+Avenida Gamboa 514
+Calle Principal Belisario Porras 239
+Calle Colombia 329
+Calle 17 de Abril 903
+Avenida 28 de Noviembre 255
+Calle Venezuela 138
+Avenida Venezuela 174
+Avenida Brasil 778
+Avenida Transistmica 36
+Calle Principal 12 de Octubre 691
+Calle Cincuentenario 700
+Vía Pedro Miguel 844
+Avenida Tumba Muerto 610
+Avenida Tumba Muerto 81
+Calle Principal Central 971
+Calle 28 de Noviembre 956
+Calle Gamboa 96
+Avenida Arnulfo Arias 276
+Calle El Dorado 101
+Vía Transistmica 878
+Avenida Colombia 721
+Avenida Perú 742
+Vía Belisario Porras 647
+Calle Principal 12 de Octubre 375
+Avenida El Dorado 408
+Calle Principal Clayton 776
+Calle Principal Gamboa 895
+Calle Domingo Díaz 925
+Avenida Miraflores 414
+Calle Principal Roosevelt 829
+Avenida Colombia 156
+Avenida Domingo Díaz 185
+Calle Principal Roosevelt 606
+Vía Tumba Muerto 940
+Calle Principal Domingo Díaz 44
+Avenida Mártires 890
+Calle Tumba Muerto 562
+Calle Belisario Porras 845
+Calle 12 de Octubre 18
+Calle Gamboa 953
+Avenida Tumba Muerto 117
+Calle Principal 28 de Noviembre 477
+Vía Balboa 799
+Vía México 767
+Avenida España 974
+Avenida Belisario Porras 643
+Calle Principal Pedro Miguel 880
+Avenida Roosevelt 840
+Vía 17 de Abril 748
+Avenida Domingo Díaz 811
+Calle Principal Ricardo J. Alfaro 291
+Avenida Venezuela 10
+Avenida Ecuador 657
+Avenida 12 de Octubre 954
+Avenida Balboa 137
+Avenida Colombia 432
+Avenida Pedro Miguel 783
+Avenida Arnulfo Arias 765
+Avenida Mártires 845
+Avenida Transistmica 722
+Avenida Cincuentenario 959
+Calle Principal Cincuentenario 975
+Avenida Transistmica 712
+Calle Albrook 656
+Calle Principal Balboa 297
+Avenida 17 de Abril 652
+Avenida Domingo Díaz 729
+Avenida España 181
+Calle Principal Mártires 93
+Avenida 28 de Noviembre 929
+Vía Ancón 569
+Calle Belisario Porras 507
+Avenida Transistmica 282
+Avenida Ricardo J. Alfaro 941
+Avenida El Dorado 409
+Avenida Brasil 188
+Vía Arnulfo Arias 568
+Avenida Argentina 816
+Calle Principal España 26
+Avenida Balboa 448
+Calle Principal 17 de Abril 603
+Calle Principal Belisario Porras 384
+Calle Principal 3 de Noviembre 324
+Avenida Gamboa 357
+Vía Gamboa 172
+Avenida Albrook 610
+Avenida El Dorado 381
+Calle Principal Gamboa 517
+Vía Ecuador 272
+Calle El Dorado 856
+Calle El Dorado 719
+Vía Mártires 436
+Avenida Ecuador 629
+Calle Ricardo J. Alfaro 848
+Vía México 283
+Avenida 28 de Noviembre 241
+Vía Balboa 82
+Avenida Roosevelt 346
+Avenida Roosevelt 753
+Calle El Dorado 357
+Calle Omar Torrijos 500
+Avenida Belisario Porras 962
+Calle Principal Clayton 387
+Calle 12 de Octubre 157
+Avenida Clayton 382
+Calle Principal Gamboa 864
+Vía Perú 392
+Avenida Perú 628
+Calle Miraflores 599
+Calle Roosevelt 897
+Calle Principal Miraflores 442
+Avenida El Dorado 169
+Avenida Perú 791
+Avenida Venezuela 193
+Vía Arnulfo Arias 445
+Avenida Central 898
+Vía Central 123
+Avenida El Dorado 686
+Calle 17 de Abril 773
+Vía 28 de Noviembre 571
+Calle Principal Gamboa 622
+Vía Arnulfo Arias 52
+Avenida España 679
+Avenida España 102
+Vía México 586
+Avenida Domingo Díaz 412
+Avenida Miraflores 799
+Calle Principal Roosevelt 840
+Vía Central 330
+Calle Principal Albrook 16
+Avenida Miraflores 949
+Calle Belisario Porras 812
+Calle 28 de Noviembre 298
+Vía Central 116
+Calle Tumba Muerto 629
+Avenida Arnulfo Arias 485
+Avenida Colombia 304
+Calle El Dorado 90
+Calle El Dorado 249
+Calle Principal Belisario Porras 737
+Avenida Balboa 935
+Avenida Clayton 923
+Calle Albrook 64
+Avenida Ancón 100
+Calle Principal Perú 777
+Calle Principal Roosevelt 799
+Avenida 28 de Noviembre 893
+Vía El Dorado 598
+Calle Balboa 456
+Vía Colombia 243
+Avenida Perú 861
+Avenida Ricardo J. Alfaro 291
+Avenida Colombia 226
+Calle Principal Transistmica 649
+Avenida Colombia 735
+Avenida Ancón 192
+Calle Principal Pedro Miguel 344
+Calle Venezuela 247
+Calle Principal México 98
+Calle El Dorado 845
+Avenida México 31
+Calle Principal Belisario Porras 321
+Avenida 28 de Noviembre 405
+Calle 3 de Noviembre 407
+Vía Venezuela 708
+Avenida 28 de Noviembre 927
+Avenida Ricardo J. Alfaro 902
+Calle España 655
+Calle Tumba Muerto 420
+Avenida Omar Torrijos 492
+Avenida Central 788
+Calle Tumba Muerto 780
+Avenida Cincuentenario 975
+Avenida Arnulfo Arias 367
+Avenida Cincuentenario 38
+Avenida Albrook 206
+Avenida 3 de Noviembre 9
+Calle Perú 909
+Avenida España 62
+Avenida Balboa 936
+Avenida Miraflores 451
+Calle Principal Transistmica 966
+Vía Belisario Porras 201
+Avenida 28 de Noviembre 354
+Vía 3 de Noviembre 978
+Avenida 28 de Noviembre 650
+Avenida Ecuador 689
+Avenida Transistmica 743
+Vía Belisario Porras 760
+Avenida Tumba Muerto 613
+Calle Principal Arnulfo Arias 249
+Avenida 28 de Noviembre 753
+Calle Tumba Muerto 616
+Calle Omar Torrijos 453
+Avenida Omar Torrijos 853
+Vía Perú 15
+Vía Cincuentenario 378
+Calle Principal Brasil 800
+Vía Belisario Porras 164
+Avenida Argentina 461
+Avenida Colombia 900
+Calle Clayton 820
+Avenida Brasil 629
+Vía Pedro Miguel 406
+Calle Arnulfo Arias 800
+Vía Central 804
+Avenida Arnulfo Arias 612
+Calle Principal Colombia 6
+Calle Domingo Díaz 376
+Calle Ancón 914
+Avenida El Dorado 593
+Vía Miraflores 560
+Vía Brasil 977
+Vía Domingo Díaz 851
+Calle Principal México 325
+Vía Roosevelt 529
+Calle Principal 17 de Abril 918
+Calle 28 de Noviembre 858
+Avenida México 635
+Avenida 3 de Noviembre 95
+Vía Ancón 483
+Avenida Argentina 715
+Calle 12 de Octubre 214
+Calle Pedro Miguel 1
+Calle Principal Brasil 543
+Calle Principal Arnulfo Arias 188
+Calle Principal Venezuela 388
+Avenida Omar Torrijos 633
+Vía España 766
+Vía El Dorado 497
+Calle Principal Mártires 684
+Calle Principal Domingo Díaz 786
+Calle Pedro Miguel 99
+Calle Principal Pedro Miguel 421
+Avenida Cincuentenario 209
+Calle Colombia 133
+Calle Ricardo J. Alfaro 679
+Avenida Pedro Miguel 339
+Avenida Colombia 905
+Calle Colombia 904
+Avenida Colombia 648
+Avenida Balboa 865
+Vía Miraflores 133
+Calle Ancón 75
+Calle Gamboa 180
+Avenida Mártires 388
+Vía Pedro Miguel 953
+Vía Ancón 588
+Avenida Ecuador 101
+Calle Brasil 626
+Avenida 3 de Noviembre 360
+Avenida Central 73
+Calle Principal Brasil 807
+Vía Pedro Miguel 970
+Avenida Brasil 594
+Avenida Mártires 499
+Avenida Belisario Porras 486
+Calle Principal Tumba Muerto 769
+Vía Albrook 700
+Vía 3 de Noviembre 895
+Vía Ricardo J. Alfaro 173
+Vía Clayton 909
+Vía Venezuela 116
+Avenida 3 de Noviembre 610
+Avenida México 747
+Calle Balboa 62
+Calle Principal Ecuador 619
+Calle Balboa 850
+Avenida Roosevelt 525
+Calle Albrook 648
+Avenida Ecuador 417
+Avenida Central 420
+Vía Clayton 437
+Calle Balboa 867
+Avenida El Dorado 41
+Calle Roosevelt 718
+Vía Colombia 375
+Calle 17 de Abril 809
+Calle Principal 12 de Octubre 544
+Calle Principal España 271
+Vía Omar Torrijos 227
+Calle Central 109
+Calle 28 de Noviembre 32
+Vía Central 3
+Avenida Balboa 768
+Calle Principal Argentina 599
+Vía España 495
+Calle Perú 118
+Avenida Clayton 286
+Avenida Venezuela 362
+Calle Mártires 376
+Calle España 806
+Avenida Cincuentenario 662
+Avenida Ecuador 443
+Avenida Central 617
+Calle Principal Balboa 125
+Vía 12 de Octubre 852
+Calle Clayton 642
+Avenida Ecuador 583
+Avenida Tumba Muerto 742
+Calle Colombia 334
+Vía Albrook 560
+Calle Principal Colombia 504
+Calle Colombia 646
+Avenida Venezuela 75
+Avenida Balboa 48
+Avenida Ancón 731
+Avenida 3 de Noviembre 841
+Calle Argentina 521
+Avenida 28 de Noviembre 561
+Avenida España 834
+Vía Argentina 445
+Calle Principal 28 de Noviembre 379
+Calle Principal El Dorado 398
+Calle Principal Belisario Porras 841
+Avenida Colombia 795
+Avenida Balboa 154
+Vía Arnulfo Arias 631
+Calle Roosevelt 471
+Avenida Argentina 887
+Vía Ricardo J. Alfaro 642
+Calle Principal Argentina 66
+Avenida Balboa 383
+Avenida Central 275
+Calle Principal Brasil 795
+Avenida Venezuela 656
+Vía Ecuador 955
+Calle Principal Transistmica 910
+Avenida México 70
+Avenida El Dorado 904
+Avenida Roosevelt 291
+Vía Central 969
+Vía Belisario Porras 576
+Calle Miraflores 575
+Avenida Brasil 978
+Calle Principal 3 de Noviembre 232
+Calle Principal Ancón 378
+Vía 28 de Noviembre 561
+Avenida Omar Torrijos 420
+Avenida Balboa 349
+Avenida Belisario Porras 385
+Vía Colombia 821
+Avenida 12 de Octubre 345
+Avenida Roosevelt 252
+Calle Principal Albrook 428
+Vía Arnulfo Arias 130
+Avenida Ecuador 183
+Vía 28 de Noviembre 661
+Calle Principal Colombia 745
+Avenida 12 de Octubre 208
+Vía 17 de Abril 304
+Calle Argentina 646
+Calle Belisario Porras 723
+Calle Albrook 450
+Avenida Belisario Porras 669
+Avenida Cincuentenario 150
+Calle Principal Brasil 444
+Calle Brasil 534
+Calle México 187
+Calle 17 de Abril 799
+Calle Transistmica 560
+Vía 17 de Abril 975
+Avenida 17 de Abril 292
+Calle Gamboa 208
+Vía Cincuentenario 496
+Avenida Perú 159
+Calle Principal Venezuela 155
+Avenida 28 de Noviembre 856
+Avenida Transistmica 612
+Avenida Transistmica 440
+Vía Colombia 722
+Avenida Albrook 157
+Calle Arnulfo Arias 137
+Vía 17 de Abril 830
+Calle Belisario Porras 357
+Calle Principal Ancón 862
+Calle Principal 28 de Noviembre 109
+Vía El Dorado 669
+Avenida Roosevelt 785
+Calle Ecuador 27
+Calle 3 de Noviembre 862
+Avenida México 944
+Calle El Dorado 195
+Vía Central 202
+Vía Balboa 553
+Avenida Belisario Porras 530
+Calle Venezuela 815
+Vía 3 de Noviembre 367
+Calle Principal Colombia 598
+Calle Principal Belisario Porras 366
+Avenida Albrook 831
+Avenida Arnulfo Arias 862
+Calle Albrook 46
+Calle Principal Brasil 112
+Calle Principal Tumba Muerto 672
+Avenida Arnulfo Arias 591
+Vía España 373
+Avenida Cincuentenario 237
+Calle España 247
+Avenida Arnulfo Arias 739
+Vía Cincuentenario 412
+Calle Principal Clayton 355
+Calle España 860
+Calle Principal Argentina 647
+Calle Miraflores 288
+Avenida Albrook 911
+Calle Principal Perú 669
+Calle Ricardo J. Alfaro 49
+Calle Perú 678
+Avenida Transistmica 638
+Calle Balboa 50
+Avenida 17 de Abril 785
+Avenida Ricardo J. Alfaro 630
+Calle Principal 12 de Octubre 550
+Calle Principal Brasil 931
+Calle Principal Perú 712
+Calle Belisario Porras 199
+Avenida Ricardo J. Alfaro 188
+Avenida Ecuador 713
+Vía Roosevelt 980
+Avenida Miraflores 156
+Calle Perú 130
+Calle Colombia 788
+Calle Transistmica 275
+Calle Principal Mártires 680
+Calle Principal Clayton 559
+Calle Principal España 870
+Avenida 17 de Abril 129
+Calle Pedro Miguel 508
+Calle 17 de Abril 122
+Avenida Transistmica 155
+Avenida Ricardo J. Alfaro 188
+Calle Principal 12 de Octubre 847
+Avenida Roosevelt 819
+Avenida 12 de Octubre 954
+Avenida Omar Torrijos 491
+Vía Venezuela 742
+Avenida Albrook 584
+Avenida Gamboa 369
+Avenida El Dorado 159
+Avenida Cincuentenario 325
+Avenida 3 de Noviembre 810
+Vía Venezuela 585
+Avenida Belisario Porras 399
+Avenida México 843
+Calle Principal Cincuentenario 609
+Calle Principal Tumba Muerto 432
+Calle Arnulfo Arias 943
+Vía Argentina 171
+Calle Principal Domingo Díaz 689
+Avenida Arnulfo Arias 127
+Vía Central 167
+Vía Transistmica 276
+Avenida Domingo Díaz 367
+Avenida Transistmica 302
+Avenida Roosevelt 443
+Vía Transistmica 54
+Calle Principal España 741
+Calle Principal Arnulfo Arias 921
+Calle Principal México 706
+Vía Roosevelt 682
+Calle Arnulfo Arias 418
+Avenida Miraflores 188
+Vía Albrook 671
+Avenida Tumba Muerto 82
+Calle Principal México 13
+Vía Miraflores 448
+Calle Principal Clayton 264
+Avenida Argentina 914
+Calle Ancón 377
+Avenida Perú 674
+Avenida Mártires 460
+Avenida Venezuela 603
+Avenida Gamboa 208
+Calle Principal Colombia 119
+Calle Principal 3 de Noviembre 446
+Avenida Ricardo J. Alfaro 940
+Calle Principal Arnulfo Arias 355
+Calle Argentina 382
+Avenida Domingo Díaz 977
+Calle Principal México 783
+Vía Mártires 671
+Vía Venezuela 847
+Avenida Arnulfo Arias 301
+Vía Brasil 395
+Avenida Mártires 838
+Avenida Belisario Porras 754
+Vía Ecuador 966
+Calle Ricardo J. Alfaro 939
+Avenida Ricardo J. Alfaro 737
+Vía Perú 779
+Calle Clayton 338
+Calle Principal 28 de Noviembre 428
+Avenida 28 de Noviembre 714
+Calle Miraflores 279
+Calle Principal Pedro Miguel 481
+Calle Pedro Miguel 915
+Calle Principal Omar Torrijos 167
+Calle Principal 12 de Octubre 293
+Calle Ricardo J. Alfaro 13
+Vía Omar Torrijos 748
+Vía Colombia 887
+Avenida 17 de Abril 282
+Calle Venezuela 436
+Calle Pedro Miguel 944
+Avenida Ancón 60
+Calle Arnulfo Arias 453
+Avenida Transistmica 915
+Calle Principal Clayton 342
+Vía Argentina 906
+Calle Principal 12 de Octubre 64
+Calle Principal Central 359
+Avenida Arnulfo Arias 16
+Avenida 17 de Abril 228
+Avenida Ecuador 340
+Calle Gamboa 787
+Avenida Transistmica 300
+Calle Ancón 875
+Avenida Balboa 487
+Calle 3 de Noviembre 232
+Calle Domingo Díaz 513
+Avenida 12 de Octubre 281
+Avenida España 979
+Avenida El Dorado 531
+Calle Principal Arnulfo Arias 221
+Vía Pedro Miguel 657
+Vía El Dorado 243
+Calle Principal Mártires 337
+Vía Central 529
+Calle Principal El Dorado 894
+Vía 12 de Octubre 733
+Avenida 3 de Noviembre 678
+Vía Argentina 300
+Vía Omar Torrijos 257
+Vía 28 de Noviembre 61
+Calle 17 de Abril 87
+Calle Domingo Díaz 274
+Avenida Tumba Muerto 892
+Calle Principal Central 866
+Calle Ecuador 785
+Avenida Venezuela 531
+Vía Venezuela 107
+Avenida Perú 21
+Calle Transistmica 323
+Avenida Balboa 13
+Calle Principal El Dorado 972
+Avenida Clayton 725
+Calle Principal 12 de Octubre 291
+Calle España 663
+Avenida México 635
+Calle Principal 28 de Noviembre 70
+Calle Principal Venezuela 746
+Avenida Balboa 119
+Vía Omar Torrijos 301
+Calle Principal Venezuela 21
+Avenida Gamboa 324
+Avenida Colombia 626
+Avenida Argentina 930
+Avenida 28 de Noviembre 55
+Avenida Albrook 533
+Calle Brasil 333
+Avenida Ricardo J. Alfaro 936
+Avenida Ancón 673
+Vía Albrook 679
+Avenida Balboa 27
+Calle Principal Tumba Muerto 737
+Avenida Domingo Díaz 673
+Vía Venezuela 330
+Calle Principal Albrook 561
+Vía Pedro Miguel 556
+Calle Perú 697
+Vía Ecuador 789
+Avenida Brasil 31
+Vía Omar Torrijos 199
+Calle Principal Belisario Porras 322
+Calle Transistmica 489
+Calle Principal Omar Torrijos 657
+Avenida Ancón 399
+Avenida El Dorado 862
+Calle Domingo Díaz 303
+Calle Principal Roosevelt 460
+Vía Miraflores 878
+Avenida Argentina 326
+Calle Principal México 924
+Calle Principal 28 de Noviembre 897
+Calle Principal Ricardo J. Alfaro 85
+Vía Perú 108
+Vía España 666
+Avenida 3 de Noviembre 769
+Vía México 183
+Avenida Albrook 76
+Calle Principal Tumba Muerto 72
+Avenida Brasil 101
+Avenida Ancón 937
+Calle 17 de Abril 585
+Vía Central 971
+Vía Ricardo J. Alfaro 652
+Calle Transistmica 654
+Calle El Dorado 160
+Avenida México 622
+Avenida Venezuela 42
+Calle Principal Gamboa 711
+Vía Roosevelt 563
+Avenida Clayton 19
+Avenida Ancón 523
+Vía Cincuentenario 562
+Calle Principal Domingo Díaz 122
+Calle Principal Tumba Muerto 741
+Calle Principal Tumba Muerto 772
+Avenida Cincuentenario 558
+Avenida Ancón 44
+Calle Clayton 475
+Calle Principal Ancón 143
+Vía Ancón 681
+Calle Principal Brasil 990
+Calle 17 de Abril 222
+Avenida Albrook 867
+Avenida Albrook 108
+Calle Principal Albrook 100
+Calle 12 de Octubre 53
+Avenida Transistmica 875
+Avenida Mártires 709
+Calle Ecuador 230
+Avenida Ancón 717
+Avenida Argentina 217
+Avenida Cincuentenario 656
+Calle Balboa 383
+Avenida Domingo Díaz 714
+Calle Principal Ancón 112
+Calle Tumba Muerto 545
+Avenida Ricardo J. Alfaro 45
+Avenida Central 766
+Avenida Transistmica 800
+Vía Balboa 208
+Avenida Colombia 748
+Calle Domingo Díaz 654
+Avenida México 787
+Calle 3 de Noviembre 308
+Avenida Arnulfo Arias 721
+Calle Belisario Porras 919
+Avenida Venezuela 922
+Avenida Gamboa 758
+Calle Argentina 782
+Avenida 17 de Abril 643
+Avenida Domingo Díaz 385
+Avenida Colombia 324
+Avenida Perú 293
+Vía Venezuela 25
+Vía Cincuentenario 776
+Avenida Roosevelt 832
+Avenida Miraflores 280
+Calle Tumba Muerto 101
+Vía Transistmica 576
+Calle Principal México 281
+Calle Principal España 381
+Vía El Dorado 345
+Avenida 3 de Noviembre 68
+Avenida Domingo Díaz 787
+Calle Arnulfo Arias 101
+Calle Gamboa 164
+Vía Transistmica 240
+Avenida Brasil 146
+Calle Principal Clayton 419
+Calle Mártires 759
+Avenida Pedro Miguel 21
+Calle Transistmica 44
+Vía Tumba Muerto 9
+Vía Ancón 301
+Vía Brasil 870
+Calle Principal 28 de Noviembre 327
+Calle Principal Central 24
+Calle Principal 28 de Noviembre 902
+Calle 28 de Noviembre 978
+Vía Colombia 313
+Calle 28 de Noviembre 93
+Vía Central 786
+Vía Cincuentenario 738
+Avenida Miraflores 25
+Calle Principal Albrook 611
+Avenida Perú 416
+Vía Cincuentenario 636
+Calle Principal Roosevelt 602
+Calle Principal Omar Torrijos 524
+Calle Principal Brasil 355
+Calle Principal 12 de Octubre 788
+Avenida Brasil 283
+Calle Gamboa 481
+Vía El Dorado 352
+Calle España 441
+Calle Cincuentenario 615
+Calle Tumba Muerto 221
+Calle Venezuela 691
+Calle Transistmica 477
+Calle Tumba Muerto 543
+Calle Central 953
+Calle Principal El Dorado 976
+Calle Principal El Dorado 805
+Avenida Albrook 271
+Vía Argentina 816
+Avenida México 649
+Calle Principal Domingo Díaz 136
+Vía Venezuela 138
+Avenida Colombia 219
+Calle México 44
+Vía Ancón 225
+Avenida Venezuela 752
+Avenida Mártires 380
+Vía Mártires 936
+Calle Balboa 201
+Avenida Cincuentenario 293
+Calle Venezuela 291
+Avenida Omar Torrijos 636
+Calle Principal Argentina 837
+Calle Principal Roosevelt 715
+Calle Principal Argentina 712
+Calle Ricardo J. Alfaro 168
+Calle Arnulfo Arias 211
+Calle Principal Mártires 964
+Avenida Ricardo J. Alfaro 969
+Calle Ecuador 926
+Avenida Colombia 507
+Calle Miraflores 122
+Vía El Dorado 815
+Avenida Colombia 124
+Calle Principal España 689
+Calle Principal Colombia 136
+Calle Principal 17 de Abril 695
+Avenida 12 de Octubre 429
+Avenida Ricardo J. Alfaro 486
+Vía 12 de Octubre 744
+Calle Mártires 488
+Avenida Balboa 115
+Avenida 12 de Octubre 72
+Calle Ricardo J. Alfaro 932
+Calle Clayton 636
+Avenida 17 de Abril 921
+Calle Principal Arnulfo Arias 587
+Calle Principal Balboa 683
+Avenida Ecuador 485
+Calle Principal Miraflores 764
+Calle Principal Gamboa 344
+Calle Principal Miraflores 421
+Avenida Clayton 704
+Calle Principal Central 511
+Calle Principal Perú 122
+Calle Principal México 785
+Calle Colombia 191
+Calle Clayton 95
+Vía 3 de Noviembre 215
+Avenida Colombia 678
+Calle Ricardo J. Alfaro 442
+Vía España 222
+Calle España 614
+Avenida España 790
+Vía Brasil 412
+Calle Belisario Porras 996
+Calle Principal Domingo Díaz 300
+Avenida 12 de Octubre 546
+Calle Principal Tumba Muerto 952
+Calle Principal Albrook 208
+Avenida Domingo Díaz 927
+Vía México 666
+Avenida Arnulfo Arias 349
+Avenida Ricardo J. Alfaro 879
+Avenida Colombia 783
+Calle Belisario Porras 884
+Avenida Tumba Muerto 772
+Calle Albrook 898
+Vía México 927
+Calle Principal Ancón 920
+Calle Principal Clayton 946
+Vía 12 de Octubre 25
+Avenida Ecuador 716
+Avenida 28 de Noviembre 19
+Calle Ricardo J. Alfaro 787
+Avenida Miraflores 990
+Calle Principal Roosevelt 205
+Avenida Belisario Porras 52
+Calle Principal 12 de Octubre 275
+Vía Pedro Miguel 912
+Avenida Perú 143
+Calle Ancón 397
+Avenida Roosevelt 347
+Vía Omar Torrijos 796
+Vía Roosevelt 361
+Vía México 887
+Avenida Venezuela 336
+Calle Gamboa 230
+Vía Colombia 806
+Calle Principal España 643
+Calle Gamboa 104
+Vía Albrook 637
+Avenida 28 de Noviembre 381
+Avenida Mártires 753
+Vía Omar Torrijos 664
+Avenida México 650
+Avenida México 672
+Vía Ancón 888
+Calle Roosevelt 317
+Calle Principal Cincuentenario 461
+Calle Principal Ricardo J. Alfaro 980
+Calle Albrook 902
+Avenida 28 de Noviembre 386
+Calle Principal Ancón 892
+Vía Albrook 319
+Avenida Arnulfo Arias 633
+Calle Perú 407
+Calle Principal Central 279
+Vía España 853
+Vía México 213
+Calle Colombia 280
+Calle Principal Gamboa 479
+Calle Principal Ecuador 956
+Calle Principal Belisario Porras 952
+Vía 12 de Octubre 840
+Calle Miraflores 887
+Avenida Omar Torrijos 396
+Calle Ecuador 500
+Calle Balboa 771
+Calle Cincuentenario 991
+Calle Principal Balboa 23
+Avenida México 201
+Calle Gamboa 875
+Calle Principal Clayton 86
+Calle Balboa 628
+Calle Principal Gamboa 165
+Avenida 3 de Noviembre 911
+Avenida Brasil 320
+Avenida Perú 347
+Calle Principal 28 de Noviembre 294
+Vía Balboa 183
+Calle Principal Ricardo J. Alfaro 659
+Vía Cincuentenario 681
+Avenida Perú 340
+Calle Principal 28 de Noviembre 342
+Vía Omar Torrijos 715
+Calle Principal Mártires 869
+Vía Roosevelt 286
+Vía Arnulfo Arias 771
+Avenida Omar Torrijos 275
+Calle Principal México 346
+Avenida Arnulfo Arias 558
+Avenida Argentina 770
+Calle Miraflores 559
+Avenida Ancón 209
+Vía Omar Torrijos 531
+Calle 17 de Abril 581
+Avenida Cincuentenario 879
+Vía Miraflores 197
+Avenida Venezuela 552
+Vía Mártires 483
+Vía Transistmica 960
+Calle Principal Arnulfo Arias 834
+Calle Principal Arnulfo Arias 455
+Avenida Argentina 422
+Calle Principal Ancón 929
+Avenida Albrook 686
+Vía México 424
+Calle Principal 17 de Abril 387
+Avenida Mártires 870
+Calle Principal Colombia 649
+Calle Venezuela 324
+Avenida Belisario Porras 185
+Calle Principal Venezuela 540
+Avenida Mártires 246
+Calle Pedro Miguel 220
+Avenida Albrook 1
+Avenida 3 de Noviembre 954
+Vía Central 486
+Avenida 12 de Octubre 499
+Vía Roosevelt 351
+Calle Perú 76
+Avenida 12 de Octubre 542
+Calle El Dorado 393
+Avenida Tumba Muerto 46
+Calle El Dorado 930
+Avenida Gamboa 525
+Calle Principal 12 de Octubre 2
+Vía Brasil 196
+Calle Principal España 922
+Calle México 50
+Avenida Belisario Porras 622
+Avenida 28 de Noviembre 91
+Vía Gamboa 114
+Avenida España 418
+Avenida Cincuentenario 553
+Calle Principal Brasil 780
+Calle Principal Brasil 234
+Avenida Belisario Porras 327
+Vía Pedro Miguel 262
+Avenida Venezuela 852
+Calle Principal Cincuentenario 361
+Vía Miraflores 275
+Avenida España 508
+Vía Cincuentenario 32
+Avenida Pedro Miguel 241
+Calle Principal Brasil 287
+Avenida Brasil 17
+Avenida Tumba Muerto 649
+Avenida Ricardo J. Alfaro 592
+Avenida Perú 948
+Calle Principal Belisario Porras 537
+Vía 3 de Noviembre 116
+Avenida Tumba Muerto 359
+Calle España 695
+Calle Principal Venezuela 275
+Avenida Brasil 435
+Vía Venezuela 945
+Calle Principal 12 de Octubre 743
+Calle Tumba Muerto 731
+Avenida Cincuentenario 762
+Calle Tumba Muerto 400

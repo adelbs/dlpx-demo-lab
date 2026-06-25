@@ -1,0 +1,1000 @@
+Valdivia
+Maipú
+Puerto Montt
+Maipú
+Coronel
+Concepción
+Valdivia
+Rancagua
+Punta Arenas
+Antofagasta
+Iquique
+Concepción
+La Serena
+Calama
+La Florida
+Las Condes
+Antofagasta
+Las Condes
+San Antonio
+Rancagua
+Valparaíso
+Rancagua
+Las Condes
+Maipú
+Coquimbo
+Punta Arenas
+Temuco
+Concepción
+Calama
+Maipú
+Temuco
+Osorno
+Talca
+Los Ángeles
+Talca
+La Florida
+Santiago
+Copiapó
+Puente Alto
+Ñuñoa
+Valparaíso
+Maipú
+Talcahuano
+Ñuñoa
+Arica
+Copiapó
+Ñuñoa
+Las Condes
+Las Condes
+San Antonio
+San Antonio
+Santiago
+Copiapó
+Peñalolén
+Coronel
+Punta Arenas
+Coronel
+Valdivia
+Peñalolén
+Coronel
+Concepción
+La Serena
+Temuco
+Puente Alto
+Coquimbo
+Punta Arenas
+Santiago
+Puerto Montt
+Puerto Montt
+Coronel
+Peñalolén
+Talca
+Valparaíso
+Osorno
+Iquique
+Los Ángeles
+Las Condes
+Puente Alto
+Chillán
+Ñuñoa
+Calama
+Antofagasta
+Concepción
+La Serena
+Antofagasta
+Chillán
+La Serena
+Coronel
+Osorno
+Punta Arenas
+La Serena
+Santiago
+Quilpué
+Punta Arenas
+Peñalolén
+La Serena
+La Florida
+Los Ángeles
+La Florida
+Chillán
+Valdivia
+Peñalolén
+Valdivia
+Talca
+Ñuñoa
+Coquimbo
+Antofagasta
+Concepción
+Iquique
+Antofagasta
+Ñuñoa
+Valdivia
+Calama
+Rancagua
+Las Condes
+San Antonio
+Chillán
+La Serena
+Concepción
+Santiago
+Chillán
+Puente Alto
+Santiago
+Ñuñoa
+Osorno
+Copiapó
+Valdivia
+Punta Arenas
+San Antonio
+Valdivia
+Arica
+Valdivia
+Talcahuano
+Las Condes
+Puerto Montt
+La Serena
+Puerto Montt
+Calama
+Peñalolén
+Talca
+Coquimbo
+La Florida
+Villa Alemana
+Las Condes
+Puerto Montt
+Valdivia
+Copiapó
+Quilpué
+Iquique
+Rancagua
+San Antonio
+Chillán
+Puerto Montt
+Temuco
+Iquique
+Temuco
+Iquique
+Chillán
+Chillán
+Ñuñoa
+Osorno
+Copiapó
+Quilpué
+Las Condes
+Quilpué
+San Antonio
+Coronel
+Calama
+Coronel
+Calama
+Maipú
+Puente Alto
+Talca
+Los Ángeles
+Las Condes
+Quilpué
+Coquimbo
+Concepción
+Osorno
+San Antonio
+Peñalolén
+Osorno
+Valparaíso
+Talca
+Talcahuano
+Temuco
+Los Ángeles
+San Antonio
+Talca
+Los Ángeles
+Calama
+Talcahuano
+Las Condes
+Santiago
+La Serena
+Arica
+Los Ángeles
+Talcahuano
+Santiago
+Peñalolén
+Villa Alemana
+Coquimbo
+Coronel
+San Antonio
+Valparaíso
+Los Ángeles
+Chillán
+Maipú
+San Antonio
+Maipú
+Concepción
+Coquimbo
+San Antonio
+Puente Alto
+La Serena
+Villa Alemana
+Villa Alemana
+Osorno
+Talcahuano
+Los Ángeles
+San Antonio
+Talcahuano
+Talca
+Antofagasta
+Talca
+Valparaíso
+San Antonio
+Puerto Montt
+Calama
+Ñuñoa
+Calama
+Antofagasta
+Iquique
+Coronel
+Quilpué
+Valdivia
+Concepción
+Coronel
+Concepción
+Coquimbo
+San Antonio
+San Antonio
+Villa Alemana
+Coronel
+Coquimbo
+Los Ángeles
+Los Ángeles
+San Antonio
+La Florida
+Talca
+Talca
+Maipú
+Puente Alto
+Punta Arenas
+Puente Alto
+Puerto Montt
+Concepción
+Osorno
+Antofagasta
+Ñuñoa
+Puente Alto
+Los Ángeles
+Las Condes
+Quilpué
+Los Ángeles
+Ñuñoa
+Peñalolén
+Puente Alto
+Santiago
+Valdivia
+Temuco
+Copiapó
+Talcahuano
+Puente Alto
+Punta Arenas
+Concepción
+Iquique
+Talcahuano
+Coronel
+Talcahuano
+Valdivia
+Osorno
+Valparaíso
+Los Ángeles
+Las Condes
+Maipú
+Ñuñoa
+Rancagua
+Santiago
+Ñuñoa
+Quilpué
+Copiapó
+Valparaíso
+Coquimbo
+Concepción
+San Antonio
+Punta Arenas
+Rancagua
+Arica
+Ñuñoa
+Rancagua
+Arica
+Las Condes
+Quilpué
+Rancagua
+Valdivia
+Talca
+Iquique
+Valdivia
+Punta Arenas
+Valparaíso
+Coronel
+Ñuñoa
+Punta Arenas
+Calama
+Chillán
+Villa Alemana
+San Antonio
+Ñuñoa
+Puente Alto
+Ñuñoa
+Talca
+Puerto Montt
+Calama
+Antofagasta
+Puerto Montt
+Peñalolén
+Coronel
+Arica
+La Serena
+Coronel
+Valdivia
+Chillán
+Osorno
+Antofagasta
+La Serena
+Maipú
+Copiapó
+Calama
+Talcahuano
+Puerto Montt
+Talca
+Santiago
+Villa Alemana
+Valdivia
+Puerto Montt
+Calama
+Puerto Montt
+Antofagasta
+Villa Alemana
+San Antonio
+Rancagua
+Antofagasta
+Osorno
+Punta Arenas
+Talca
+Talcahuano
+Puerto Montt
+Punta Arenas
+Calama
+Santiago
+Villa Alemana
+Talcahuano
+San Antonio
+Temuco
+Quilpué
+La Florida
+Iquique
+La Serena
+Valdivia
+Los Ángeles
+Temuco
+Copiapó
+Coronel
+Quilpué
+Valparaíso
+Copiapó
+Puerto Montt
+Coquimbo
+Arica
+Punta Arenas
+Maipú
+Antofagasta
+Osorno
+Antofagasta
+Chillán
+Calama
+Peñalolén
+Rancagua
+Talca
+La Serena
+La Florida
+Ñuñoa
+Temuco
+Iquique
+Punta Arenas
+La Serena
+Antofagasta
+Los Ángeles
+Puente Alto
+Las Condes
+Copiapó
+Ñuñoa
+Chillán
+Osorno
+Osorno
+Talca
+Arica
+Santiago
+Arica
+Maipú
+La Serena
+Villa Alemana
+Chillán
+La Florida
+Talcahuano
+Arica
+Arica
+Ñuñoa
+Chillán
+Valdivia
+Iquique
+Coronel
+Temuco
+La Florida
+Puente Alto
+Antofagasta
+Puerto Montt
+Osorno
+La Florida
+Villa Alemana
+Osorno
+Punta Arenas
+Maipú
+Iquique
+Puente Alto
+La Serena
+Valdivia
+Quilpué
+Temuco
+Concepción
+Calama
+Coquimbo
+Concepción
+Chillán
+La Serena
+Talca
+Coquimbo
+Coronel
+Los Ángeles
+Antofagasta
+San Antonio
+Copiapó
+Puerto Montt
+Iquique
+Arica
+San Antonio
+Chillán
+Santiago
+Coronel
+San Antonio
+Las Condes
+Iquique
+Santiago
+San Antonio
+Santiago
+Coquimbo
+Maipú
+Peñalolén
+Chillán
+Arica
+Los Ángeles
+Iquique
+Coronel
+Punta Arenas
+Valparaíso
+Calama
+Valdivia
+Valdivia
+Puerto Montt
+Copiapó
+Chillán
+Punta Arenas
+Puerto Montt
+La Serena
+Talca
+Copiapó
+Los Ángeles
+Talca
+La Serena
+Temuco
+Chillán
+Valdivia
+Valparaíso
+Calama
+Copiapó
+Puente Alto
+Talca
+Rancagua
+Coquimbo
+Villa Alemana
+Puerto Montt
+Copiapó
+Temuco
+San Antonio
+Ñuñoa
+La Florida
+Maipú
+Antofagasta
+Ñuñoa
+Arica
+Coquimbo
+Antofagasta
+Puerto Montt
+Las Condes
+Maipú
+Puente Alto
+Copiapó
+Copiapó
+La Serena
+Osorno
+La Florida
+Santiago
+Los Ángeles
+Rancagua
+Peñalolén
+Coquimbo
+Maipú
+Talca
+Puerto Montt
+La Serena
+Calama
+Valdivia
+Coronel
+Las Condes
+Coquimbo
+Puerto Montt
+Valdivia
+La Serena
+Maipú
+Arica
+La Serena
+La Serena
+San Antonio
+Puente Alto
+Quilpué
+San Antonio
+La Serena
+Valparaíso
+San Antonio
+La Serena
+Puerto Montt
+Los Ángeles
+Puente Alto
+Chillán
+La Florida
+Talca
+Quilpué
+San Antonio
+Los Ángeles
+Los Ángeles
+Peñalolén
+Concepción
+San Antonio
+Temuco
+Las Condes
+Quilpué
+Punta Arenas
+Las Condes
+San Antonio
+Talca
+Maipú
+Iquique
+Punta Arenas
+Arica
+Puerto Montt
+Copiapó
+Peñalolén
+Coronel
+Santiago
+Los Ángeles
+La Serena
+Antofagasta
+Chillán
+Calama
+Concepción
+Antofagasta
+Peñalolén
+Chillán
+Calama
+Coronel
+La Serena
+Ñuñoa
+Iquique
+Osorno
+San Antonio
+Punta Arenas
+Iquique
+Rancagua
+Las Condes
+Las Condes
+Villa Alemana
+Santiago
+Las Condes
+Quilpué
+La Serena
+Los Ángeles
+Chillán
+Puerto Montt
+Arica
+Calama
+Quilpué
+Ñuñoa
+Arica
+Santiago
+Ñuñoa
+Punta Arenas
+Santiago
+Los Ángeles
+Rancagua
+Santiago
+Maipú
+Maipú
+Peñalolén
+Puente Alto
+Copiapó
+Villa Alemana
+Talcahuano
+Temuco
+Temuco
+Quilpué
+San Antonio
+Valparaíso
+La Florida
+Osorno
+Arica
+Las Condes
+La Serena
+Villa Alemana
+Villa Alemana
+Puente Alto
+Osorno
+Iquique
+Copiapó
+Talcahuano
+Puerto Montt
+Valparaíso
+Antofagasta
+Coronel
+Quilpué
+Talca
+Chillán
+Valdivia
+Arica
+Iquique
+Antofagasta
+Las Condes
+Valdivia
+San Antonio
+Iquique
+Copiapó
+Chillán
+Antofagasta
+Punta Arenas
+Santiago
+Ñuñoa
+Temuco
+Talca
+Copiapó
+Peñalolén
+Osorno
+Iquique
+Valdivia
+Temuco
+Valdivia
+Valparaíso
+Santiago
+Copiapó
+Santiago
+Coquimbo
+Quilpué
+Copiapó
+Santiago
+Los Ángeles
+La Florida
+La Serena
+La Florida
+Punta Arenas
+Puente Alto
+Copiapó
+Punta Arenas
+Santiago
+Santiago
+Coronel
+Talca
+Santiago
+Santiago
+Iquique
+Ñuñoa
+Rancagua
+Chillán
+Copiapó
+Antofagasta
+Copiapó
+Osorno
+La Florida
+Punta Arenas
+Talcahuano
+Calama
+San Antonio
+Temuco
+Maipú
+Talcahuano
+San Antonio
+La Florida
+San Antonio
+Antofagasta
+Valparaíso
+Ñuñoa
+Puente Alto
+Rancagua
+Santiago
+Chillán
+Concepción
+Valparaíso
+La Florida
+Copiapó
+Concepción
+Peñalolén
+Puente Alto
+Valdivia
+Quilpué
+Talcahuano
+Temuco
+Temuco
+Rancagua
+La Florida
+Coronel
+Quilpué
+Chillán
+Osorno
+San Antonio
+Osorno
+Temuco
+La Serena
+Coquimbo
+Arica
+Concepción
+Coquimbo
+La Florida
+Coronel
+Concepción
+Quilpué
+Copiapó
+Valparaíso
+Chillán
+Santiago
+Las Condes
+Puente Alto
+Los Ángeles
+Peñalolén
+Antofagasta
+Chillán
+Talcahuano
+Antofagasta
+Villa Alemana
+Los Ángeles
+Temuco
+Las Condes
+Las Condes
+Coronel
+Villa Alemana
+Puerto Montt
+La Florida
+Las Condes
+Ñuñoa
+Antofagasta
+Los Ángeles
+Copiapó
+Valdivia
+Rancagua
+Iquique
+Copiapó
+Puente Alto
+La Florida
+Talca
+Puerto Montt
+Quilpué
+Temuco
+Coronel
+Peñalolén
+Osorno
+Rancagua
+Copiapó
+Quilpué
+Puente Alto
+Peñalolén
+San Antonio
+Las Condes
+Copiapó
+Calama
+San Antonio
+San Antonio
+Arica
+Villa Alemana
+Iquique
+Coquimbo
+Villa Alemana
+Concepción
+Valparaíso
+Villa Alemana
+Antofagasta
+Puente Alto
+Puente Alto
+Talcahuano
+Talca
+Talca
+Coquimbo
+Coquimbo
+La Florida
+Punta Arenas
+Punta Arenas
+Coquimbo
+Chillán
+La Florida
+Antofagasta
+Peñalolén
+Punta Arenas
+San Antonio
+Talca
+Arica
+Osorno
+San Antonio
+Rancagua
+San Antonio
+Punta Arenas
+Las Condes
+Villa Alemana
+La Serena
+Peñalolén
+Valdivia
+Concepción
+Los Ángeles
+Villa Alemana
+Santiago
+Coquimbo
+Iquique
+Ñuñoa
+Copiapó
+Calama
+Coquimbo
+Rancagua
+Santiago
+Coronel
+San Antonio
+Antofagasta
+Quilpué
+Valdivia
+Concepción
+Arica
+Talcahuano
+Quilpué
+Villa Alemana
+Los Ángeles
+Puente Alto
+Valparaíso
+Maipú
+Peñalolén
+Los Ángeles
+La Florida
+Las Condes
+Ñuñoa
+Villa Alemana
+Puerto Montt
+Concepción
+Valdivia
+Chillán
+Quilpué
+Iquique
+San Antonio
+Los Ángeles
+Temuco
+San Antonio
+Valparaíso
+Temuco
+Chillán
+Villa Alemana
+Puente Alto
+Ñuñoa
+Punta Arenas
+Villa Alemana
+Los Ángeles
+Talcahuano
+Coronel
+La Serena
+Arica
+Iquique
+La Florida
+Arica
+Ñuñoa
+Copiapó
+Concepción
+Maipú
+Concepción
+Copiapó
+Villa Alemana
+La Serena
+Calama
+San Antonio
+Temuco
+Punta Arenas
+Arica
+Iquique
+Maipú
+Punta Arenas
+Puerto Montt
+Copiapó
+Talcahuano
+Calama
+Arica
+Quilpué
+Arica
+Valparaíso
+Las Condes
+Valparaíso
+Quilpué
+La Florida
+Temuco
+Valdivia
+Temuco
+Copiapó
+Ñuñoa
+Puente Alto
+Punta Arenas
+Osorno
+Coquimbo
+Talcahuano
+Copiapó
+Las Condes
+Santiago
+Peñalolén
+Calama
+Los Ángeles
+Temuco
+Santiago
+Las Condes
+Valparaíso
+Copiapó
+San Antonio
+Los Ángeles
+Santiago
+Coquimbo
+Chillán
+Maipú
+Santiago
+Concepción
+Quilpué
+Peñalolén
+Calama
+Puerto Montt
+La Florida
+Rancagua
+Puente Alto
+Los Ángeles
+Los Ángeles
+Iquique
+Chillán
+Iquique
+Los Ángeles
+Antofagasta
+Los Ángeles
+Ñuñoa
+Villa Alemana
+Antofagasta
+Iquique
+Coquimbo
+Las Condes
+Peñalolén
+Coronel
+Puente Alto
+Coquimbo
+La Florida
+San Antonio
+Valdivia
+Punta Arenas
+Santiago
+Coronel
+Coronel
+Copiapó
+Arica
+Valdivia
+Las Condes
+Villa Alemana
+Talcahuano
+Santiago
+Santiago
+La Serena
+Iquique
+Coronel
+San Antonio

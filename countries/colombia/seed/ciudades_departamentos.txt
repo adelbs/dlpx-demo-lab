@@ -1,0 +1,1000 @@
+Mocoa, Putumayo
+Mocoa, Putumayo
+Armenia, Quindío
+Quibdó, Chocó
+Pereira, Risaralda
+Barranquilla, Atlántico
+Sincelejo, Sucre
+Popayán, Cauca
+Soacha, Cundinamarca
+Cartagena, Bolívar
+Bogotá, Cundinamarca
+Itagüí, Antioquia
+Mocoa, Putumayo
+Mocoa, Putumayo
+Soledad, Atlántico
+Dosquebradas, Risaralda
+Leticia, Amazonas
+Santa Marta, Magdalena
+Envigado, Antioquia
+Valledupar, Cesar
+Montería, Córdoba
+Bucaramanga, Santander
+Buenaventura, Valle del Cauca
+Santa Marta, Magdalena
+Leticia, Amazonas
+Bucaramanga, Santander
+Ibagué, Tolima
+Cali, Valle del Cauca
+Palmira, Valle del Cauca
+Floridablanca, Santander
+Pereira, Risaralda
+Barranquilla, Atlántico
+Puerto Inírida, Guainía
+Bucaramanga, Santander
+Floridablanca, Santander
+Cali, Valle del Cauca
+Soledad, Atlántico
+Armenia, Quindío
+Armenia, Quindío
+Sincelejo, Sucre
+Cali, Valle del Cauca
+Cúcuta, Norte de Santander
+Sincelejo, Sucre
+Neiva, Huila
+Bello, Antioquia
+Puerto Inírida, Guainía
+Neiva, Huila
+Bello, Antioquia
+Ibagué, Tolima
+Pereira, Risaralda
+Buenaventura, Valle del Cauca
+Puerto Inírida, Guainía
+Popayán, Cauca
+Buenaventura, Valle del Cauca
+Leticia, Amazonas
+Popayán, Cauca
+Floridablanca, Santander
+Montería, Córdoba
+Pasto, Nariño
+Ibagué, Tolima
+Riohacha, La Guajira
+Villavicencio, Meta
+Soledad, Atlántico
+Cartagena, Bolívar
+Palmira, Valle del Cauca
+Riohacha, La Guajira
+Villavicencio, Meta
+Bogotá, Cundinamarca
+Bogotá, Cundinamarca
+Dosquebradas, Risaralda
+Puerto Inírida, Guainía
+Riohacha, La Guajira
+Santa Marta, Magdalena
+Floridablanca, Santander
+Itagüí, Antioquia
+Ibagué, Tolima
+Itagüí, Antioquia
+Ibagué, Tolima
+Quibdó, Chocó
+Buenaventura, Valle del Cauca
+Bello, Antioquia
+Dosquebradas, Risaralda
+Villavicencio, Meta
+Riohacha, La Guajira
+Cúcuta, Norte de Santander
+Soacha, Cundinamarca
+Cartagena, Bolívar
+Montería, Córdoba
+Mocoa, Putumayo
+Soledad, Atlántico
+Buenaventura, Valle del Cauca
+Sincelejo, Sucre
+Cúcuta, Norte de Santander
+Pereira, Risaralda
+Soacha, Cundinamarca
+Villavicencio, Meta
+Quibdó, Chocó
+Puerto Inírida, Guainía
+Neiva, Huila
+Manizales, Caldas
+Cartagena, Bolívar
+Floridablanca, Santander
+Floridablanca, Santander
+Cartagena, Bolívar
+Santa Marta, Magdalena
+Cartagena, Bolívar
+Palmira, Valle del Cauca
+Envigado, Antioquia
+Soledad, Atlántico
+Cali, Valle del Cauca
+Palmira, Valle del Cauca
+Soledad, Atlántico
+Cúcuta, Norte de Santander
+Riohacha, La Guajira
+Dosquebradas, Risaralda
+Envigado, Antioquia
+Pasto, Nariño
+Floridablanca, Santander
+Mocoa, Putumayo
+Ibagué, Tolima
+Cúcuta, Norte de Santander
+Envigado, Antioquia
+Cartagena, Bolívar
+Manizales, Caldas
+Cali, Valle del Cauca
+Barranquilla, Atlántico
+Buenaventura, Valle del Cauca
+Neiva, Huila
+Popayán, Cauca
+Puerto Inírida, Guainía
+Cúcuta, Norte de Santander
+Palmira, Valle del Cauca
+Riohacha, La Guajira
+Buenaventura, Valle del Cauca
+Valledupar, Cesar
+Floridablanca, Santander
+Quibdó, Chocó
+Ibagué, Tolima
+Palmira, Valle del Cauca
+Bucaramanga, Santander
+Bello, Antioquia
+Soacha, Cundinamarca
+Dosquebradas, Risaralda
+Manizales, Caldas
+Santa Marta, Magdalena
+Dosquebradas, Risaralda
+Soacha, Cundinamarca
+Villavicencio, Meta
+Popayán, Cauca
+Envigado, Antioquia
+Buenaventura, Valle del Cauca
+Bogotá, Cundinamarca
+Cali, Valle del Cauca
+Cartagena, Bolívar
+Itagüí, Antioquia
+Soledad, Atlántico
+Mocoa, Putumayo
+Floridablanca, Santander
+Villavicencio, Meta
+Armenia, Quindío
+Dosquebradas, Risaralda
+Pereira, Risaralda
+Soacha, Cundinamarca
+Bogotá, Cundinamarca
+Cúcuta, Norte de Santander
+Medellín, Antioquia
+Cartagena, Bolívar
+Cali, Valle del Cauca
+Pasto, Nariño
+Palmira, Valle del Cauca
+Popayán, Cauca
+Leticia, Amazonas
+Popayán, Cauca
+Sincelejo, Sucre
+Soacha, Cundinamarca
+Floridablanca, Santander
+Floridablanca, Santander
+Leticia, Amazonas
+Soledad, Atlántico
+Pasto, Nariño
+Floridablanca, Santander
+Pereira, Risaralda
+Riohacha, La Guajira
+Dosquebradas, Risaralda
+Puerto Inírida, Guainía
+Buenaventura, Valle del Cauca
+Palmira, Valle del Cauca
+Leticia, Amazonas
+Manizales, Caldas
+Itagüí, Antioquia
+Ibagué, Tolima
+Bucaramanga, Santander
+Armenia, Quindío
+Ibagué, Tolima
+Quibdó, Chocó
+Valledupar, Cesar
+Bogotá, Cundinamarca
+Mocoa, Putumayo
+Cúcuta, Norte de Santander
+Leticia, Amazonas
+Armenia, Quindío
+Valledupar, Cesar
+Armenia, Quindío
+Floridablanca, Santander
+Montería, Córdoba
+Bello, Antioquia
+Bogotá, Cundinamarca
+Puerto Inírida, Guainía
+Cali, Valle del Cauca
+Bogotá, Cundinamarca
+Villavicencio, Meta
+Popayán, Cauca
+Sincelejo, Sucre
+Cali, Valle del Cauca
+Cúcuta, Norte de Santander
+Cali, Valle del Cauca
+Barranquilla, Atlántico
+Neiva, Huila
+Neiva, Huila
+Neiva, Huila
+Envigado, Antioquia
+Valledupar, Cesar
+Armenia, Quindío
+Armenia, Quindío
+Pereira, Risaralda
+Riohacha, La Guajira
+Villavicencio, Meta
+Soledad, Atlántico
+Manizales, Caldas
+Quibdó, Chocó
+Riohacha, La Guajira
+Medellín, Antioquia
+Medellín, Antioquia
+Puerto Inírida, Guainía
+Bucaramanga, Santander
+Envigado, Antioquia
+Bello, Antioquia
+Bogotá, Cundinamarca
+Medellín, Antioquia
+Bogotá, Cundinamarca
+Bello, Antioquia
+Envigado, Antioquia
+Dosquebradas, Risaralda
+Itagüí, Antioquia
+Quibdó, Chocó
+Pasto, Nariño
+Dosquebradas, Risaralda
+Puerto Inírida, Guainía
+Santa Marta, Magdalena
+Cartagena, Bolívar
+Bucaramanga, Santander
+Soacha, Cundinamarca
+Leticia, Amazonas
+Quibdó, Chocó
+Dosquebradas, Risaralda
+Neiva, Huila
+Bello, Antioquia
+Cali, Valle del Cauca
+Ibagué, Tolima
+Leticia, Amazonas
+Mocoa, Putumayo
+Cali, Valle del Cauca
+Barranquilla, Atlántico
+Valledupar, Cesar
+Pasto, Nariño
+Sincelejo, Sucre
+Mocoa, Putumayo
+Pasto, Nariño
+Dosquebradas, Risaralda
+Neiva, Huila
+Santa Marta, Magdalena
+Montería, Córdoba
+Santa Marta, Magdalena
+Cali, Valle del Cauca
+Cali, Valle del Cauca
+Villavicencio, Meta
+Armenia, Quindío
+Dosquebradas, Risaralda
+Ibagué, Tolima
+Valledupar, Cesar
+Valledupar, Cesar
+Pereira, Risaralda
+Montería, Córdoba
+Popayán, Cauca
+Sincelejo, Sucre
+Mocoa, Putumayo
+Dosquebradas, Risaralda
+Cartagena, Bolívar
+Cali, Valle del Cauca
+Pasto, Nariño
+Medellín, Antioquia
+Palmira, Valle del Cauca
+Mocoa, Putumayo
+Soledad, Atlántico
+Palmira, Valle del Cauca
+Ibagué, Tolima
+Valledupar, Cesar
+Bucaramanga, Santander
+Pereira, Risaralda
+Buenaventura, Valle del Cauca
+Cartagena, Bolívar
+Puerto Inírida, Guainía
+Dosquebradas, Risaralda
+Dosquebradas, Risaralda
+Riohacha, La Guajira
+Pasto, Nariño
+Villavicencio, Meta
+Itagüí, Antioquia
+Neiva, Huila
+Barranquilla, Atlántico
+Neiva, Huila
+Floridablanca, Santander
+Manizales, Caldas
+Cartagena, Bolívar
+Dosquebradas, Risaralda
+Neiva, Huila
+Barranquilla, Atlántico
+Sincelejo, Sucre
+Riohacha, La Guajira
+Cartagena, Bolívar
+Buenaventura, Valle del Cauca
+Valledupar, Cesar
+Mocoa, Putumayo
+Itagüí, Antioquia
+Puerto Inírida, Guainía
+Pereira, Risaralda
+Villavicencio, Meta
+Soacha, Cundinamarca
+Palmira, Valle del Cauca
+Pasto, Nariño
+Palmira, Valle del Cauca
+Valledupar, Cesar
+Puerto Inírida, Guainía
+Bogotá, Cundinamarca
+Bogotá, Cundinamarca
+Popayán, Cauca
+Buenaventura, Valle del Cauca
+Envigado, Antioquia
+Popayán, Cauca
+Floridablanca, Santander
+Leticia, Amazonas
+Bogotá, Cundinamarca
+Buenaventura, Valle del Cauca
+Bogotá, Cundinamarca
+Palmira, Valle del Cauca
+Quibdó, Chocó
+Cúcuta, Norte de Santander
+Dosquebradas, Risaralda
+Floridablanca, Santander
+Soacha, Cundinamarca
+Dosquebradas, Risaralda
+Armenia, Quindío
+Puerto Inírida, Guainía
+Palmira, Valle del Cauca
+Cúcuta, Norte de Santander
+Leticia, Amazonas
+Santa Marta, Magdalena
+Neiva, Huila
+Bucaramanga, Santander
+Cali, Valle del Cauca
+Villavicencio, Meta
+Pereira, Risaralda
+Popayán, Cauca
+Dosquebradas, Risaralda
+Soledad, Atlántico
+Soledad, Atlántico
+Villavicencio, Meta
+Soacha, Cundinamarca
+Puerto Inírida, Guainía
+Dosquebradas, Risaralda
+Envigado, Antioquia
+Villavicencio, Meta
+Dosquebradas, Risaralda
+Itagüí, Antioquia
+Pereira, Risaralda
+Barranquilla, Atlántico
+Santa Marta, Magdalena
+Bello, Antioquia
+Leticia, Amazonas
+Bucaramanga, Santander
+Cúcuta, Norte de Santander
+Mocoa, Putumayo
+Cúcuta, Norte de Santander
+Villavicencio, Meta
+Riohacha, La Guajira
+Montería, Córdoba
+Pereira, Risaralda
+Popayán, Cauca
+Itagüí, Antioquia
+Quibdó, Chocó
+Santa Marta, Magdalena
+Soacha, Cundinamarca
+Valledupar, Cesar
+Palmira, Valle del Cauca
+Pereira, Risaralda
+Valledupar, Cesar
+Santa Marta, Magdalena
+Bucaramanga, Santander
+Bello, Antioquia
+Manizales, Caldas
+Neiva, Huila
+Pereira, Risaralda
+Mocoa, Putumayo
+Floridablanca, Santander
+Barranquilla, Atlántico
+Montería, Córdoba
+Bucaramanga, Santander
+Soledad, Atlántico
+Itagüí, Antioquia
+Puerto Inírida, Guainía
+Barranquilla, Atlántico
+Soacha, Cundinamarca
+Pasto, Nariño
+Soacha, Cundinamarca
+Bello, Antioquia
+Neiva, Huila
+Villavicencio, Meta
+Puerto Inírida, Guainía
+Popayán, Cauca
+Popayán, Cauca
+Neiva, Huila
+Sincelejo, Sucre
+Soledad, Atlántico
+Bello, Antioquia
+Soacha, Cundinamarca
+Pasto, Nariño
+Valledupar, Cesar
+Valledupar, Cesar
+Popayán, Cauca
+Palmira, Valle del Cauca
+Leticia, Amazonas
+Cartagena, Bolívar
+Floridablanca, Santander
+Mocoa, Putumayo
+Bello, Antioquia
+Cali, Valle del Cauca
+Montería, Córdoba
+Santa Marta, Magdalena
+Leticia, Amazonas
+Valledupar, Cesar
+Montería, Córdoba
+Cúcuta, Norte de Santander
+Quibdó, Chocó
+Manizales, Caldas
+Cúcuta, Norte de Santander
+Villavicencio, Meta
+Floridablanca, Santander
+Medellín, Antioquia
+Buenaventura, Valle del Cauca
+Palmira, Valle del Cauca
+Soledad, Atlántico
+Valledupar, Cesar
+Soledad, Atlántico
+Montería, Córdoba
+Cali, Valle del Cauca
+Bello, Antioquia
+Envigado, Antioquia
+Palmira, Valle del Cauca
+Armenia, Quindío
+Riohacha, La Guajira
+Envigado, Antioquia
+Riohacha, La Guajira
+Ibagué, Tolima
+Cali, Valle del Cauca
+Popayán, Cauca
+Villavicencio, Meta
+Medellín, Antioquia
+Montería, Córdoba
+Envigado, Antioquia
+Manizales, Caldas
+Floridablanca, Santander
+Cali, Valle del Cauca
+Cali, Valle del Cauca
+Quibdó, Chocó
+Mocoa, Putumayo
+Quibdó, Chocó
+Montería, Córdoba
+Armenia, Quindío
+Envigado, Antioquia
+Pasto, Nariño
+Itagüí, Antioquia
+Itagüí, Antioquia
+Riohacha, La Guajira
+Sincelejo, Sucre
+Puerto Inírida, Guainía
+Envigado, Antioquia
+Barranquilla, Atlántico
+Montería, Córdoba
+Riohacha, La Guajira
+Cali, Valle del Cauca
+Dosquebradas, Risaralda
+Pasto, Nariño
+Sincelejo, Sucre
+Itagüí, Antioquia
+Floridablanca, Santander
+Floridablanca, Santander
+Bogotá, Cundinamarca
+Dosquebradas, Risaralda
+Itagüí, Antioquia
+Itagüí, Antioquia
+Mocoa, Putumayo
+Pasto, Nariño
+Neiva, Huila
+Ibagué, Tolima
+Sincelejo, Sucre
+Envigado, Antioquia
+Envigado, Antioquia
+Barranquilla, Atlántico
+Barranquilla, Atlántico
+Leticia, Amazonas
+Leticia, Amazonas
+Neiva, Huila
+Pereira, Risaralda
+Quibdó, Chocó
+Montería, Córdoba
+Pereira, Risaralda
+Armenia, Quindío
+Barranquilla, Atlántico
+Neiva, Huila
+Quibdó, Chocó
+Popayán, Cauca
+Itagüí, Antioquia
+Ibagué, Tolima
+Medellín, Antioquia
+Mocoa, Putumayo
+Bello, Antioquia
+Leticia, Amazonas
+Envigado, Antioquia
+Valledupar, Cesar
+Popayán, Cauca
+Cartagena, Bolívar
+Medellín, Antioquia
+Cali, Valle del Cauca
+Palmira, Valle del Cauca
+Quibdó, Chocó
+Dosquebradas, Risaralda
+Manizales, Caldas
+Valledupar, Cesar
+Itagüí, Antioquia
+Buenaventura, Valle del Cauca
+Cartagena, Bolívar
+Ibagué, Tolima
+Pasto, Nariño
+Valledupar, Cesar
+Montería, Córdoba
+Mocoa, Putumayo
+Dosquebradas, Risaralda
+Envigado, Antioquia
+Dosquebradas, Risaralda
+Cúcuta, Norte de Santander
+Dosquebradas, Risaralda
+Riohacha, La Guajira
+Bucaramanga, Santander
+Bucaramanga, Santander
+Pasto, Nariño
+Pereira, Risaralda
+Mocoa, Putumayo
+Envigado, Antioquia
+Santa Marta, Magdalena
+Montería, Córdoba
+Mocoa, Putumayo
+Montería, Córdoba
+Cúcuta, Norte de Santander
+Cartagena, Bolívar
+Ibagué, Tolima
+Neiva, Huila
+Medellín, Antioquia
+Bucaramanga, Santander
+Montería, Córdoba
+Cúcuta, Norte de Santander
+Puerto Inírida, Guainía
+Buenaventura, Valle del Cauca
+Manizales, Caldas
+Popayán, Cauca
+Riohacha, La Guajira
+Sincelejo, Sucre
+Montería, Córdoba
+Bello, Antioquia
+Itagüí, Antioquia
+Cali, Valle del Cauca
+Manizales, Caldas
+Pasto, Nariño
+Barranquilla, Atlántico
+Soledad, Atlántico
+Ibagué, Tolima
+Santa Marta, Magdalena
+Neiva, Huila
+Cali, Valle del Cauca
+Leticia, Amazonas
+Floridablanca, Santander
+Cúcuta, Norte de Santander
+Pasto, Nariño
+Riohacha, La Guajira
+Envigado, Antioquia
+Medellín, Antioquia
+Manizales, Caldas
+Villavicencio, Meta
+Manizales, Caldas
+Popayán, Cauca
+Cartagena, Bolívar
+Leticia, Amazonas
+Medellín, Antioquia
+Buenaventura, Valle del Cauca
+Soledad, Atlántico
+Montería, Córdoba
+Bello, Antioquia
+Mocoa, Putumayo
+Barranquilla, Atlántico
+Ibagué, Tolima
+Itagüí, Antioquia
+Pereira, Risaralda
+Sincelejo, Sucre
+Palmira, Valle del Cauca
+Palmira, Valle del Cauca
+Barranquilla, Atlántico
+Palmira, Valle del Cauca
+Pasto, Nariño
+Buenaventura, Valle del Cauca
+Palmira, Valle del Cauca
+Buenaventura, Valle del Cauca
+Palmira, Valle del Cauca
+Soacha, Cundinamarca
+Neiva, Huila
+Popayán, Cauca
+Manizales, Caldas
+Bucaramanga, Santander
+Pasto, Nariño
+Itagüí, Antioquia
+Pereira, Risaralda
+Bucaramanga, Santander
+Bucaramanga, Santander
+Bello, Antioquia
+Mocoa, Putumayo
+Itagüí, Antioquia
+Floridablanca, Santander
+Envigado, Antioquia
+Itagüí, Antioquia
+Riohacha, La Guajira
+Neiva, Huila
+Cali, Valle del Cauca
+Pereira, Risaralda
+Villavicencio, Meta
+Sincelejo, Sucre
+Buenaventura, Valle del Cauca
+Ibagué, Tolima
+Itagüí, Antioquia
+Cali, Valle del Cauca
+Armenia, Quindío
+Mocoa, Putumayo
+Armenia, Quindío
+Armenia, Quindío
+Neiva, Huila
+Floridablanca, Santander
+Armenia, Quindío
+Soledad, Atlántico
+Pereira, Risaralda
+Ibagué, Tolima
+Villavicencio, Meta
+Cali, Valle del Cauca
+Soledad, Atlántico
+Armenia, Quindío
+Ibagué, Tolima
+Soledad, Atlántico
+Neiva, Huila
+Bello, Antioquia
+Sincelejo, Sucre
+Pereira, Risaralda
+Floridablanca, Santander
+Cali, Valle del Cauca
+Pereira, Risaralda
+Manizales, Caldas
+Envigado, Antioquia
+Mocoa, Putumayo
+Sincelejo, Sucre
+Riohacha, La Guajira
+Pasto, Nariño
+Ibagué, Tolima
+Villavicencio, Meta
+Itagüí, Antioquia
+Popayán, Cauca
+Armenia, Quindío
+Itagüí, Antioquia
+Cartagena, Bolívar
+Neiva, Huila
+Cartagena, Bolívar
+Puerto Inírida, Guainía
+Cartagena, Bolívar
+Soacha, Cundinamarca
+Soacha, Cundinamarca
+Santa Marta, Magdalena
+Bucaramanga, Santander
+Barranquilla, Atlántico
+Palmira, Valle del Cauca
+Leticia, Amazonas
+Sincelejo, Sucre
+Barranquilla, Atlántico
+Santa Marta, Magdalena
+Santa Marta, Magdalena
+Riohacha, La Guajira
+Cartagena, Bolívar
+Leticia, Amazonas
+Palmira, Valle del Cauca
+Envigado, Antioquia
+Bogotá, Cundinamarca
+Bello, Antioquia
+Pereira, Risaralda
+Riohacha, La Guajira
+Riohacha, La Guajira
+Montería, Córdoba
+Villavicencio, Meta
+Puerto Inírida, Guainía
+Envigado, Antioquia
+Buenaventura, Valle del Cauca
+Riohacha, La Guajira
+Popayán, Cauca
+Villavicencio, Meta
+Riohacha, La Guajira
+Cartagena, Bolívar
+Villavicencio, Meta
+Puerto Inírida, Guainía
+Itagüí, Antioquia
+Medellín, Antioquia
+Neiva, Huila
+Sincelejo, Sucre
+Palmira, Valle del Cauca
+Itagüí, Antioquia
+Soacha, Cundinamarca
+Montería, Córdoba
+Bucaramanga, Santander
+Mocoa, Putumayo
+Santa Marta, Magdalena
+Mocoa, Putumayo
+Bogotá, Cundinamarca
+Villavicencio, Meta
+Mocoa, Putumayo
+Floridablanca, Santander
+Pasto, Nariño
+Ibagué, Tolima
+Valledupar, Cesar
+Valledupar, Cesar
+Ibagué, Tolima
+Floridablanca, Santander
+Cartagena, Bolívar
+Manizales, Caldas
+Armenia, Quindío
+Pereira, Risaralda
+Riohacha, La Guajira
+Itagüí, Antioquia
+Leticia, Amazonas
+Ibagué, Tolima
+Neiva, Huila
+Palmira, Valle del Cauca
+Puerto Inírida, Guainía
+Villavicencio, Meta
+Armenia, Quindío
+Pasto, Nariño
+Barranquilla, Atlántico
+Villavicencio, Meta
+Dosquebradas, Risaralda
+Manizales, Caldas
+Soacha, Cundinamarca
+Quibdó, Chocó
+Cúcuta, Norte de Santander
+Puerto Inírida, Guainía
+Dosquebradas, Risaralda
+Itagüí, Antioquia
+Ibagué, Tolima
+Manizales, Caldas
+Sincelejo, Sucre
+Montería, Córdoba
+Leticia, Amazonas
+Pereira, Risaralda
+Valledupar, Cesar
+Dosquebradas, Risaralda
+Popayán, Cauca
+Barranquilla, Atlántico
+Santa Marta, Magdalena
+Cali, Valle del Cauca
+Itagüí, Antioquia
+Bogotá, Cundinamarca
+Bucaramanga, Santander
+Armenia, Quindío
+Cartagena, Bolívar
+Montería, Córdoba
+Pasto, Nariño
+Armenia, Quindío
+Quibdó, Chocó
+Popayán, Cauca
+Pasto, Nariño
+Puerto Inírida, Guainía
+Puerto Inírida, Guainía
+Quibdó, Chocó
+Soledad, Atlántico
+Soledad, Atlántico
+Itagüí, Antioquia
+Ibagué, Tolima
+Soledad, Atlántico
+Medellín, Antioquia
+Cúcuta, Norte de Santander
+Pasto, Nariño
+Neiva, Huila
+Bogotá, Cundinamarca
+Dosquebradas, Risaralda
+Cúcuta, Norte de Santander
+Floridablanca, Santander
+Cartagena, Bolívar
+Palmira, Valle del Cauca
+Cali, Valle del Cauca
+Leticia, Amazonas
+Villavicencio, Meta
+Soledad, Atlántico
+Envigado, Antioquia
+Barranquilla, Atlántico
+Envigado, Antioquia
+Soledad, Atlántico
+Pasto, Nariño
+Manizales, Caldas
+Manizales, Caldas
+Puerto Inírida, Guainía
+Bucaramanga, Santander
+Soacha, Cundinamarca
+Bogotá, Cundinamarca
+Soacha, Cundinamarca
+Mocoa, Putumayo
+Quibdó, Chocó
+Sincelejo, Sucre
+Itagüí, Antioquia
+Pasto, Nariño
+Soledad, Atlántico
+Cali, Valle del Cauca
+Montería, Córdoba
+Palmira, Valle del Cauca
+Sincelejo, Sucre
+Soacha, Cundinamarca
+Bucaramanga, Santander
+Riohacha, La Guajira
+Pasto, Nariño
+Ibagué, Tolima
+Floridablanca, Santander
+Itagüí, Antioquia
+Mocoa, Putumayo
+Cartagena, Bolívar
+Villavicencio, Meta
+Cúcuta, Norte de Santander
+Bucaramanga, Santander
+Puerto Inírida, Guainía
+Cartagena, Bolívar
+Palmira, Valle del Cauca
+Leticia, Amazonas
+Cúcuta, Norte de Santander
+Popayán, Cauca
+Valledupar, Cesar
+Cartagena, Bolívar
+Cali, Valle del Cauca
+Valledupar, Cesar
+Medellín, Antioquia
+Soledad, Atlántico
+Cali, Valle del Cauca
+Bello, Antioquia
+Pereira, Risaralda
+Leticia, Amazonas
+Bogotá, Cundinamarca
+Valledupar, Cesar
+Palmira, Valle del Cauca
+Soledad, Atlántico
+Sincelejo, Sucre
+Sincelejo, Sucre
+Leticia, Amazonas
+Palmira, Valle del Cauca
+Valledupar, Cesar
+Floridablanca, Santander
+Itagüí, Antioquia
+Soacha, Cundinamarca
+Cartagena, Bolívar
+Bello, Antioquia
+Leticia, Amazonas
+Cartagena, Bolívar
+Ibagué, Tolima
+Neiva, Huila
+Popayán, Cauca
+Riohacha, La Guajira
+Cúcuta, Norte de Santander
+Sincelejo, Sucre
+Cali, Valle del Cauca
+Itagüí, Antioquia
+Cali, Valle del Cauca
+Riohacha, La Guajira
+Envigado, Antioquia
+Envigado, Antioquia
+Quibdó, Chocó
+Soledad, Atlántico
+Mocoa, Putumayo
+Valledupar, Cesar
+Riohacha, La Guajira
+Buenaventura, Valle del Cauca
+Floridablanca, Santander
+Buenaventura, Valle del Cauca
+Montería, Córdoba
+Puerto Inírida, Guainía
+Bogotá, Cundinamarca
+Bello, Antioquia
+Envigado, Antioquia
+Quibdó, Chocó
+Soacha, Cundinamarca
+Pereira, Risaralda
+Barranquilla, Atlántico
+Cali, Valle del Cauca
+Quibdó, Chocó
+Soledad, Atlántico
+Palmira, Valle del Cauca
+Itagüí, Antioquia
+Popayán, Cauca
+Bogotá, Cundinamarca
+Envigado, Antioquia
+Bogotá, Cundinamarca
+Soledad, Atlántico
+Palmira, Valle del Cauca
+Manizales, Caldas
+Puerto Inírida, Guainía
+Santa Marta, Magdalena
+Riohacha, La Guajira
+Santa Marta, Magdalena
+Villavicencio, Meta
+Bogotá, Cundinamarca
+Medellín, Antioquia
+Dosquebradas, Risaralda
+Quibdó, Chocó
+Puerto Inírida, Guainía
+Leticia, Amazonas
+Puerto Inírida, Guainía
+Manizales, Caldas
+Barranquilla, Atlántico
+Barranquilla, Atlántico
+Floridablanca, Santander
+Itagüí, Antioquia
+Dosquebradas, Risaralda
+Mocoa, Putumayo
+Armenia, Quindío
+Villavicencio, Meta
+Cali, Valle del Cauca
+Quibdó, Chocó
+Neiva, Huila
+Manizales, Caldas
+Villavicencio, Meta
+Medellín, Antioquia
+Soledad, Atlántico
+Buenaventura, Valle del Cauca
+Villavicencio, Meta
+Envigado, Antioquia
+Palmira, Valle del Cauca
+Quibdó, Chocó
+Bello, Antioquia
+Valledupar, Cesar
+Pasto, Nariño
+Ibagué, Tolima
+Valledupar, Cesar
+Ibagué, Tolima
+Valledupar, Cesar
+Ibagué, Tolima
+Manizales, Caldas
+Medellín, Antioquia
+Sincelejo, Sucre
+Pasto, Nariño
+Armenia, Quindío
+Dosquebradas, Risaralda
+Soledad, Atlántico
+Santa Marta, Magdalena
+Neiva, Huila
+Itagüí, Antioquia
+Barranquilla, Atlántico
+Ibagué, Tolima
+Puerto Inírida, Guainía
+Medellín, Antioquia
+Sincelejo, Sucre
+Bello, Antioquia
+Puerto Inírida, Guainía
+Puerto Inírida, Guainía
+Soacha, Cundinamarca
+Leticia, Amazonas
+Bucaramanga, Santander
+Bello, Antioquia
+Envigado, Antioquia
+Cúcuta, Norte de Santander
+Ibagué, Tolima
+Palmira, Valle del Cauca
+Quibdó, Chocó
+Leticia, Amazonas
+Leticia, Amazonas
+Neiva, Huila
+Soledad, Atlántico
+Santa Marta, Magdalena
+Manizales, Caldas
+Cúcuta, Norte de Santander
+Mocoa, Putumayo
+Itagüí, Antioquia
+Bello, Antioquia
+Bello, Antioquia
+Villavicencio, Meta
+Soledad, Atlántico
+Cali, Valle del Cauca

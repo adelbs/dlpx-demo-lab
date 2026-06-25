@@ -1,0 +1,1000 @@
+São Luís - MA
+Diadema - SP
+Porto Alegre - RS
+Mogi das Cruzes - SP
+Serra - ES
+Olinda - PE
+Campinas - SP
+Porto Alegre - RS
+João Pessoa - PB
+Piracicaba - SP
+Macapá - AP
+Porto Velho - RO
+Porto Alegre - RS
+Feira de Santana - BA
+Jundiaí - SP
+Goiânia - GO
+Diadema - SP
+Florianópolis - SC
+Belém - PA
+Osasco - SP
+Fortaleza - CE
+Caxias do Sul - RS
+Serra - ES
+Cabo Frio - RJ
+Recife - PE
+Guarulhos - SP
+Osasco - SP
+Goiânia - GO
+Cabo Frio - RJ
+Rio de Janeiro - RJ
+São José dos Campos - SP
+Osasco - SP
+Aracaju - SE
+Aracaju - SE
+João Pessoa - PB
+Cuiabá - MT
+Vila Velha - ES
+Santos - SP
+Vila Velha - ES
+Campo Grande - MS
+Goiânia - GO
+Jundiaí - SP
+Campinas - SP
+Manaus - AM
+Porto Alegre - RS
+Guarulhos - SP
+Rio de Janeiro - RJ
+São José dos Campos - SP
+Ananindeua - PA
+Ananindeua - PA
+Campo Grande - MS
+Betim - MG
+Florianópolis - SC
+Ananindeua - PA
+São Gonçalo - RJ
+Betim - MG
+São Gonçalo - RJ
+São Gonçalo - RJ
+Olinda - PE
+Rio de Janeiro - RJ
+Jaboatão dos Guararapes - PE
+Curitiba - PR
+Piracicaba - SP
+Jundiaí - SP
+Juiz de Fora - MG
+Porto Alegre - RS
+Londrina - PR
+Betim - MG
+Juiz de Fora - MG
+Macapá - AP
+Diadema - SP
+Contagem - MG
+Guarulhos - SP
+Uberlândia - MG
+Aparecida de Goiânia - GO
+Juiz de Fora - MG
+Porto Alegre - RS
+Belém - PA
+Campinas - SP
+São Gonçalo - RJ
+Belo Horizonte - MG
+Aracaju - SE
+São José dos Campos - SP
+São Paulo - SP
+Campo Grande - MS
+Aracaju - SE
+São Gonçalo - RJ
+Vila Velha - ES
+Niterói - RJ
+Campinas - SP
+São José dos Campos - SP
+São Luís - MA
+Fortaleza - CE
+Guarulhos - SP
+Cuiabá - MT
+Ananindeua - PA
+Aparecida de Goiânia - GO
+Piracicaba - SP
+Osasco - SP
+Joinville - SC
+Maceió - AL
+Feira de Santana - BA
+Sorocaba - SP
+Jundiaí - SP
+Belo Horizonte - MG
+Betim - MG
+Vila Velha - ES
+Uberlândia - MG
+Cabo Frio - RJ
+Osasco - SP
+Sorocaba - SP
+Ananindeua - PA
+Vila Velha - ES
+Florianópolis - SC
+Betim - MG
+Serra - ES
+Porto Velho - RO
+Diadema - SP
+Macapá - AP
+Belo Horizonte - MG
+Porto Velho - RO
+Manaus - AM
+Cuiabá - MT
+Joinville - SC
+Belo Horizonte - MG
+Maceió - AL
+Porto Velho - RO
+Serra - ES
+Sorocaba - SP
+Vila Velha - ES
+Belo Horizonte - MG
+Caxias do Sul - RS
+Uberlândia - MG
+Porto Velho - RO
+São José dos Campos - SP
+Santos - SP
+Salvador - BA
+Campinas - SP
+Teresina - PI
+Cuiabá - MT
+Sorocaba - SP
+João Pessoa - PB
+Jundiaí - SP
+Teresina - PI
+Joinville - SC
+Belém - PA
+Feira de Santana - BA
+Teresina - PI
+Ananindeua - PA
+Salvador - BA
+Piracicaba - SP
+Porto Velho - RO
+Goiânia - GO
+Joinville - SC
+Diadema - SP
+Cuiabá - MT
+Curitiba - PR
+Cabo Frio - RJ
+Londrina - PR
+Recife - PE
+Guarulhos - SP
+Jundiaí - SP
+Mogi das Cruzes - SP
+Piracicaba - SP
+Serra - ES
+Porto Alegre - RS
+Sorocaba - SP
+Aracaju - SE
+Osasco - SP
+Cuiabá - MT
+Rio de Janeiro - RJ
+Guarulhos - SP
+Joinville - SC
+Mogi das Cruzes - SP
+Macapá - AP
+Campinas - SP
+Joinville - SC
+Curitiba - PR
+Natal - RN
+Osasco - SP
+Piracicaba - SP
+Diadema - SP
+Macapá - AP
+Belém - PA
+Macapá - AP
+Cabo Frio - RJ
+Recife - PE
+Curitiba - PR
+Recife - PE
+Macapá - AP
+Cuiabá - MT
+Santos - SP
+Contagem - MG
+Curitiba - PR
+Porto Velho - RO
+Macapá - AP
+Uberlândia - MG
+Cabo Frio - RJ
+Londrina - PR
+Ananindeua - PA
+Belém - PA
+Uberlândia - MG
+Caxias do Sul - RS
+Uberlândia - MG
+Belo Horizonte - MG
+Jundiaí - SP
+Belém - PA
+Ribeirão Preto - SP
+Florianópolis - SC
+Niterói - RJ
+Goiânia - GO
+Belém - PA
+Goiânia - GO
+Guarulhos - SP
+Jundiaí - SP
+Macapá - AP
+Salvador - BA
+Aracaju - SE
+João Pessoa - PB
+João Pessoa - PB
+Cabo Frio - RJ
+Jundiaí - SP
+Cuiabá - MT
+Teresina - PI
+Santos - SP
+Guarulhos - SP
+Recife - PE
+Porto Alegre - RS
+Campinas - SP
+São Paulo - SP
+Ananindeua - PA
+São José dos Campos - SP
+Natal - RN
+São Paulo - SP
+Joinville - SC
+Aparecida de Goiânia - GO
+Aparecida de Goiânia - GO
+Serra - ES
+São Paulo - SP
+Betim - MG
+Aparecida de Goiânia - GO
+Maceió - AL
+São Luís - MA
+Mogi das Cruzes - SP
+Niterói - RJ
+Juiz de Fora - MG
+Joinville - SC
+Aracaju - SE
+Cuiabá - MT
+Curitiba - PR
+Betim - MG
+Betim - MG
+São Paulo - SP
+Maceió - AL
+Caxias do Sul - RS
+Campo Grande - MS
+Ananindeua - PA
+Santos - SP
+Caxias do Sul - RS
+São Luís - MA
+Salvador - BA
+Guarulhos - SP
+Goiânia - GO
+Salvador - BA
+Diadema - SP
+Jaboatão dos Guararapes - PE
+Belo Horizonte - MG
+Goiânia - GO
+Belo Horizonte - MG
+Niterói - RJ
+Florianópolis - SC
+Betim - MG
+João Pessoa - PB
+Ribeirão Preto - SP
+Curitiba - PR
+Salvador - BA
+Manaus - AM
+Aracaju - SE
+Guarulhos - SP
+Belém - PA
+Olinda - PE
+Teresina - PI
+Ananindeua - PA
+Niterói - RJ
+Piracicaba - SP
+Piracicaba - SP
+Betim - MG
+Florianópolis - SC
+Caxias do Sul - RS
+Guarulhos - SP
+Joinville - SC
+Vila Velha - ES
+Mogi das Cruzes - SP
+Contagem - MG
+Belo Horizonte - MG
+Curitiba - PR
+Jundiaí - SP
+João Pessoa - PB
+Osasco - SP
+Contagem - MG
+Uberlândia - MG
+Fortaleza - CE
+São José dos Campos - SP
+Feira de Santana - BA
+Caxias do Sul - RS
+Fortaleza - CE
+Teresina - PI
+Juiz de Fora - MG
+Porto Alegre - RS
+Recife - PE
+Piracicaba - SP
+Campo Grande - MS
+Ribeirão Preto - SP
+Porto Velho - RO
+Aracaju - SE
+Porto Velho - RO
+São Luís - MA
+Piracicaba - SP
+São Luís - MA
+Ananindeua - PA
+Salvador - BA
+Manaus - AM
+Florianópolis - SC
+Cabo Frio - RJ
+Santos - SP
+Porto Velho - RO
+Curitiba - PR
+Juiz de Fora - MG
+Cabo Frio - RJ
+Piracicaba - SP
+Betim - MG
+Macapá - AP
+Teresina - PI
+Feira de Santana - BA
+Betim - MG
+Osasco - SP
+Natal - RN
+Porto Velho - RO
+Florianópolis - SC
+Ananindeua - PA
+Jaboatão dos Guararapes - PE
+Porto Alegre - RS
+Ananindeua - PA
+Florianópolis - SC
+Aparecida de Goiânia - GO
+Porto Velho - RO
+Cabo Frio - RJ
+Santos - SP
+Aparecida de Goiânia - GO
+Aparecida de Goiânia - GO
+Guarulhos - SP
+Ananindeua - PA
+São Gonçalo - RJ
+Macapá - AP
+Teresina - PI
+Campinas - SP
+São Paulo - SP
+Recife - PE
+Rio de Janeiro - RJ
+Joinville - SC
+Santos - SP
+Recife - PE
+Vila Velha - ES
+São Luís - MA
+Ananindeua - PA
+Aracaju - SE
+Aracaju - SE
+Belo Horizonte - MG
+Ribeirão Preto - SP
+Jaboatão dos Guararapes - PE
+Caxias do Sul - RS
+Santos - SP
+São Luís - MA
+São Paulo - SP
+Santos - SP
+Campinas - SP
+Piracicaba - SP
+Teresina - PI
+Natal - RN
+Fortaleza - CE
+João Pessoa - PB
+João Pessoa - PB
+Londrina - PR
+Caxias do Sul - RS
+Osasco - SP
+Jundiaí - SP
+São Paulo - SP
+Recife - PE
+Olinda - PE
+Ribeirão Preto - SP
+Ribeirão Preto - SP
+Sorocaba - SP
+Cabo Frio - RJ
+Florianópolis - SC
+Ananindeua - PA
+Rio de Janeiro - RJ
+Guarulhos - SP
+Campinas - SP
+Ribeirão Preto - SP
+Ribeirão Preto - SP
+Olinda - PE
+Juiz de Fora - MG
+Juiz de Fora - MG
+Belo Horizonte - MG
+Diadema - SP
+Porto Alegre - RS
+Juiz de Fora - MG
+Goiânia - GO
+Santos - SP
+Joinville - SC
+Serra - ES
+Ribeirão Preto - SP
+Joinville - SC
+Aracaju - SE
+Vila Velha - ES
+Salvador - BA
+Porto Velho - RO
+João Pessoa - PB
+Florianópolis - SC
+Cabo Frio - RJ
+Olinda - PE
+Osasco - SP
+Caxias do Sul - RS
+Serra - ES
+Rio de Janeiro - RJ
+São Luís - MA
+Florianópolis - SC
+Olinda - PE
+Ribeirão Preto - SP
+Jaboatão dos Guararapes - PE
+Fortaleza - CE
+Goiânia - GO
+Campo Grande - MS
+Rio de Janeiro - RJ
+Ribeirão Preto - SP
+Uberlândia - MG
+Santos - SP
+Serra - ES
+Belém - PA
+Florianópolis - SC
+Betim - MG
+Uberlândia - MG
+Guarulhos - SP
+Betim - MG
+Recife - PE
+São José dos Campos - SP
+João Pessoa - PB
+Macapá - AP
+Osasco - SP
+Macapá - AP
+Belo Horizonte - MG
+Campo Grande - MS
+Aracaju - SE
+Curitiba - PR
+Aparecida de Goiânia - GO
+Maceió - AL
+Contagem - MG
+Cuiabá - MT
+João Pessoa - PB
+São Luís - MA
+Porto Velho - RO
+João Pessoa - PB
+Guarulhos - SP
+Recife - PE
+Contagem - MG
+Belo Horizonte - MG
+Jundiaí - SP
+Campinas - SP
+Curitiba - PR
+Cuiabá - MT
+Londrina - PR
+Rio de Janeiro - RJ
+Juiz de Fora - MG
+Londrina - PR
+Goiânia - GO
+Campinas - SP
+Ribeirão Preto - SP
+Juiz de Fora - MG
+Cabo Frio - RJ
+Porto Velho - RO
+João Pessoa - PB
+Jundiaí - SP
+Osasco - SP
+Goiânia - GO
+Jundiaí - SP
+Manaus - AM
+Porto Velho - RO
+Olinda - PE
+Porto Alegre - RS
+São Luís - MA
+Cabo Frio - RJ
+Belo Horizonte - MG
+Joinville - SC
+Uberlândia - MG
+Macapá - AP
+Porto Velho - RO
+Recife - PE
+São Paulo - SP
+João Pessoa - PB
+Belo Horizonte - MG
+Olinda - PE
+Betim - MG
+Curitiba - PR
+Ribeirão Preto - SP
+Joinville - SC
+Belo Horizonte - MG
+Manaus - AM
+Porto Velho - RO
+Jundiaí - SP
+Niterói - RJ
+Vila Velha - ES
+João Pessoa - PB
+Rio de Janeiro - RJ
+Florianópolis - SC
+São José dos Campos - SP
+João Pessoa - PB
+Santos - SP
+São Luís - MA
+Osasco - SP
+Campinas - SP
+Campinas - SP
+Teresina - PI
+Campo Grande - MS
+Serra - ES
+Osasco - SP
+Jundiaí - SP
+Cuiabá - MT
+Niterói - RJ
+Recife - PE
+Campo Grande - MS
+Goiânia - GO
+Belém - PA
+Campo Grande - MS
+Recife - PE
+São Paulo - SP
+Ananindeua - PA
+Caxias do Sul - RS
+Londrina - PR
+Manaus - AM
+São Luís - MA
+Serra - ES
+Jaboatão dos Guararapes - PE
+Caxias do Sul - RS
+Osasco - SP
+Campo Grande - MS
+Goiânia - GO
+Macapá - AP
+Teresina - PI
+Florianópolis - SC
+Maceió - AL
+Belém - PA
+Fortaleza - CE
+João Pessoa - PB
+Ananindeua - PA
+Ribeirão Preto - SP
+Serra - ES
+Cuiabá - MT
+Salvador - BA
+Porto Alegre - RS
+Rio de Janeiro - RJ
+Juiz de Fora - MG
+Olinda - PE
+Salvador - BA
+Manaus - AM
+Uberlândia - MG
+Salvador - BA
+Curitiba - PR
+Feira de Santana - BA
+Sorocaba - SP
+Guarulhos - SP
+Macapá - AP
+Betim - MG
+Mogi das Cruzes - SP
+Santos - SP
+Piracicaba - SP
+Piracicaba - SP
+Cuiabá - MT
+Ananindeua - PA
+Jaboatão dos Guararapes - PE
+João Pessoa - PB
+Ribeirão Preto - SP
+Campinas - SP
+Macapá - AP
+São José dos Campos - SP
+Niterói - RJ
+Serra - ES
+Curitiba - PR
+São José dos Campos - SP
+São José dos Campos - SP
+Joinville - SC
+Florianópolis - SC
+Porto Alegre - RS
+Curitiba - PR
+Piracicaba - SP
+Joinville - SC
+Manaus - AM
+Joinville - SC
+João Pessoa - PB
+Olinda - PE
+Diadema - SP
+Macapá - AP
+Jundiaí - SP
+Joinville - SC
+Juiz de Fora - MG
+São Gonçalo - RJ
+São Gonçalo - RJ
+Goiânia - GO
+Ananindeua - PA
+Natal - RN
+Contagem - MG
+Sorocaba - SP
+Guarulhos - SP
+Piracicaba - SP
+Niterói - RJ
+Ribeirão Preto - SP
+Osasco - SP
+Joinville - SC
+Aparecida de Goiânia - GO
+Rio de Janeiro - RJ
+Fortaleza - CE
+Juiz de Fora - MG
+Recife - PE
+Jaboatão dos Guararapes - PE
+Juiz de Fora - MG
+Joinville - SC
+Belém - PA
+Teresina - PI
+Jundiaí - SP
+Jaboatão dos Guararapes - PE
+Betim - MG
+Florianópolis - SC
+Porto Alegre - RS
+Londrina - PR
+Manaus - AM
+Sorocaba - SP
+Macapá - AP
+Manaus - AM
+Osasco - SP
+Caxias do Sul - RS
+Diadema - SP
+Fortaleza - CE
+João Pessoa - PB
+Serra - ES
+Joinville - SC
+Sorocaba - SP
+Mogi das Cruzes - SP
+Aracaju - SE
+Maceió - AL
+Ananindeua - PA
+Maceió - AL
+Caxias do Sul - RS
+Belém - PA
+Juiz de Fora - MG
+Uberlândia - MG
+Fortaleza - CE
+Ribeirão Preto - SP
+São Luís - MA
+Piracicaba - SP
+Mogi das Cruzes - SP
+Feira de Santana - BA
+Feira de Santana - BA
+Florianópolis - SC
+Ribeirão Preto - SP
+Serra - ES
+Piracicaba - SP
+Maceió - AL
+Guarulhos - SP
+Niterói - RJ
+Niterói - RJ
+Fortaleza - CE
+Vila Velha - ES
+Macapá - AP
+Florianópolis - SC
+Aparecida de Goiânia - GO
+Recife - PE
+Mogi das Cruzes - SP
+Betim - MG
+Joinville - SC
+Osasco - SP
+Caxias do Sul - RS
+Manaus - AM
+Cuiabá - MT
+Guarulhos - SP
+João Pessoa - PB
+Sorocaba - SP
+Fortaleza - CE
+Betim - MG
+Manaus - AM
+Olinda - PE
+Betim - MG
+Jundiaí - SP
+Uberlândia - MG
+Osasco - SP
+Aparecida de Goiânia - GO
+Diadema - SP
+Niterói - RJ
+Salvador - BA
+Curitiba - PR
+São Luís - MA
+Porto Alegre - RS
+Mogi das Cruzes - SP
+São José dos Campos - SP
+Santos - SP
+São Paulo - SP
+São José dos Campos - SP
+Goiânia - GO
+Niterói - RJ
+Goiânia - GO
+Cuiabá - MT
+Serra - ES
+Teresina - PI
+Uberlândia - MG
+Ananindeua - PA
+Florianópolis - SC
+Cuiabá - MT
+Campinas - SP
+São Luís - MA
+Olinda - PE
+Osasco - SP
+João Pessoa - PB
+Florianópolis - SC
+Olinda - PE
+João Pessoa - PB
+Feira de Santana - BA
+Macapá - AP
+Jaboatão dos Guararapes - PE
+Curitiba - PR
+Mogi das Cruzes - SP
+São Paulo - SP
+Ananindeua - PA
+Londrina - PR
+Sorocaba - SP
+Porto Alegre - RS
+Teresina - PI
+Salvador - BA
+Contagem - MG
+Caxias do Sul - RS
+Salvador - BA
+São Paulo - SP
+Macapá - AP
+Caxias do Sul - RS
+Jaboatão dos Guararapes - PE
+Recife - PE
+Teresina - PI
+Rio de Janeiro - RJ
+Maceió - AL
+Feira de Santana - BA
+Piracicaba - SP
+Mogi das Cruzes - SP
+Sorocaba - SP
+Santos - SP
+Osasco - SP
+Macapá - AP
+Uberlândia - MG
+Sorocaba - SP
+Uberlândia - MG
+Feira de Santana - BA
+Serra - ES
+São Luís - MA
+Niterói - RJ
+Guarulhos - SP
+Juiz de Fora - MG
+Porto Alegre - RS
+Campinas - SP
+Caxias do Sul - RS
+Uberlândia - MG
+Contagem - MG
+Aracaju - SE
+Goiânia - GO
+Teresina - PI
+Niterói - RJ
+Porto Alegre - RS
+Porto Alegre - RS
+São Paulo - SP
+Fortaleza - CE
+Diadema - SP
+Rio de Janeiro - RJ
+Goiânia - GO
+Cabo Frio - RJ
+Aparecida de Goiânia - GO
+Niterói - RJ
+Feira de Santana - BA
+Porto Alegre - RS
+Curitiba - PR
+Porto Alegre - RS
+Diadema - SP
+Aracaju - SE
+Joinville - SC
+Piracicaba - SP
+Betim - MG
+Feira de Santana - BA
+Ananindeua - PA
+Guarulhos - SP
+Joinville - SC
+Londrina - PR
+Feira de Santana - BA
+Caxias do Sul - RS
+Cuiabá - MT
+Uberlândia - MG
+Jaboatão dos Guararapes - PE
+São Gonçalo - RJ
+Guarulhos - SP
+Feira de Santana - BA
+Betim - MG
+São Paulo - SP
+Florianópolis - SC
+Aparecida de Goiânia - GO
+Cabo Frio - RJ
+Maceió - AL
+Macapá - AP
+Londrina - PR
+Campo Grande - MS
+Aracaju - SE
+Serra - ES
+Florianópolis - SC
+Contagem - MG
+Belo Horizonte - MG
+Belo Horizonte - MG
+Florianópolis - SC
+Juiz de Fora - MG
+Macapá - AP
+Contagem - MG
+Recife - PE
+Mogi das Cruzes - SP
+Juiz de Fora - MG
+Piracicaba - SP
+Curitiba - PR
+Goiânia - GO
+Cabo Frio - RJ
+Cabo Frio - RJ
+Porto Velho - RO
+São José dos Campos - SP
+Jundiaí - SP
+Campo Grande - MS
+Joinville - SC
+Porto Velho - RO
+Curitiba - PR
+Porto Velho - RO
+Ananindeua - PA
+Curitiba - PR
+Maceió - AL
+Juiz de Fora - MG
+Santos - SP
+Vila Velha - ES
+Niterói - RJ
+Niterói - RJ
+Fortaleza - CE
+Olinda - PE
+Santos - SP
+Serra - ES
+Mogi das Cruzes - SP
+João Pessoa - PB
+Ananindeua - PA
+Salvador - BA
+Ribeirão Preto - SP
+Serra - ES
+Jundiaí - SP
+São Paulo - SP
+Juiz de Fora - MG
+Joinville - SC
+Londrina - PR
+Juiz de Fora - MG
+Florianópolis - SC
+Cabo Frio - RJ
+Ribeirão Preto - SP
+Aracaju - SE
+Jaboatão dos Guararapes - PE
+Teresina - PI
+Teresina - PI
+Belém - PA
+Belo Horizonte - MG
+Piracicaba - SP
+Betim - MG
+Vila Velha - ES
+João Pessoa - PB
+Cabo Frio - RJ
+Florianópolis - SC
+Natal - RN
+Salvador - BA
+Santos - SP
+Juiz de Fora - MG
+Mogi das Cruzes - SP
+Belém - PA
+Florianópolis - SC
+Salvador - BA
+Niterói - RJ
+Teresina - PI
+Vila Velha - ES
+Ananindeua - PA
+Rio de Janeiro - RJ
+Teresina - PI
+Aparecida de Goiânia - GO
+Curitiba - PR
+Porto Alegre - RS
+Londrina - PR
+Fortaleza - CE
+Campo Grande - MS
+Natal - RN
+Porto Alegre - RS
+Ananindeua - PA
+Campo Grande - MS
+Campo Grande - MS
+Natal - RN
+São Paulo - SP
+Vila Velha - ES
+Recife - PE
+Betim - MG
+Guarulhos - SP
+Mogi das Cruzes - SP
+Vila Velha - ES
+Goiânia - GO
+Niterói - RJ
+Cuiabá - MT
+Contagem - MG
+Guarulhos - SP
+Natal - RN
+Piracicaba - SP
+Maceió - AL
+Aparecida de Goiânia - GO
+Guarulhos - SP
+Porto Velho - RO
+Belo Horizonte - MG
+Ribeirão Preto - SP
+Curitiba - PR
+Goiânia - GO
+Betim - MG
+Goiânia - GO
+Aparecida de Goiânia - GO
+São José dos Campos - SP
+Aracaju - SE
+Jundiaí - SP
+Uberlândia - MG
+Maceió - AL
+Niterói - RJ
+Cuiabá - MT
+Cabo Frio - RJ
+Santos - SP
+Belém - PA
+São Luís - MA
+Florianópolis - SC
+Cabo Frio - RJ
+Jaboatão dos Guararapes - PE
+Salvador - BA
+Diadema - SP
+Natal - RN
+São José dos Campos - SP
+Recife - PE
+Salvador - BA
+Belém - PA
+Joinville - SC
+Sorocaba - SP
+Juiz de Fora - MG
+João Pessoa - PB
+Juiz de Fora - MG
+Vila Velha - ES
+São José dos Campos - SP
+Serra - ES
+São Gonçalo - RJ
+Uberlândia - MG
+Olinda - PE
+Macapá - AP
+Uberlândia - MG
+Juiz de Fora - MG
+Natal - RN
+Goiânia - GO
+Porto Velho - RO
+Feira de Santana - BA
+São Paulo - SP
+Teresina - PI
+Cuiabá - MT
+Uberlândia - MG
+Olinda - PE
+Osasco - SP
+Porto Velho - RO
+Olinda - PE
+Belo Horizonte - MG
+Manaus - AM
+Serra - ES
+Santos - SP
+Jaboatão dos Guararapes - PE
+Feira de Santana - BA
+Ananindeua - PA
+Diadema - SP
+Campo Grande - MS
+Ribeirão Preto - SP
+Campo Grande - MS
+Campo Grande - MS
+Manaus - AM
+Natal - RN
+Diadema - SP
+Mogi das Cruzes - SP
+Sorocaba - SP
+Joinville - SC
+Jundiaí - SP
+Olinda - PE
+Vila Velha - ES
+Maceió - AL
+Cabo Frio - RJ
+Olinda - PE
+Mogi das Cruzes - SP
