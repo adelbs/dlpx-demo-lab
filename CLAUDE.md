@@ -4,15 +4,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Purpose
 
-Fictional database for demonstrating **data masking** products. Contains realistic PII data across 6 Latin American countries, 4 database engines, and 12 tables per country. No external dependencies — both scripts use only Python 3 stdlib.
+Fictional database for demonstrating **data masking** products. Contains realistic PII data across 15 Latin American countries, 4 database engines, and 12 tables per country. No external dependencies — both scripts use only Python 3 stdlib.
 
 ## Regenerating Data
 
 ```bash
-# Seed files: 60 × .txt, 1000 lines each  (random.seed = 42)
+# Seed files: 150 × .txt, 1000 lines each  (random.seed = 42)
 python3 generate_seed.py
 
-# DDL + INSERTs: 24 × .sql, 120 rows/table  (random.seed = 99)
+# DDL + INSERTs: 60 × .sql, 120 rows/table  (random.seed = 99)
 python3 generate_ddl.py
 ```
 
@@ -36,14 +36,25 @@ ddl/
 
 ## Countries, Documents, and Regional Subdivisions
 
-| Country   | Lang | Person ID  | Company ID | City column   | Region column  |
-|-----------|------|------------|------------|---------------|----------------|
-| brasil    | PT   | cpf        | cnpj       | cidade        | estado         |
-| argentina | ES   | dni        | cuit       | ciudad        | provincia      |
-| chile     | ES   | rut        | rut_empresa| ciudad        | region         |
-| mexico    | ES   | curp       | rfc        | ciudad        | estado         |
-| panama    | ES   | cedula     | ruc        | ciudad        | provincia      |
-| colombia  | ES   | cedula_cc  | nit        | ciudad        | departamento   |
+| Country     | Lang | Person ID  | Company ID       | City column   | Region column  |
+|-------------|------|------------|------------------|---------------|----------------|
+| brasil      | PT   | cpf        | cnpj             | cidade        | estado         |
+| argentina   | ES   | dni        | cuit             | ciudad        | provincia      |
+| chile       | ES   | rut        | rut_empresa      | ciudad        | region         |
+| mexico      | ES   | curp       | rfc              | ciudad        | estado         |
+| panama      | ES   | cedula     | ruc              | ciudad        | provincia      |
+| colombia    | ES   | cedula_cc  | nit              | ciudad        | departamento   |
+| peru        | ES   | dni        | ruc              | ciudad        | departamento   |
+| paraguay    | ES   | ci         | ruc              | ciudad        | departamento   |
+| uruguay     | ES   | ci         | rut              | ciudad        | departamento   |
+| ecuador     | ES   | cedula     | ruc              | ciudad        | provincia      |
+| bolivia     | ES   | ci         | nit              | ciudad        | departamento   |
+| venezuela   | ES   | cedula     | rif              | ciudad        | estado         |
+| costa_rica  | ES   | cedula     | cedula_juridica  | ciudad        | provincia      |
+| belize      | ES*  | ssn        | tin              | ciudad        | distrito       |
+| el_salvador | ES   | dui        | nit              | ciudad        | departamento   |
+
+\* Belize's official language is English; the table/column schema stays Spanish for pipeline consistency, but seed names reflect Belize's actual English/Creole/Mestizo/Garifuna demographic mix (see `generate_seed.py`'s Belize section).
 
 Document columns are suffixed with their role in each table (e.g., `cpf_titular`, `dni_cliente`, `rut_paciente`, `nit_empresa`).
 

@@ -1,0 +1,1000 @@
+Caracas, Distrito Capital
+Maturín, Monagas
+Turmero, Aragua
+Guanare, Portuguesa
+Barquisimeto, Lara
+Turmero, Aragua
+Los Teques, Miranda
+Guanare, Portuguesa
+Punto Fijo, Falcón
+Valencia, Carabobo
+Maracaibo, Zulia
+Punto Fijo, Falcón
+Barcelona, Anzoátegui
+Cabimas, Zulia
+Guarenas, Miranda
+Coro, Falcón
+Punto Fijo, Falcón
+Coro, Falcón
+Los Teques, Miranda
+Mérida, Mérida
+Guarenas, Miranda
+Caracas, Distrito Capital
+Barquisimeto, Lara
+Valencia, Carabobo
+Guarenas, Miranda
+Punto Fijo, Falcón
+Caracas, Distrito Capital
+Coro, Falcón
+Mérida, Mérida
+Guanare, Portuguesa
+Maracaibo, Zulia
+Guarenas, Miranda
+Caracas, Distrito Capital
+Punto Fijo, Falcón
+Caracas, Distrito Capital
+Barcelona, Anzoátegui
+Cabimas, Zulia
+Puerto La Cruz, Anzoátegui
+Barcelona, Anzoátegui
+Guanare, Portuguesa
+Puerto La Cruz, Anzoátegui
+Puerto La Cruz, Anzoátegui
+Maracaibo, Zulia
+Valencia, Carabobo
+Los Teques, Miranda
+Turmero, Aragua
+San Cristóbal, Táchira
+Caracas, Distrito Capital
+Barinas, Barinas
+Cumaná, Sucre
+Turmero, Aragua
+Valencia, Carabobo
+Cabimas, Zulia
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Cabimas, Zulia
+Maracay, Aragua
+Barinas, Barinas
+Turmero, Aragua
+Valencia, Carabobo
+Barquisimeto, Lara
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+Barcelona, Anzoátegui
+Cabimas, Zulia
+Valencia, Carabobo
+Cumaná, Sucre
+Puerto La Cruz, Anzoátegui
+Caracas, Distrito Capital
+Maracay, Aragua
+Turmero, Aragua
+Guanare, Portuguesa
+Guarenas, Miranda
+Puerto La Cruz, Anzoátegui
+Puerto La Cruz, Anzoátegui
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Caracas, Distrito Capital
+Cabimas, Zulia
+Barcelona, Anzoátegui
+Cabimas, Zulia
+Barquisimeto, Lara
+Ciudad Guayana, Bolívar
+Barinas, Barinas
+Puerto La Cruz, Anzoátegui
+Barquisimeto, Lara
+Barcelona, Anzoátegui
+Barquisimeto, Lara
+Caracas, Distrito Capital
+Coro, Falcón
+Barinas, Barinas
+Los Teques, Miranda
+Turmero, Aragua
+Los Teques, Miranda
+Maturín, Monagas
+Cabimas, Zulia
+Cumaná, Sucre
+Los Teques, Miranda
+Cumaná, Sucre
+Guanare, Portuguesa
+Maturín, Monagas
+Cabimas, Zulia
+Punto Fijo, Falcón
+Cumaná, Sucre
+Turmero, Aragua
+Maturín, Monagas
+Punto Fijo, Falcón
+Coro, Falcón
+Maturín, Monagas
+Puerto La Cruz, Anzoátegui
+Barcelona, Anzoátegui
+Maturín, Monagas
+Ciudad Guayana, Bolívar
+Coro, Falcón
+Cumaná, Sucre
+Barcelona, Anzoátegui
+Los Teques, Miranda
+Guarenas, Miranda
+Guanare, Portuguesa
+Maturín, Monagas
+Barcelona, Anzoátegui
+Punto Fijo, Falcón
+Turmero, Aragua
+Los Teques, Miranda
+Turmero, Aragua
+Cumaná, Sucre
+San Cristóbal, Táchira
+Punto Fijo, Falcón
+Punto Fijo, Falcón
+Barcelona, Anzoátegui
+Maracay, Aragua
+Punto Fijo, Falcón
+Maracaibo, Zulia
+Guarenas, Miranda
+Turmero, Aragua
+Ciudad Guayana, Bolívar
+Cabimas, Zulia
+Barcelona, Anzoátegui
+Turmero, Aragua
+Cumaná, Sucre
+Los Teques, Miranda
+Ciudad Guayana, Bolívar
+Puerto La Cruz, Anzoátegui
+Turmero, Aragua
+San Cristóbal, Táchira
+Guarenas, Miranda
+Punto Fijo, Falcón
+Cumaná, Sucre
+Turmero, Aragua
+Barcelona, Anzoátegui
+Barquisimeto, Lara
+Turmero, Aragua
+Barquisimeto, Lara
+Barinas, Barinas
+Guarenas, Miranda
+Barcelona, Anzoátegui
+Mérida, Mérida
+Cabimas, Zulia
+Valencia, Carabobo
+Coro, Falcón
+Coro, Falcón
+Los Teques, Miranda
+Ciudad Guayana, Bolívar
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+Punto Fijo, Falcón
+Cabimas, Zulia
+Valencia, Carabobo
+Los Teques, Miranda
+Cabimas, Zulia
+Punto Fijo, Falcón
+Barquisimeto, Lara
+Cumaná, Sucre
+Cumaná, Sucre
+Punto Fijo, Falcón
+Barinas, Barinas
+Coro, Falcón
+Punto Fijo, Falcón
+Caracas, Distrito Capital
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Barinas, Barinas
+Barinas, Barinas
+Ciudad Guayana, Bolívar
+Guanare, Portuguesa
+Barcelona, Anzoátegui
+Turmero, Aragua
+Cabimas, Zulia
+Ciudad Guayana, Bolívar
+Mérida, Mérida
+Mérida, Mérida
+Punto Fijo, Falcón
+Barcelona, Anzoátegui
+Caracas, Distrito Capital
+Barinas, Barinas
+Mérida, Mérida
+Barcelona, Anzoátegui
+Valencia, Carabobo
+Mérida, Mérida
+Guarenas, Miranda
+Cabimas, Zulia
+Ciudad Guayana, Bolívar
+Caracas, Distrito Capital
+Guarenas, Miranda
+Caracas, Distrito Capital
+Barinas, Barinas
+Ciudad Guayana, Bolívar
+Maturín, Monagas
+Barcelona, Anzoátegui
+Barquisimeto, Lara
+Mérida, Mérida
+Maturín, Monagas
+Caracas, Distrito Capital
+Valencia, Carabobo
+Mérida, Mérida
+Barquisimeto, Lara
+Turmero, Aragua
+Guarenas, Miranda
+Mérida, Mérida
+Punto Fijo, Falcón
+Mérida, Mérida
+Coro, Falcón
+Punto Fijo, Falcón
+Maturín, Monagas
+San Cristóbal, Táchira
+Maracay, Aragua
+Guanare, Portuguesa
+Cabimas, Zulia
+Punto Fijo, Falcón
+Barquisimeto, Lara
+Los Teques, Miranda
+Maracay, Aragua
+Los Teques, Miranda
+San Cristóbal, Táchira
+Barquisimeto, Lara
+Coro, Falcón
+Caracas, Distrito Capital
+Guarenas, Miranda
+Guarenas, Miranda
+Barcelona, Anzoátegui
+Guanare, Portuguesa
+Coro, Falcón
+Maracaibo, Zulia
+Maturín, Monagas
+Valencia, Carabobo
+Coro, Falcón
+San Cristóbal, Táchira
+Turmero, Aragua
+Los Teques, Miranda
+Coro, Falcón
+Barcelona, Anzoátegui
+Maracay, Aragua
+Coro, Falcón
+Caracas, Distrito Capital
+Guanare, Portuguesa
+Cabimas, Zulia
+San Cristóbal, Táchira
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Turmero, Aragua
+Maturín, Monagas
+Ciudad Guayana, Bolívar
+Barinas, Barinas
+Barcelona, Anzoátegui
+Ciudad Guayana, Bolívar
+Ciudad Guayana, Bolívar
+Barinas, Barinas
+Barcelona, Anzoátegui
+Coro, Falcón
+Maturín, Monagas
+Coro, Falcón
+Guarenas, Miranda
+Cabimas, Zulia
+Maracaibo, Zulia
+Mérida, Mérida
+Ciudad Guayana, Bolívar
+Maturín, Monagas
+Guanare, Portuguesa
+Cumaná, Sucre
+Maturín, Monagas
+Barquisimeto, Lara
+Cabimas, Zulia
+Ciudad Guayana, Bolívar
+Barquisimeto, Lara
+Maturín, Monagas
+Los Teques, Miranda
+Caracas, Distrito Capital
+Barcelona, Anzoátegui
+Maracaibo, Zulia
+Guanare, Portuguesa
+Barinas, Barinas
+Los Teques, Miranda
+Coro, Falcón
+Barcelona, Anzoátegui
+Mérida, Mérida
+Maturín, Monagas
+Puerto La Cruz, Anzoátegui
+Guarenas, Miranda
+Punto Fijo, Falcón
+Barinas, Barinas
+Punto Fijo, Falcón
+Punto Fijo, Falcón
+Los Teques, Miranda
+Cumaná, Sucre
+Los Teques, Miranda
+Cabimas, Zulia
+Barquisimeto, Lara
+Mérida, Mérida
+San Cristóbal, Táchira
+San Cristóbal, Táchira
+Valencia, Carabobo
+Maracay, Aragua
+Barinas, Barinas
+Guanare, Portuguesa
+Cabimas, Zulia
+Guarenas, Miranda
+San Cristóbal, Táchira
+Barinas, Barinas
+Ciudad Guayana, Bolívar
+Guarenas, Miranda
+Barinas, Barinas
+San Cristóbal, Táchira
+Guanare, Portuguesa
+Maracaibo, Zulia
+Caracas, Distrito Capital
+Caracas, Distrito Capital
+Punto Fijo, Falcón
+Ciudad Guayana, Bolívar
+Barquisimeto, Lara
+Guanare, Portuguesa
+Maracay, Aragua
+Ciudad Guayana, Bolívar
+Los Teques, Miranda
+Cumaná, Sucre
+San Cristóbal, Táchira
+Cumaná, Sucre
+Los Teques, Miranda
+Puerto La Cruz, Anzoátegui
+Caracas, Distrito Capital
+Caracas, Distrito Capital
+San Cristóbal, Táchira
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Maracay, Aragua
+Los Teques, Miranda
+Los Teques, Miranda
+Puerto La Cruz, Anzoátegui
+Los Teques, Miranda
+San Cristóbal, Táchira
+Cumaná, Sucre
+Valencia, Carabobo
+Guanare, Portuguesa
+Barquisimeto, Lara
+Coro, Falcón
+Ciudad Guayana, Bolívar
+Cumaná, Sucre
+Ciudad Guayana, Bolívar
+San Cristóbal, Táchira
+Punto Fijo, Falcón
+San Cristóbal, Táchira
+Cumaná, Sucre
+Caracas, Distrito Capital
+Maturín, Monagas
+Ciudad Guayana, Bolívar
+Barcelona, Anzoátegui
+Maturín, Monagas
+Punto Fijo, Falcón
+Barcelona, Anzoátegui
+Cumaná, Sucre
+Caracas, Distrito Capital
+Punto Fijo, Falcón
+Maracay, Aragua
+Maracay, Aragua
+Caracas, Distrito Capital
+Cumaná, Sucre
+Punto Fijo, Falcón
+Barquisimeto, Lara
+Barcelona, Anzoátegui
+Maturín, Monagas
+Los Teques, Miranda
+Cumaná, Sucre
+Los Teques, Miranda
+San Cristóbal, Táchira
+San Cristóbal, Táchira
+Turmero, Aragua
+Barquisimeto, Lara
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Turmero, Aragua
+Turmero, Aragua
+Coro, Falcón
+Barquisimeto, Lara
+Cumaná, Sucre
+Caracas, Distrito Capital
+Maracay, Aragua
+Maracay, Aragua
+Coro, Falcón
+Barcelona, Anzoátegui
+Cumaná, Sucre
+Barquisimeto, Lara
+Ciudad Guayana, Bolívar
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+Los Teques, Miranda
+Turmero, Aragua
+Turmero, Aragua
+Cumaná, Sucre
+Puerto La Cruz, Anzoátegui
+Los Teques, Miranda
+Barquisimeto, Lara
+Maracaibo, Zulia
+Maracay, Aragua
+Guarenas, Miranda
+Coro, Falcón
+Cabimas, Zulia
+Cumaná, Sucre
+Guarenas, Miranda
+Valencia, Carabobo
+Cabimas, Zulia
+Turmero, Aragua
+Los Teques, Miranda
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Guanare, Portuguesa
+Maturín, Monagas
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Maturín, Monagas
+Caracas, Distrito Capital
+Los Teques, Miranda
+San Cristóbal, Táchira
+Turmero, Aragua
+Guanare, Portuguesa
+Maturín, Monagas
+Caracas, Distrito Capital
+Turmero, Aragua
+Los Teques, Miranda
+Barinas, Barinas
+Guarenas, Miranda
+San Cristóbal, Táchira
+Puerto La Cruz, Anzoátegui
+Barquisimeto, Lara
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+Barquisimeto, Lara
+San Cristóbal, Táchira
+Cumaná, Sucre
+Cumaná, Sucre
+Ciudad Guayana, Bolívar
+Valencia, Carabobo
+Barquisimeto, Lara
+Barcelona, Anzoátegui
+Cumaná, Sucre
+Los Teques, Miranda
+Mérida, Mérida
+Cabimas, Zulia
+Maturín, Monagas
+Coro, Falcón
+Guanare, Portuguesa
+Punto Fijo, Falcón
+Cumaná, Sucre
+Barquisimeto, Lara
+Barinas, Barinas
+Barcelona, Anzoátegui
+Cumaná, Sucre
+Maturín, Monagas
+Barcelona, Anzoátegui
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Ciudad Guayana, Bolívar
+San Cristóbal, Táchira
+Valencia, Carabobo
+Barquisimeto, Lara
+San Cristóbal, Táchira
+Barquisimeto, Lara
+Barcelona, Anzoátegui
+Cabimas, Zulia
+Cabimas, Zulia
+Ciudad Guayana, Bolívar
+Cumaná, Sucre
+Cabimas, Zulia
+Barquisimeto, Lara
+Turmero, Aragua
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Los Teques, Miranda
+Puerto La Cruz, Anzoátegui
+Cabimas, Zulia
+Puerto La Cruz, Anzoátegui
+Barquisimeto, Lara
+Maracaibo, Zulia
+Coro, Falcón
+Mérida, Mérida
+Guanare, Portuguesa
+Maracaibo, Zulia
+Caracas, Distrito Capital
+Caracas, Distrito Capital
+Maturín, Monagas
+Valencia, Carabobo
+Guarenas, Miranda
+Punto Fijo, Falcón
+Mérida, Mérida
+Coro, Falcón
+Ciudad Guayana, Bolívar
+Los Teques, Miranda
+Caracas, Distrito Capital
+Maracay, Aragua
+Barcelona, Anzoátegui
+Cumaná, Sucre
+Coro, Falcón
+Barcelona, Anzoátegui
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+Guanare, Portuguesa
+Los Teques, Miranda
+Caracas, Distrito Capital
+San Cristóbal, Táchira
+Maracay, Aragua
+San Cristóbal, Táchira
+Cabimas, Zulia
+Ciudad Guayana, Bolívar
+Ciudad Guayana, Bolívar
+Los Teques, Miranda
+Mérida, Mérida
+Coro, Falcón
+Caracas, Distrito Capital
+Barquisimeto, Lara
+Barquisimeto, Lara
+Puerto La Cruz, Anzoátegui
+Guarenas, Miranda
+Guarenas, Miranda
+Caracas, Distrito Capital
+Ciudad Guayana, Bolívar
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Ciudad Guayana, Bolívar
+Ciudad Guayana, Bolívar
+Maturín, Monagas
+Maracay, Aragua
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+San Cristóbal, Táchira
+Barquisimeto, Lara
+Mérida, Mérida
+Guanare, Portuguesa
+Punto Fijo, Falcón
+San Cristóbal, Táchira
+Barquisimeto, Lara
+Guanare, Portuguesa
+Punto Fijo, Falcón
+Maturín, Monagas
+Los Teques, Miranda
+Barcelona, Anzoátegui
+Maracaibo, Zulia
+Maturín, Monagas
+Turmero, Aragua
+Ciudad Guayana, Bolívar
+San Cristóbal, Táchira
+Maracay, Aragua
+Guarenas, Miranda
+Barinas, Barinas
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Maracay, Aragua
+Barquisimeto, Lara
+Cabimas, Zulia
+Maracay, Aragua
+Coro, Falcón
+Guarenas, Miranda
+Los Teques, Miranda
+Turmero, Aragua
+Maracaibo, Zulia
+Barcelona, Anzoátegui
+Guanare, Portuguesa
+Puerto La Cruz, Anzoátegui
+Cabimas, Zulia
+Coro, Falcón
+Ciudad Guayana, Bolívar
+Guarenas, Miranda
+Ciudad Guayana, Bolívar
+Cumaná, Sucre
+Mérida, Mérida
+Maturín, Monagas
+Caracas, Distrito Capital
+Cumaná, Sucre
+Punto Fijo, Falcón
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Punto Fijo, Falcón
+Los Teques, Miranda
+Turmero, Aragua
+Barcelona, Anzoátegui
+Maracaibo, Zulia
+Guarenas, Miranda
+Punto Fijo, Falcón
+Punto Fijo, Falcón
+Punto Fijo, Falcón
+Ciudad Guayana, Bolívar
+Turmero, Aragua
+Caracas, Distrito Capital
+Barcelona, Anzoátegui
+Barinas, Barinas
+Guanare, Portuguesa
+Los Teques, Miranda
+Coro, Falcón
+Barcelona, Anzoátegui
+Turmero, Aragua
+Maracaibo, Zulia
+Barquisimeto, Lara
+Coro, Falcón
+Puerto La Cruz, Anzoátegui
+Maturín, Monagas
+Mérida, Mérida
+Ciudad Guayana, Bolívar
+Valencia, Carabobo
+Maturín, Monagas
+Ciudad Guayana, Bolívar
+Maracaibo, Zulia
+Barinas, Barinas
+Guanare, Portuguesa
+Cumaná, Sucre
+Ciudad Guayana, Bolívar
+Cumaná, Sucre
+Valencia, Carabobo
+Maracaibo, Zulia
+Los Teques, Miranda
+Barquisimeto, Lara
+Caracas, Distrito Capital
+Maturín, Monagas
+Los Teques, Miranda
+Puerto La Cruz, Anzoátegui
+Guarenas, Miranda
+Maracay, Aragua
+Ciudad Guayana, Bolívar
+Ciudad Guayana, Bolívar
+Punto Fijo, Falcón
+Coro, Falcón
+Maracay, Aragua
+Barinas, Barinas
+Guanare, Portuguesa
+Cumaná, Sucre
+Maturín, Monagas
+Maturín, Monagas
+Punto Fijo, Falcón
+Guarenas, Miranda
+Cumaná, Sucre
+Valencia, Carabobo
+Cabimas, Zulia
+Cumaná, Sucre
+Maracay, Aragua
+Barcelona, Anzoátegui
+Maracaibo, Zulia
+San Cristóbal, Táchira
+San Cristóbal, Táchira
+Caracas, Distrito Capital
+Guarenas, Miranda
+Coro, Falcón
+Cabimas, Zulia
+Guanare, Portuguesa
+Punto Fijo, Falcón
+Punto Fijo, Falcón
+Ciudad Guayana, Bolívar
+Maturín, Monagas
+Cabimas, Zulia
+Mérida, Mérida
+Turmero, Aragua
+Valencia, Carabobo
+Guanare, Portuguesa
+Barquisimeto, Lara
+Guarenas, Miranda
+San Cristóbal, Táchira
+Maracay, Aragua
+Turmero, Aragua
+Punto Fijo, Falcón
+Maracay, Aragua
+Coro, Falcón
+Ciudad Guayana, Bolívar
+Cumaná, Sucre
+Maracay, Aragua
+Barinas, Barinas
+San Cristóbal, Táchira
+Cabimas, Zulia
+Cumaná, Sucre
+Barcelona, Anzoátegui
+Cabimas, Zulia
+Maracaibo, Zulia
+Turmero, Aragua
+Guarenas, Miranda
+Maturín, Monagas
+Barinas, Barinas
+Maturín, Monagas
+Maracaibo, Zulia
+Ciudad Guayana, Bolívar
+Los Teques, Miranda
+Maturín, Monagas
+Maracay, Aragua
+Cumaná, Sucre
+Mérida, Mérida
+San Cristóbal, Táchira
+Coro, Falcón
+Turmero, Aragua
+Barquisimeto, Lara
+Maracay, Aragua
+Guarenas, Miranda
+Turmero, Aragua
+Coro, Falcón
+Caracas, Distrito Capital
+Maracay, Aragua
+Cabimas, Zulia
+Mérida, Mérida
+Barquisimeto, Lara
+Guanare, Portuguesa
+Cabimas, Zulia
+Guarenas, Miranda
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Caracas, Distrito Capital
+San Cristóbal, Táchira
+Ciudad Guayana, Bolívar
+Guanare, Portuguesa
+Punto Fijo, Falcón
+Los Teques, Miranda
+Barquisimeto, Lara
+Los Teques, Miranda
+Caracas, Distrito Capital
+Guanare, Portuguesa
+Valencia, Carabobo
+Cumaná, Sucre
+Barquisimeto, Lara
+Puerto La Cruz, Anzoátegui
+Cumaná, Sucre
+Los Teques, Miranda
+Barquisimeto, Lara
+Valencia, Carabobo
+Barinas, Barinas
+Ciudad Guayana, Bolívar
+Maracaibo, Zulia
+Cumaná, Sucre
+Coro, Falcón
+Puerto La Cruz, Anzoátegui
+Guanare, Portuguesa
+Mérida, Mérida
+Maracaibo, Zulia
+Maracay, Aragua
+Maracaibo, Zulia
+Ciudad Guayana, Bolívar
+Coro, Falcón
+San Cristóbal, Táchira
+Cumaná, Sucre
+Barinas, Barinas
+Cabimas, Zulia
+San Cristóbal, Táchira
+Cumaná, Sucre
+Cumaná, Sucre
+Cumaná, Sucre
+Puerto La Cruz, Anzoátegui
+Los Teques, Miranda
+Maturín, Monagas
+San Cristóbal, Táchira
+Barinas, Barinas
+Punto Fijo, Falcón
+Coro, Falcón
+Guanare, Portuguesa
+Barquisimeto, Lara
+Ciudad Guayana, Bolívar
+Caracas, Distrito Capital
+Ciudad Guayana, Bolívar
+Barcelona, Anzoátegui
+Barcelona, Anzoátegui
+Los Teques, Miranda
+Barinas, Barinas
+San Cristóbal, Táchira
+Maturín, Monagas
+Cabimas, Zulia
+San Cristóbal, Táchira
+Barquisimeto, Lara
+Cumaná, Sucre
+Maracaibo, Zulia
+Coro, Falcón
+Barcelona, Anzoátegui
+San Cristóbal, Táchira
+Ciudad Guayana, Bolívar
+Punto Fijo, Falcón
+Barquisimeto, Lara
+Guarenas, Miranda
+Barquisimeto, Lara
+Guanare, Portuguesa
+Barinas, Barinas
+Maturín, Monagas
+Los Teques, Miranda
+Barinas, Barinas
+Barcelona, Anzoátegui
+Maturín, Monagas
+Maracay, Aragua
+Barinas, Barinas
+Guarenas, Miranda
+Valencia, Carabobo
+Turmero, Aragua
+Guanare, Portuguesa
+Turmero, Aragua
+Los Teques, Miranda
+Puerto La Cruz, Anzoátegui
+Turmero, Aragua
+Maracaibo, Zulia
+Valencia, Carabobo
+Ciudad Guayana, Bolívar
+Punto Fijo, Falcón
+Mérida, Mérida
+Los Teques, Miranda
+Maracay, Aragua
+Puerto La Cruz, Anzoátegui
+Valencia, Carabobo
+Cabimas, Zulia
+Coro, Falcón
+Guanare, Portuguesa
+Punto Fijo, Falcón
+Barquisimeto, Lara
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Barcelona, Anzoátegui
+Caracas, Distrito Capital
+Caracas, Distrito Capital
+Valencia, Carabobo
+San Cristóbal, Táchira
+Maracaibo, Zulia
+Ciudad Guayana, Bolívar
+Guarenas, Miranda
+Mérida, Mérida
+Maracaibo, Zulia
+Guarenas, Miranda
+San Cristóbal, Táchira
+Barinas, Barinas
+Punto Fijo, Falcón
+San Cristóbal, Táchira
+Cabimas, Zulia
+Mérida, Mérida
+San Cristóbal, Táchira
+Barquisimeto, Lara
+Barquisimeto, Lara
+Coro, Falcón
+Punto Fijo, Falcón
+Maturín, Monagas
+Guarenas, Miranda
+Guanare, Portuguesa
+Maturín, Monagas
+Coro, Falcón
+Maracay, Aragua
+Cabimas, Zulia
+Barcelona, Anzoátegui
+Guarenas, Miranda
+Coro, Falcón
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Cumaná, Sucre
+Los Teques, Miranda
+Guanare, Portuguesa
+Puerto La Cruz, Anzoátegui
+Ciudad Guayana, Bolívar
+Turmero, Aragua
+Guanare, Portuguesa
+Maturín, Monagas
+Guarenas, Miranda
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Ciudad Guayana, Bolívar
+Puerto La Cruz, Anzoátegui
+Caracas, Distrito Capital
+Puerto La Cruz, Anzoátegui
+Cumaná, Sucre
+Los Teques, Miranda
+San Cristóbal, Táchira
+Maracay, Aragua
+Puerto La Cruz, Anzoátegui
+Barcelona, Anzoátegui
+Mérida, Mérida
+Barcelona, Anzoátegui
+Ciudad Guayana, Bolívar
+Barinas, Barinas
+Barquisimeto, Lara
+Barquisimeto, Lara
+Caracas, Distrito Capital
+Barcelona, Anzoátegui
+Barinas, Barinas
+Guarenas, Miranda
+Cumaná, Sucre
+Mérida, Mérida
+Guarenas, Miranda
+Coro, Falcón
+San Cristóbal, Táchira
+Turmero, Aragua
+Maracaibo, Zulia
+Maracay, Aragua
+Maturín, Monagas
+Valencia, Carabobo
+Caracas, Distrito Capital
+Turmero, Aragua
+Mérida, Mérida
+Coro, Falcón
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Barcelona, Anzoátegui
+Punto Fijo, Falcón
+Puerto La Cruz, Anzoátegui
+Punto Fijo, Falcón
+Barcelona, Anzoátegui
+Barquisimeto, Lara
+Maracay, Aragua
+Valencia, Carabobo
+Maturín, Monagas
+Ciudad Guayana, Bolívar
+Puerto La Cruz, Anzoátegui
+Valencia, Carabobo
+Cumaná, Sucre
+Caracas, Distrito Capital
+Barcelona, Anzoátegui
+San Cristóbal, Táchira
+Barinas, Barinas
+Ciudad Guayana, Bolívar
+Turmero, Aragua
+Guarenas, Miranda
+Los Teques, Miranda
+Cumaná, Sucre
+Punto Fijo, Falcón
+Mérida, Mérida
+Turmero, Aragua
+Cumaná, Sucre
+Barquisimeto, Lara
+Los Teques, Miranda
+Cumaná, Sucre
+Punto Fijo, Falcón
+Maracaibo, Zulia
+San Cristóbal, Táchira
+Cumaná, Sucre
+Caracas, Distrito Capital
+Maracaibo, Zulia
+Barquisimeto, Lara
+Los Teques, Miranda
+Maracaibo, Zulia
+Maracaibo, Zulia
+Coro, Falcón
+Los Teques, Miranda
+Guarenas, Miranda
+Valencia, Carabobo
+Guarenas, Miranda
+Turmero, Aragua
+Coro, Falcón
+Maracaibo, Zulia
+Maturín, Monagas
+Caracas, Distrito Capital
+Los Teques, Miranda
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Turmero, Aragua
+Maturín, Monagas
+Cumaná, Sucre
+Coro, Falcón
+Barinas, Barinas
+Cabimas, Zulia
+Coro, Falcón
+Maracaibo, Zulia
+San Cristóbal, Táchira
+Maturín, Monagas
+Los Teques, Miranda
+Maturín, Monagas
+Maracaibo, Zulia
+Maturín, Monagas
+Ciudad Guayana, Bolívar
+Puerto La Cruz, Anzoátegui
+Maturín, Monagas
+Punto Fijo, Falcón
+Coro, Falcón
+Maracay, Aragua
+Mérida, Mérida
+Puerto La Cruz, Anzoátegui
+Barinas, Barinas
+Barcelona, Anzoátegui
+Coro, Falcón
+Guanare, Portuguesa
+Barquisimeto, Lara
+Cumaná, Sucre
+Maracaibo, Zulia
+Mérida, Mérida
+Valencia, Carabobo
+Cabimas, Zulia
+Cumaná, Sucre
+Caracas, Distrito Capital
+Valencia, Carabobo
+Maracay, Aragua
+Maracaibo, Zulia
+Guarenas, Miranda
+Guanare, Portuguesa
+Ciudad Guayana, Bolívar
+Punto Fijo, Falcón
+Maturín, Monagas
+Valencia, Carabobo
+Puerto La Cruz, Anzoátegui
+Barquisimeto, Lara
+Guarenas, Miranda
+Barinas, Barinas
+Turmero, Aragua

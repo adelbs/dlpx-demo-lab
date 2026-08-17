@@ -8,7 +8,7 @@ import random
 import os
 import datetime
 
-BASE = "/Users/felipe.jacob/Projects/demo-lab"
+BASE = "/Users/felipe.jacob/Projects/dlpx-demo-lab"
 random.seed(99)
 
 # ─── LOAD SEED DATA ───────────────────────────────────────────────────────────
@@ -323,7 +323,12 @@ def rows_es(country, doc_pf_file, doc_pj_file, city_file, n=120):
     fones = load(country,"telefonos.txt")
     empresas = load(country,"empresas.txt")
 
-    CITY_KEY = {"argentina":"provincia","chile":"region","mexico":"estado","panama":"provincia","colombia":"departamento"}
+    CITY_KEY = {
+        "argentina":"provincia","chile":"region","mexico":"estado","panama":"provincia","colombia":"departamento",
+        "peru":"departamento","paraguay":"departamento","uruguay":"departamento","ecuador":"provincia",
+        "bolivia":"departamento","venezuela":"estado","costa_rica":"provincia","belize":"distrito",
+        "el_salvador":"departamento",
+    }
     CITY_LABEL = CITY_KEY.get(country, "estado")
 
     DOC_LABELS = {
@@ -332,11 +337,22 @@ def rows_es(country, doc_pf_file, doc_pj_file, city_file, n=120):
         "mexico": ("curp","rfc"),
         "panama": ("cedula","ruc"),
         "colombia": ("cedula_cc","nit"),
+        "peru": ("dni","ruc"),
+        "paraguay": ("ci","ruc"),
+        "uruguay": ("ci","rut"),
+        "ecuador": ("cedula","ruc"),
+        "bolivia": ("ci","nit"),
+        "venezuela": ("cedula","rif"),
+        "costa_rica": ("cedula","cedula_juridica"),
+        "belize": ("ssn","tin"),
+        "el_salvador": ("dui","nit"),
     }
     doc_label, doc_emp_label = DOC_LABELS.get(country, ("documento","doc_empresa"))
 
     pais_nombres = {
-        "argentina":"Argentina","chile":"Chile","mexico":"México","panama":"Panamá","colombia":"Colombia"
+        "argentina":"Argentina","chile":"Chile","mexico":"México","panama":"Panamá","colombia":"Colombia",
+        "peru":"Perú","paraguay":"Paraguay","uruguay":"Uruguay","ecuador":"Ecuador","bolivia":"Bolivia",
+        "venezuela":"Venezuela","costa_rica":"Costa Rica","belize":"Belice","el_salvador":"El Salvador",
     }
     pais = pais_nombres.get(country, country.capitalize())
 
@@ -948,6 +964,51 @@ COUNTRY_CONFIGS = {
         "rows_fn": lambda: rows_es("colombia","cedula_cc.txt","nit.txt","ciudades_departamentos.txt"),
         "schema": build_schema_es("cedula_cc","nit","departamento"),
         "name": "colombia",
+    },
+    "peru": {
+        "rows_fn": lambda: rows_es("peru","dni.txt","ruc.txt","ciudades_departamentos.txt"),
+        "schema": build_schema_es("dni","ruc","departamento"),
+        "name": "peru",
+    },
+    "paraguay": {
+        "rows_fn": lambda: rows_es("paraguay","ci.txt","ruc.txt","ciudades_departamentos.txt"),
+        "schema": build_schema_es("ci","ruc","departamento"),
+        "name": "paraguay",
+    },
+    "uruguay": {
+        "rows_fn": lambda: rows_es("uruguay","ci.txt","rut.txt","ciudades_departamentos.txt"),
+        "schema": build_schema_es("ci","rut","departamento"),
+        "name": "uruguay",
+    },
+    "ecuador": {
+        "rows_fn": lambda: rows_es("ecuador","cedula.txt","ruc.txt","ciudades_provincias.txt"),
+        "schema": build_schema_es("cedula","ruc","provincia"),
+        "name": "ecuador",
+    },
+    "bolivia": {
+        "rows_fn": lambda: rows_es("bolivia","ci.txt","nit.txt","ciudades_departamentos.txt"),
+        "schema": build_schema_es("ci","nit","departamento"),
+        "name": "bolivia",
+    },
+    "venezuela": {
+        "rows_fn": lambda: rows_es("venezuela","cedula.txt","rif.txt","ciudades_estados.txt"),
+        "schema": build_schema_es("cedula","rif","estado"),
+        "name": "venezuela",
+    },
+    "costa_rica": {
+        "rows_fn": lambda: rows_es("costa_rica","cedula.txt","cedula_juridica.txt","ciudades_provincias.txt"),
+        "schema": build_schema_es("cedula","cedula_juridica","provincia"),
+        "name": "costa_rica",
+    },
+    "belize": {
+        "rows_fn": lambda: rows_es("belize","ssn.txt","tin.txt","ciudades_distritos.txt"),
+        "schema": build_schema_es("ssn","tin","distrito"),
+        "name": "belize",
+    },
+    "el_salvador": {
+        "rows_fn": lambda: rows_es("el_salvador","dui.txt","nit.txt","ciudades_departamentos.txt"),
+        "schema": build_schema_es("dui","nit","departamento"),
+        "name": "el_salvador",
     },
 }
 

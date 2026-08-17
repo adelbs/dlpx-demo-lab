@@ -1,0 +1,1000 @@
+São Luís
+Diadema
+Porto Alegre
+Mogi das Cruzes
+Serra
+Olinda
+Campinas
+Porto Alegre
+João Pessoa
+Piracicaba
+Macapá
+Porto Velho
+Porto Alegre
+Feira de Santana
+Jundiaí
+Goiânia
+Diadema
+Florianópolis
+Belém
+Osasco
+Fortaleza
+Caxias do Sul
+Serra
+Cabo Frio
+Recife
+Guarulhos
+Osasco
+Goiânia
+Cabo Frio
+Rio de Janeiro
+São José dos Campos
+Osasco
+Aracaju
+Aracaju
+João Pessoa
+Cuiabá
+Vila Velha
+Santos
+Vila Velha
+Campo Grande
+Goiânia
+Jundiaí
+Campinas
+Manaus
+Porto Alegre
+Guarulhos
+Rio de Janeiro
+São José dos Campos
+Ananindeua
+Ananindeua
+Campo Grande
+Betim
+Florianópolis
+Ananindeua
+São Gonçalo
+Betim
+São Gonçalo
+São Gonçalo
+Olinda
+Rio de Janeiro
+Jaboatão dos Guararapes
+Curitiba
+Piracicaba
+Jundiaí
+Juiz de Fora
+Porto Alegre
+Londrina
+Betim
+Juiz de Fora
+Macapá
+Diadema
+Contagem
+Guarulhos
+Uberlândia
+Aparecida de Goiânia
+Juiz de Fora
+Porto Alegre
+Belém
+Campinas
+São Gonçalo
+Belo Horizonte
+Aracaju
+São José dos Campos
+São Paulo
+Campo Grande
+Aracaju
+São Gonçalo
+Vila Velha
+Niterói
+Campinas
+São José dos Campos
+São Luís
+Fortaleza
+Guarulhos
+Cuiabá
+Ananindeua
+Aparecida de Goiânia
+Piracicaba
+Osasco
+Joinville
+Maceió
+Feira de Santana
+Sorocaba
+Jundiaí
+Belo Horizonte
+Betim
+Vila Velha
+Uberlândia
+Cabo Frio
+Osasco
+Sorocaba
+Ananindeua
+Vila Velha
+Florianópolis
+Betim
+Serra
+Porto Velho
+Diadema
+Macapá
+Belo Horizonte
+Porto Velho
+Manaus
+Cuiabá
+Joinville
+Belo Horizonte
+Maceió
+Porto Velho
+Serra
+Sorocaba
+Vila Velha
+Belo Horizonte
+Caxias do Sul
+Uberlândia
+Porto Velho
+São José dos Campos
+Santos
+Salvador
+Campinas
+Teresina
+Cuiabá
+Sorocaba
+João Pessoa
+Jundiaí
+Teresina
+Joinville
+Belém
+Feira de Santana
+Teresina
+Ananindeua
+Salvador
+Piracicaba
+Porto Velho
+Goiânia
+Joinville
+Diadema
+Cuiabá
+Curitiba
+Cabo Frio
+Londrina
+Recife
+Guarulhos
+Jundiaí
+Mogi das Cruzes
+Piracicaba
+Serra
+Porto Alegre
+Sorocaba
+Aracaju
+Osasco
+Cuiabá
+Rio de Janeiro
+Guarulhos
+Joinville
+Mogi das Cruzes
+Macapá
+Campinas
+Joinville
+Curitiba
+Natal
+Osasco
+Piracicaba
+Diadema
+Macapá
+Belém
+Macapá
+Cabo Frio
+Recife
+Curitiba
+Recife
+Macapá
+Cuiabá
+Santos
+Contagem
+Curitiba
+Porto Velho
+Macapá
+Uberlândia
+Cabo Frio
+Londrina
+Ananindeua
+Belém
+Uberlândia
+Caxias do Sul
+Uberlândia
+Belo Horizonte
+Jundiaí
+Belém
+Ribeirão Preto
+Florianópolis
+Niterói
+Goiânia
+Belém
+Goiânia
+Guarulhos
+Jundiaí
+Macapá
+Salvador
+Aracaju
+João Pessoa
+João Pessoa
+Cabo Frio
+Jundiaí
+Cuiabá
+Teresina
+Santos
+Guarulhos
+Recife
+Porto Alegre
+Campinas
+São Paulo
+Ananindeua
+São José dos Campos
+Natal
+São Paulo
+Joinville
+Aparecida de Goiânia
+Aparecida de Goiânia
+Serra
+São Paulo
+Betim
+Aparecida de Goiânia
+Maceió
+São Luís
+Mogi das Cruzes
+Niterói
+Juiz de Fora
+Joinville
+Aracaju
+Cuiabá
+Curitiba
+Betim
+Betim
+São Paulo
+Maceió
+Caxias do Sul
+Campo Grande
+Ananindeua
+Santos
+Caxias do Sul
+São Luís
+Salvador
+Guarulhos
+Goiânia
+Salvador
+Diadema
+Jaboatão dos Guararapes
+Belo Horizonte
+Goiânia
+Belo Horizonte
+Niterói
+Florianópolis
+Betim
+João Pessoa
+Ribeirão Preto
+Curitiba
+Salvador
+Manaus
+Aracaju
+Guarulhos
+Belém
+Olinda
+Teresina
+Ananindeua
+Niterói
+Piracicaba
+Piracicaba
+Betim
+Florianópolis
+Caxias do Sul
+Guarulhos
+Joinville
+Vila Velha
+Mogi das Cruzes
+Contagem
+Belo Horizonte
+Curitiba
+Jundiaí
+João Pessoa
+Osasco
+Contagem
+Uberlândia
+Fortaleza
+São José dos Campos
+Feira de Santana
+Caxias do Sul
+Fortaleza
+Teresina
+Juiz de Fora
+Porto Alegre
+Recife
+Piracicaba
+Campo Grande
+Ribeirão Preto
+Porto Velho
+Aracaju
+Porto Velho
+São Luís
+Piracicaba
+São Luís
+Ananindeua
+Salvador
+Manaus
+Florianópolis
+Cabo Frio
+Santos
+Porto Velho
+Curitiba
+Juiz de Fora
+Cabo Frio
+Piracicaba
+Betim
+Macapá
+Teresina
+Feira de Santana
+Betim
+Osasco
+Natal
+Porto Velho
+Florianópolis
+Ananindeua
+Jaboatão dos Guararapes
+Porto Alegre
+Ananindeua
+Florianópolis
+Aparecida de Goiânia
+Porto Velho
+Cabo Frio
+Santos
+Aparecida de Goiânia
+Aparecida de Goiânia
+Guarulhos
+Ananindeua
+São Gonçalo
+Macapá
+Teresina
+Campinas
+São Paulo
+Recife
+Rio de Janeiro
+Joinville
+Santos
+Recife
+Vila Velha
+São Luís
+Ananindeua
+Aracaju
+Aracaju
+Belo Horizonte
+Ribeirão Preto
+Jaboatão dos Guararapes
+Caxias do Sul
+Santos
+São Luís
+São Paulo
+Santos
+Campinas
+Piracicaba
+Teresina
+Natal
+Fortaleza
+João Pessoa
+João Pessoa
+Londrina
+Caxias do Sul
+Osasco
+Jundiaí
+São Paulo
+Recife
+Olinda
+Ribeirão Preto
+Ribeirão Preto
+Sorocaba
+Cabo Frio
+Florianópolis
+Ananindeua
+Rio de Janeiro
+Guarulhos
+Campinas
+Ribeirão Preto
+Ribeirão Preto
+Olinda
+Juiz de Fora
+Juiz de Fora
+Belo Horizonte
+Diadema
+Porto Alegre
+Juiz de Fora
+Goiânia
+Santos
+Joinville
+Serra
+Ribeirão Preto
+Joinville
+Aracaju
+Vila Velha
+Salvador
+Porto Velho
+João Pessoa
+Florianópolis
+Cabo Frio
+Olinda
+Osasco
+Caxias do Sul
+Serra
+Rio de Janeiro
+São Luís
+Florianópolis
+Olinda
+Ribeirão Preto
+Jaboatão dos Guararapes
+Fortaleza
+Goiânia
+Campo Grande
+Rio de Janeiro
+Ribeirão Preto
+Uberlândia
+Santos
+Serra
+Belém
+Florianópolis
+Betim
+Uberlândia
+Guarulhos
+Betim
+Recife
+São José dos Campos
+João Pessoa
+Macapá
+Osasco
+Macapá
+Belo Horizonte
+Campo Grande
+Aracaju
+Curitiba
+Aparecida de Goiânia
+Maceió
+Contagem
+Cuiabá
+João Pessoa
+São Luís
+Porto Velho
+João Pessoa
+Guarulhos
+Recife
+Contagem
+Belo Horizonte
+Jundiaí
+Campinas
+Curitiba
+Cuiabá
+Londrina
+Rio de Janeiro
+Juiz de Fora
+Londrina
+Goiânia
+Campinas
+Ribeirão Preto
+Juiz de Fora
+Cabo Frio
+Porto Velho
+João Pessoa
+Jundiaí
+Osasco
+Goiânia
+Jundiaí
+Manaus
+Porto Velho
+Olinda
+Porto Alegre
+São Luís
+Cabo Frio
+Belo Horizonte
+Joinville
+Uberlândia
+Macapá
+Porto Velho
+Recife
+São Paulo
+João Pessoa
+Belo Horizonte
+Olinda
+Betim
+Curitiba
+Ribeirão Preto
+Joinville
+Belo Horizonte
+Manaus
+Porto Velho
+Jundiaí
+Niterói
+Vila Velha
+João Pessoa
+Rio de Janeiro
+Florianópolis
+São José dos Campos
+João Pessoa
+Santos
+São Luís
+Osasco
+Campinas
+Campinas
+Teresina
+Campo Grande
+Serra
+Osasco
+Jundiaí
+Cuiabá
+Niterói
+Recife
+Campo Grande
+Goiânia
+Belém
+Campo Grande
+Recife
+São Paulo
+Ananindeua
+Caxias do Sul
+Londrina
+Manaus
+São Luís
+Serra
+Jaboatão dos Guararapes
+Caxias do Sul
+Osasco
+Campo Grande
+Goiânia
+Macapá
+Teresina
+Florianópolis
+Maceió
+Belém
+Fortaleza
+João Pessoa
+Ananindeua
+Ribeirão Preto
+Serra
+Cuiabá
+Salvador
+Porto Alegre
+Rio de Janeiro
+Juiz de Fora
+Olinda
+Salvador
+Manaus
+Uberlândia
+Salvador
+Curitiba
+Feira de Santana
+Sorocaba
+Guarulhos
+Macapá
+Betim
+Mogi das Cruzes
+Santos
+Piracicaba
+Piracicaba
+Cuiabá
+Ananindeua
+Jaboatão dos Guararapes
+João Pessoa
+Ribeirão Preto
+Campinas
+Macapá
+São José dos Campos
+Niterói
+Serra
+Curitiba
+São José dos Campos
+São José dos Campos
+Joinville
+Florianópolis
+Porto Alegre
+Curitiba
+Piracicaba
+Joinville
+Manaus
+Joinville
+João Pessoa
+Olinda
+Diadema
+Macapá
+Jundiaí
+Joinville
+Juiz de Fora
+São Gonçalo
+São Gonçalo
+Goiânia
+Ananindeua
+Natal
+Contagem
+Sorocaba
+Guarulhos
+Piracicaba
+Niterói
+Ribeirão Preto
+Osasco
+Joinville
+Aparecida de Goiânia
+Rio de Janeiro
+Fortaleza
+Juiz de Fora
+Recife
+Jaboatão dos Guararapes
+Juiz de Fora
+Joinville
+Belém
+Teresina
+Jundiaí
+Jaboatão dos Guararapes
+Betim
+Florianópolis
+Porto Alegre
+Londrina
+Manaus
+Sorocaba
+Macapá
+Manaus
+Osasco
+Caxias do Sul
+Diadema
+Fortaleza
+João Pessoa
+Serra
+Joinville
+Sorocaba
+Mogi das Cruzes
+Aracaju
+Maceió
+Ananindeua
+Maceió
+Caxias do Sul
+Belém
+Juiz de Fora
+Uberlândia
+Fortaleza
+Ribeirão Preto
+São Luís
+Piracicaba
+Mogi das Cruzes
+Feira de Santana
+Feira de Santana
+Florianópolis
+Ribeirão Preto
+Serra
+Piracicaba
+Maceió
+Guarulhos
+Niterói
+Niterói
+Fortaleza
+Vila Velha
+Macapá
+Florianópolis
+Aparecida de Goiânia
+Recife
+Mogi das Cruzes
+Betim
+Joinville
+Osasco
+Caxias do Sul
+Manaus
+Cuiabá
+Guarulhos
+João Pessoa
+Sorocaba
+Fortaleza
+Betim
+Manaus
+Olinda
+Betim
+Jundiaí
+Uberlândia
+Osasco
+Aparecida de Goiânia
+Diadema
+Niterói
+Salvador
+Curitiba
+São Luís
+Porto Alegre
+Mogi das Cruzes
+São José dos Campos
+Santos
+São Paulo
+São José dos Campos
+Goiânia
+Niterói
+Goiânia
+Cuiabá
+Serra
+Teresina
+Uberlândia
+Ananindeua
+Florianópolis
+Cuiabá
+Campinas
+São Luís
+Olinda
+Osasco
+João Pessoa
+Florianópolis
+Olinda
+João Pessoa
+Feira de Santana
+Macapá
+Jaboatão dos Guararapes
+Curitiba
+Mogi das Cruzes
+São Paulo
+Ananindeua
+Londrina
+Sorocaba
+Porto Alegre
+Teresina
+Salvador
+Contagem
+Caxias do Sul
+Salvador
+São Paulo
+Macapá
+Caxias do Sul
+Jaboatão dos Guararapes
+Recife
+Teresina
+Rio de Janeiro
+Maceió
+Feira de Santana
+Piracicaba
+Mogi das Cruzes
+Sorocaba
+Santos
+Osasco
+Macapá
+Uberlândia
+Sorocaba
+Uberlândia
+Feira de Santana
+Serra
+São Luís
+Niterói
+Guarulhos
+Juiz de Fora
+Porto Alegre
+Campinas
+Caxias do Sul
+Uberlândia
+Contagem
+Aracaju
+Goiânia
+Teresina
+Niterói
+Porto Alegre
+Porto Alegre
+São Paulo
+Fortaleza
+Diadema
+Rio de Janeiro
+Goiânia
+Cabo Frio
+Aparecida de Goiânia
+Niterói
+Feira de Santana
+Porto Alegre
+Curitiba
+Porto Alegre
+Diadema
+Aracaju
+Joinville
+Piracicaba
+Betim
+Feira de Santana
+Ananindeua
+Guarulhos
+Joinville
+Londrina
+Feira de Santana
+Caxias do Sul
+Cuiabá
+Uberlândia
+Jaboatão dos Guararapes
+São Gonçalo
+Guarulhos
+Feira de Santana
+Betim
+São Paulo
+Florianópolis
+Aparecida de Goiânia
+Cabo Frio
+Maceió
+Macapá
+Londrina
+Campo Grande
+Aracaju
+Serra
+Florianópolis
+Contagem
+Belo Horizonte
+Belo Horizonte
+Florianópolis
+Juiz de Fora
+Macapá
+Contagem
+Recife
+Mogi das Cruzes
+Juiz de Fora
+Piracicaba
+Curitiba
+Goiânia
+Cabo Frio
+Cabo Frio
+Porto Velho
+São José dos Campos
+Jundiaí
+Campo Grande
+Joinville
+Porto Velho
+Curitiba
+Porto Velho
+Ananindeua
+Curitiba
+Maceió
+Juiz de Fora
+Santos
+Vila Velha
+Niterói
+Niterói
+Fortaleza
+Olinda
+Santos
+Serra
+Mogi das Cruzes
+João Pessoa
+Ananindeua
+Salvador
+Ribeirão Preto
+Serra
+Jundiaí
+São Paulo
+Juiz de Fora
+Joinville
+Londrina
+Juiz de Fora
+Florianópolis
+Cabo Frio
+Ribeirão Preto
+Aracaju
+Jaboatão dos Guararapes
+Teresina
+Teresina
+Belém
+Belo Horizonte
+Piracicaba
+Betim
+Vila Velha
+João Pessoa
+Cabo Frio
+Florianópolis
+Natal
+Salvador
+Santos
+Juiz de Fora
+Mogi das Cruzes
+Belém
+Florianópolis
+Salvador
+Niterói
+Teresina
+Vila Velha
+Ananindeua
+Rio de Janeiro
+Teresina
+Aparecida de Goiânia
+Curitiba
+Porto Alegre
+Londrina
+Fortaleza
+Campo Grande
+Natal
+Porto Alegre
+Ananindeua
+Campo Grande
+Campo Grande
+Natal
+São Paulo
+Vila Velha
+Recife
+Betim
+Guarulhos
+Mogi das Cruzes
+Vila Velha
+Goiânia
+Niterói
+Cuiabá
+Contagem
+Guarulhos
+Natal
+Piracicaba
+Maceió
+Aparecida de Goiânia
+Guarulhos
+Porto Velho
+Belo Horizonte
+Ribeirão Preto
+Curitiba
+Goiânia
+Betim
+Goiânia
+Aparecida de Goiânia
+São José dos Campos
+Aracaju
+Jundiaí
+Uberlândia
+Maceió
+Niterói
+Cuiabá
+Cabo Frio
+Santos
+Belém
+São Luís
+Florianópolis
+Cabo Frio
+Jaboatão dos Guararapes
+Salvador
+Diadema
+Natal
+São José dos Campos
+Recife
+Salvador
+Belém
+Joinville
+Sorocaba
+Juiz de Fora
+João Pessoa
+Juiz de Fora
+Vila Velha
+São José dos Campos
+Serra
+São Gonçalo
+Uberlândia
+Olinda
+Macapá
+Uberlândia
+Juiz de Fora
+Natal
+Goiânia
+Porto Velho
+Feira de Santana
+São Paulo
+Teresina
+Cuiabá
+Uberlândia
+Olinda
+Osasco
+Porto Velho
+Olinda
+Belo Horizonte
+Manaus
+Serra
+Santos
+Jaboatão dos Guararapes
+Feira de Santana
+Ananindeua
+Diadema
+Campo Grande
+Ribeirão Preto
+Campo Grande
+Campo Grande
+Manaus
+Natal
+Diadema
+Mogi das Cruzes
+Sorocaba
+Joinville
+Jundiaí
+Olinda
+Vila Velha
+Maceió
+Cabo Frio
+Olinda
+Mogi das Cruzes
