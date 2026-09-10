@@ -12,7 +12,7 @@ Fictional database for demonstrating **data masking** products. Contains realist
 # Seed files: 150 × .txt, 1000 lines each  (random.seed = 42)
 python3 generate_seed.py
 
-# DDL + INSERTs: 60 × .sql, 120 rows/table  (random.seed = 99)
+# DDL + INSERTs: 60 × .sql, ~6.8k rows/country  (random.seed = 99)
 python3 generate_ddl.py
 ```
 
@@ -66,22 +66,56 @@ Document columns are suffixed with their role in each table (e.g., `cpf_titular`
 
 ## Tables (12 per country)
 
-All tables have 120 rows. PII columns are noted below.
+Row counts vary per table because the tables are related (see below). PII
+columns are noted below.
 
-| # | Brasil (PT)         | Outros países (ES)    | Key PII columns                                          |
-|---|---------------------|-----------------------|----------------------------------------------------------|
-| 1 | clientes            | clientes              | email, telefone, doc pessoal, data_nascimento, endereço  |
-| 2 | funcionarios        | empleados             | + salario, conta_bancaria                                |
-| 3 | contas_bancarias    | cuentas_bancarias     | numero_conta, saldo, doc titular                         |
-| 4 | cartoes_credito     | tarjetas_credito      | numero_cartao (PCI), nome_titular                        |
-| 5 | pedidos             | pedidos               | nome/doc cliente, endereço de entrega                    |
-| 6 | prontuarios_medicos | historiales_medicos   | diagnóstico, medicamentos, tipo sanguíneo                |
-| 7 | fornecedores        | proveedores           | nome_contato, email, telefone                            |
-| 8 | transacoes          | transacciones         | conta_origem/destino, ip_origem                          |
-| 9 | logs_acesso         | logs_acceso           | email_usuario, ip_address, user_agent                    |
-|10 | apolices_seguro     | polizas_seguro        | titular, doc, beneficiário, prêmio mensal                |
-|11 | contratos           | contratos             | contato nome/email/telefone, doc empresa                 |
-|12 | leads_marketing     | leads_marketing       | nome, email, telefone                                    |
+| # | Brasil (PT)         | Outros países (ES)    | Rows      | Key PII columns                                          |
+|---|---------------------|-----------------------|-----------|----------------------------------------------------------|
+| 1 | clientes            | clientes              | 120       | email, telefone, doc pessoal, data_nascimento, endereço  |
+| 2 | funcionarios        | empleados             | 120       | + salario, conta_bancaria                                |
+| 3 | contas_bancarias    | cuentas_bancarias     | ~200-220  | numero_conta, saldo, doc titular                         |
+| 4 | cartoes_credito     | tarjetas_credito      | ~250      | numero_cartao (PCI), nome_titular                        |
+| 5 | pedidos             | pedidos               | ~600      | nome/doc cliente, endereço de entrega                    |
+| 6 | prontuarios_medicos | historiales_medicos   | 96        | diagnóstico, medicamentos, tipo sanguíneo                |
+| 7 | fornecedores        | proveedores           | 120       | nome_contato, email, telefone                            |
+| 8 | transacoes          | transacciones         | 500       | conta_origem/destino, ip_origem                          |
+| 9 | logs_acesso         | logs_acceso           | ~4100     | email_usuario, ip_address, user_agent                    |
+|10 | apolices_seguro     | polizas_seguro        | ~280      | titular, doc, beneficiário, prêmio mensal                |
+|11 | contratos           | contratos             | ~250      | contato nome/email/telefone, doc empresa                 |
+|12 | leads_marketing     | leads_marketing       | 130       | nome, email, telefone                                    |
+
+## Relationships (by value — no FKs or constraints in the DDL)
+
+Every table is joined to another only by matching values (name, document,
+account number, e-mail). Nothing is enforced physically, so masking can break
+or preserve consistency at will.
+
+```
+clientes (120) ──┬── cartoes_credito      1..5 por cliente (todo cliente tem >= 1)
+                 ├── pedidos              1..20 por cliente (todo cliente tem >= 1)
+                 ├── prontuarios_medicos  0..1 por cliente (80% dos clientes)
+                 ├── apolices_seguro      1..5 por cliente (todo cliente tem >= 1)
+                 ├── contas_bancarias     80-100 clientes têm conta
+                 └── leads_marketing      35-55 clientes viram lead
+funcionarios ─── contas_bancarias         1 conta de salário cada, dados idênticos
+fornecedores ─── contratos                1..5 por fornecedor
+contas_bancarias ─── transacoes           conta_origem/destino sempre existem
+logs_acesso ─── e-mail de todo cliente, fornecedor e funcionário (>= 10 cada)
+```
+
+Exclusion rules honored by `generate_ddl.py`:
+
+* **Funcionários** só aparecem em `funcionarios` e na sua conta em
+  `contas_bancarias` (o e-mail corporativo também vai para `logs_acesso`).
+  Nome e documento de funcionário não existem em nenhuma outra tabela.
+* **Fornecedores** (contatos) não são clientes nem funcionários.
+* **leads_marketing** não contém funcionários nem fornecedores — apenas parte
+  dos clientes mais pessoas novas.
+* Nomes de médicos (`medico_responsavel`) e beneficiários de apólice também
+  vêm de pools próprios, sem colidir com clientes/funcionários/fornecedores.
+
+Identidades (nome + documento) são distribuídas por `IdentityPool` sem
+repetição, o que garante essas exclusões.
 
 ## Engine-Specific DDL Notes
 
@@ -90,4 +124,4 @@ All tables have 120 rows. PII columns are noted below.
 | PostgreSQL | TIMESTAMP  | none               | —               | —                            |
 | MySQL      | DATETIME   | backticks          | —               | `CREATE DATABASE`, utf8mb4   |
 | SQL Server | DATETIME2  | `[brackets]`       | GO              | `CREATE DATABASE` with `IF NOT EXISTS` |
-| Oracle     | TIMESTAMP  | UPPERCASE          | /               | `TO_DATE`/`TO_TIMESTAMP` in INSERTs |
+| Oracle     | TIMESTAMP  | UPPERCASE          | —               | `TO_DATE`/`TO_TIMESTAMP` in INSERTs; no `/` after the anonymous `BEGIN ... END;` block (many clients reject it) |
