@@ -8,6 +8,8 @@ import random
 import os
 import datetime
 
+from mexico_docs import curp, rfc_moral
+
 BASE = os.path.dirname(os.path.abspath(__file__))
 random.seed(99)
 
@@ -48,8 +50,21 @@ def rip():
 def ramount(lo=10, hi=50000):
     return round(random.uniform(lo, hi), 2)
 
-GENEROS_PT = ["M","F","M","F","M","F","M","F","Outro"]
-GENEROS_ES = ["M","F","M","F","M","F","M","F","Otro"]
+# Nomes femininos que não terminam em "a" (os demais terminados em "a" são femininos).
+NOMES_FEMININOS = {
+    "Aline", "Beatriz", "Belén", "Berenice", "Carmen", "Celeste", "Deisy", "Dolores",
+    "Elaine", "Elizabeth", "Flor", "Génesis", "Gladys", "Grettel", "Guadalupe", "Irene",
+    "Isabel", "Janeth", "Jennifer", "Jenny", "Jhanet", "Karen", "Katherine", "Katty",
+    "Kim", "Liz", "Lourdes", "Luz", "Mariangel", "Marisol", "Marlen", "Mary", "Michele",
+    "Michelle", "Milagros", "Monserrat", "Nairobis", "Nancy", "Nelly", "Pilar", "Rocío", "Rosmery",
+    "Sharon", "Shirley", "Soledad", "Susan", "Yenny", "Yolimar", "Yorleny", "Yusmary",
+    "Yvette",
+}
+
+def genero(nome):
+    """'F' ou 'M' a partir do primeiro nome."""
+    primeiro = nome.split()[0]
+    return "F" if primeiro in NOMES_FEMININOS or primeiro.endswith("a") else "M"
 
 ESTADOS_CIVIL_PT = ["Solteiro","Casado","Divorciado","Viúvo","União Estável"]
 ESTADOS_CIVIL_ES = ["Soltero","Casado","Divorciado","Viudo","Unión Libre"]
@@ -104,7 +119,7 @@ USER_AGENTS = [
 # ─── VOCABULARY PER LANGUAGE ──────────────────────────────────────────────────
 
 V_PT = {
-    "generos": GENEROS_PT, "estados_civil": ESTADOS_CIVIL_PT,
+    "estados_civil": ESTADOS_CIVIL_PT,
     "tipos_conta": TIPOS_CONTA_PT, "cartao_rede": BANDEIRAS,
     "status": STATUS_GERAL, "tipos_seguro": TIPOS_SEGURO_PT,
     "cargos": CARGOS_PT, "departamentos": DEPARTS,
@@ -122,7 +137,7 @@ V_PT = {
 }
 
 V_ES = {
-    "generos": GENEROS_ES, "estados_civil": ESTADOS_CIVIL_ES,
+    "estados_civil": ESTADOS_CIVIL_ES,
     "tipos_conta": TIPOS_CONTA_ES, "cartao_rede": REDES_ES,
     "status": STATUS_ES, "tipos_seguro": TIPOS_SEGURO_ES,
     "cargos": CARGOS_ES, "departamentos": DEPARTS_ES,
@@ -216,6 +231,14 @@ def build_dataset(cfg):
     docs_emp   = load(country, cfg["doc_emp_file"])
     cidades    = load(country, cfg["city_file"])
 
+    # México: CURP e RFC são derivados dos dados da linha (nome, sobrenomes,
+    # nascimento, gênero, estado / razão social), em vez de vir do seed.
+    # A pessoa tem dois sobrenomes (paterno + materno), ambos usados na CURP.
+    mexico = country == "mexico"
+    if mexico:
+        unicos = list(dict.fromkeys(sobrenomes))
+        sobrenomes = [f"{a} {b}" for a in unicos for b in unicos if a != b]
+
     sep = " - " if pt else ","
 
     def split_city(s):
@@ -245,20 +268,37 @@ def build_dataset(cfg):
                 contas_usadas.add(c)
                 return c
 
+    docs_usados = set()
+
+    def unico(gerar):
+        """Primeiro valor de gerar(0), gerar(1), ... ainda não usado."""
+        for k in range(1000):
+            d = gerar(k)
+            if d not in docs_usados:
+                docs_usados.add(d)
+                return d
+        raise RuntimeError("não foi possível gerar documento único")
+
     def pessoa(ident):
         nome, sob, doc = ident
         cidade, regiao = split_city(rd(cidades))
-        return {
+        p = {
             "nome": nome, "sobrenome": sob, "doc": doc,
             "nome_completo": f"{nome} {sob}",
             "email": email_unico(nome, sob),
             "telefone": rd(fones),
             "nascimento": rdate(),
-            "genero": rd(V["generos"]),
+            "genero": genero(nome),
             "estado_civil": rd(V["estados_civil"]),
             "end1": rd(end1), "end2": rd(end2),
             "cidade": cidade, "regiao": regiao, "cep": rd(ceps),
         }
+        if mexico:
+            paterno, materno = sob.split(" ", 1)
+            sexo = "M" if p["genero"] == "F" else "H"
+            p["doc"] = unico(lambda h: curp(nome, paterno, materno, p["nascimento"],
+                                            sexo, regiao, h))
+        return p
 
     # ── pessoas (identidades mutuamente exclusivas) ───────────────────────────
     clientes  = [pessoa(t) for t in pool.take(N_CLIENTES)]
@@ -290,9 +330,15 @@ def build_dataset(cfg):
     for idx, contato in enumerate(contatos):
         emp = empresas_livres[idx]
         cidade, regiao = split_city(rd(cidades))
+        if mexico:
+            constituicao = rdate(1970, 2020)
+            doc_emp = unico(lambda k: rfc_moral(emp, (datetime.date.fromisoformat(constituicao)
+                                                      + datetime.timedelta(days=k)).isoformat()))
+        else:
+            doc_emp = docs_emp_livres[idx]
         fornecedores.append({
             "empresa": emp,
-            "doc_emp": docs_emp_livres[idx],
+            "doc_emp": doc_emp,
             "contato": contato,
             "email": f"{prefixo_email}{slug(emp.split()[0])}{idx + 1}{tld}",
             "telefone": contato["telefone"],

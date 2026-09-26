@@ -1,1000 +1,1000 @@
-Barrio La California 109
-Barrio Moravia Centro 783
-Barrio Los Yoses 671
-Calle Barrio México 20
-Avenida Escazú Centro 360
-Avenida Los Yoses 759
-Avenida Del Mall 220
-Calle Rohrmoser 815
-Barrio Escazú Centro 197
-Barrio Amón 402
-Calle Guadalupe Centro 250
-Calle Curridabat 936
-Avenida La Sabana 830
-Avenida Otoya 335
-Calle La Sabana 743
-Avenida La Sabana 638
-Barrio Central 550
-Barrio La California 465
-Calle San Pedro 793
-Avenida Los Ángeles 41
-Barrio Del Mall 702
-Barrio Del Mall 587
-Avenida Del Mall 359
-Calle Rohrmoser 63
-Barrio Guadalupe Centro 212
-Calle San Pedro 730
-Barrio Central 79
-Calle Los Yoses 763
-Avenida Amón 39
-Avenida Amón 918
-Calle Rohrmoser 539
-Calle Rohrmoser 981
-Avenida Barrio Escalante 398
-Calle Curridabat 777
-Barrio San Pedro 540
-Calle Los Yoses 36
-Avenida Barrio México 853
-Avenida Tibás Centro 227
-Calle La California 359
-Barrio Escazú Centro 325
-Barrio Barrio México 620
-Barrio Guadalupe Centro 359
-Avenida La California 696
-Barrio Amón 56
-Barrio Barrio Escalante 856
-Calle La California 443
-Calle Barrio Escalante 569
-Calle Los Yoses 511
-Calle Del Mall 224
-Barrio Del Mall 26
-Barrio Barrio Escalante 936
-Avenida Los Yoses 82
-Calle Curridabat 146
-Barrio Los Ángeles 917
-Calle Barrio México 239
-Calle Barrio Escalante 44
-Barrio Sabanilla 300
-Barrio Sabanilla 552
-Avenida Sabanilla 750
-Calle Moravia Centro 217
-Barrio La Sabana 169
-Calle La California 873
-Calle Rohrmoser 520
-Calle San Pedro 130
-Barrio Rohrmoser 639
-Avenida Rohrmoser 840
-Calle Amón 610
-Barrio Tibás Centro 867
-Avenida Tibás Centro 414
-Calle Barrio México 141
-Barrio Paseo Colón 443
-Calle Central 234
-Barrio San Pedro 608
-Calle Los Yoses 122
-Calle Sabanilla 153
-Barrio Sabanilla 824
-Barrio Curridabat 757
-Avenida La Sabana 974
-Avenida La Sabana 249
-Avenida Del Parque 179
-Barrio Amón 109
-Avenida Tibás Centro 506
-Calle Los Yoses 721
-Barrio La Sabana 486
-Avenida Moravia Centro 63
-Barrio Guadalupe Centro 829
-Calle Los Yoses 563
-Avenida Otoya 570
-Calle La Sabana 95
-Barrio Sabanilla 437
-Calle Otoya 232
-Barrio Sabanilla 15
-Avenida Paseo Colón 857
-Barrio Curridabat 379
-Avenida San Pedro 387
-Barrio Los Ángeles 582
-Avenida Guadalupe Centro 194
-Avenida Del Parque 529
-Barrio Los Ángeles 229
-Barrio Moravia Centro 341
-Barrio Paseo Colón 842
-Barrio Central 640
-Barrio Rohrmoser 643
-Avenida Tibás Centro 990
-Avenida La Sabana 838
-Avenida Otoya 72
-Avenida Amón 24
-Calle San Pedro 66
-Avenida Sabanilla 892
-Avenida La California 275
-Calle Sabanilla 153
-Calle La Sabana 223
-Avenida Del Mall 380
-Avenida Del Mall 695
-Calle Curridabat 302
-Calle San Pedro 166
-Barrio Del Parque 552
-Calle Rohrmoser 368
-Barrio Curridabat 104
-Avenida Tibás Centro 677
-Barrio Moravia Centro 886
-Calle Paseo Colón 957
-Calle Del Mall 307
-Calle Rohrmoser 542
-Barrio Moravia Centro 761
-Calle Guadalupe Centro 81
-Calle Los Ángeles 152
-Calle Tibás Centro 708
-Calle San Pedro 854
-Barrio Moravia Centro 475
-Barrio Rohrmoser 10
-Calle Guadalupe Centro 639
-Barrio La California 379
-Avenida Escazú Centro 348
-Barrio Escazú Centro 130
-Barrio Los Yoses 765
-Avenida Otoya 992
-Avenida Escazú Centro 178
-Calle Los Yoses 80
-Barrio Del Parque 998
-Avenida Los Ángeles 815
-Calle Guadalupe Centro 831
-Calle La California 174
-Barrio Rohrmoser 613
-Calle Paseo Colón 328
-Avenida Del Mall 238
-Avenida Rohrmoser 446
-Calle Tibás Centro 869
-Calle Sabanilla 145
-Calle San Pedro 477
-Calle Curridabat 427
-Avenida Tibás Centro 954
-Barrio Escazú Centro 628
-Calle Rohrmoser 548
-Barrio La Sabana 626
-Calle La California 724
-Barrio Los Yoses 211
-Barrio Curridabat 743
-Avenida Amón 493
-Calle Otoya 64
-Avenida Del Parque 974
-Barrio San Pedro 293
-Calle Moravia Centro 954
-Barrio Tibás Centro 843
-Calle Barrio México 370
-Barrio Escazú Centro 561
-Avenida Los Yoses 233
-Avenida Tibás Centro 613
-Avenida La Sabana 967
-Avenida Guadalupe Centro 458
-Barrio San Pedro 842
-Avenida Tibás Centro 606
-Barrio La Sabana 577
-Calle Del Mall 390
-Calle La Sabana 117
-Calle Central 92
-Calle Del Parque 222
-Calle Rohrmoser 937
-Calle San Pedro 42
-Avenida Barrio México 556
-Calle Paseo Colón 660
-Barrio Curridabat 396
-Calle La California 969
-Avenida Barrio México 235
-Barrio Los Yoses 662
-Barrio Del Parque 328
-Barrio Otoya 722
-Calle La Sabana 168
-Barrio Barrio Escalante 364
-Barrio Guadalupe Centro 510
-Barrio Del Mall 89
-Calle Del Mall 712
-Calle Barrio Escalante 460
-Calle Curridabat 906
-Calle Del Mall 800
-Avenida Moravia Centro 913
-Calle Escazú Centro 742
-Calle Guadalupe Centro 600
-Calle Los Ángeles 873
-Avenida Central 763
-Avenida Los Yoses 582
-Avenida Curridabat 992
-Avenida La Sabana 665
-Avenida Barrio Escalante 578
-Barrio Central 105
-Barrio Del Mall 197
-Calle Del Parque 373
-Barrio Guadalupe Centro 776
-Barrio Los Yoses 492
-Calle San Pedro 648
-Avenida Guadalupe Centro 425
-Calle Curridabat 552
-Avenida Escazú Centro 456
-Barrio Barrio México 235
-Avenida Otoya 245
-Avenida Los Ángeles 193
-Calle Paseo Colón 295
-Barrio Amón 991
-Barrio Rohrmoser 261
-Barrio Guadalupe Centro 964
-Calle Tibás Centro 549
-Avenida Central 82
-Barrio Central 860
-Barrio Paseo Colón 243
-Calle Curridabat 666
-Barrio Los Yoses 885
-Avenida Del Mall 830
-Avenida Moravia Centro 597
-Avenida Barrio Escalante 501
-Avenida Otoya 640
-Avenida Del Parque 264
-Calle Amón 184
-Barrio Rohrmoser 835
-Avenida Central 615
-Avenida Tibás Centro 28
-Barrio Del Mall 167
-Barrio La California 369
-Avenida Rohrmoser 18
-Calle La Sabana 998
-Barrio San Pedro 419
-Avenida San Pedro 971
-Calle Los Yoses 47
-Barrio Barrio Escalante 572
-Avenida Tibás Centro 131
-Avenida La Sabana 809
-Avenida Rohrmoser 682
-Avenida Central 185
-Avenida La California 883
-Avenida Moravia Centro 261
-Barrio Paseo Colón 18
-Calle Otoya 642
-Calle Tibás Centro 235
-Avenida Central 313
-Calle Del Parque 813
-Barrio Otoya 433
-Avenida Tibás Centro 379
-Barrio Moravia Centro 921
-Barrio Barrio México 280
-Calle Barrio Escalante 282
-Calle La Sabana 380
-Barrio Rohrmoser 202
-Calle Los Yoses 405
-Avenida Curridabat 34
-Barrio Los Yoses 877
-Avenida Amón 534
-Avenida Moravia Centro 55
-Barrio Curridabat 311
-Calle Guadalupe Centro 329
-Avenida Rohrmoser 86
-Barrio Guadalupe Centro 154
-Calle Sabanilla 766
-Calle Barrio México 432
-Calle Central 51
-Barrio Moravia Centro 864
-Barrio Otoya 118
-Barrio La Sabana 925
-Barrio Sabanilla 133
-Calle Los Yoses 739
-Barrio Del Mall 582
-Barrio Barrio Escalante 4
-Calle Rohrmoser 385
-Calle La Sabana 620
-Calle La California 496
-Barrio Amón 649
-Avenida Guadalupe Centro 8
-Avenida Barrio México 977
-Barrio Sabanilla 106
-Barrio Central 6
-Avenida Del Mall 836
-Barrio Escazú Centro 32
-Calle Los Ángeles 809
-Barrio San Pedro 405
-Calle Curridabat 25
-Avenida Del Parque 193
-Calle La Sabana 230
-Barrio Curridabat 898
-Barrio Barrio México 633
-Avenida Guadalupe Centro 557
-Barrio Barrio Escalante 368
-Barrio Guadalupe Centro 224
-Avenida La Sabana 179
-Barrio Central 897
-Barrio San Pedro 581
-Calle Otoya 955
-Calle Guadalupe Centro 784
-Avenida Amón 494
-Calle Barrio Escalante 297
-Barrio Otoya 389
-Calle Los Ángeles 499
-Calle Barrio México 983
-Calle Sabanilla 84
-Calle Los Yoses 333
-Calle Del Mall 106
-Calle Guadalupe Centro 881
-Avenida La Sabana 345
-Barrio Rohrmoser 746
-Calle Los Ángeles 881
-Avenida Paseo Colón 666
-Calle Sabanilla 830
-Calle Sabanilla 779
-Barrio Paseo Colón 220
-Avenida Curridabat 307
-Calle La California 54
-Avenida Central 132
-Barrio Paseo Colón 780
-Barrio Amón 267
-Barrio Los Yoses 289
-Avenida Los Yoses 654
-Calle Rohrmoser 727
-Barrio Amón 859
-Avenida La Sabana 308
-Calle Del Parque 207
-Avenida Amón 878
-Barrio Los Ángeles 925
-Calle Los Ángeles 325
-Avenida Rohrmoser 384
-Avenida Barrio Escalante 504
-Calle Del Parque 121
-Barrio Otoya 746
-Calle Del Mall 241
-Avenida Barrio Escalante 823
-Avenida Los Yoses 253
-Calle San Pedro 138
-Avenida Los Yoses 735
-Barrio San Pedro 959
-Avenida Los Ángeles 414
-Calle Guadalupe Centro 868
-Avenida Tibás Centro 782
-Barrio Guadalupe Centro 668
-Calle La California 451
-Avenida La Sabana 114
-Avenida La Sabana 252
-Barrio Central 745
-Avenida Moravia Centro 189
-Barrio Curridabat 948
-Avenida Otoya 447
-Avenida Tibás Centro 310
-Calle Los Ángeles 878
-Calle Guadalupe Centro 202
-Avenida Escazú Centro 413
-Avenida Tibás Centro 243
-Avenida Rohrmoser 95
-Calle Barrio México 627
-Calle Tibás Centro 617
-Avenida Sabanilla 598
-Avenida Escazú Centro 553
-Barrio Barrio México 607
-Calle Barrio Escalante 525
-Barrio Moravia Centro 104
-Calle Del Parque 496
-Calle La California 289
-Calle Curridabat 930
-Barrio Sabanilla 673
-Calle Del Mall 88
-Avenida Barrio México 545
-Avenida Curridabat 599
-Avenida Central 896
-Calle Del Mall 81
-Calle Barrio Escalante 661
-Avenida Paseo Colón 144
-Avenida Moravia Centro 670
-Barrio Sabanilla 204
-Calle Moravia Centro 797
-Calle Del Parque 884
-Calle Sabanilla 14
-Calle Del Mall 709
-Avenida Moravia Centro 196
-Calle Los Ángeles 537
-Avenida La Sabana 150
-Barrio Curridabat 309
-Barrio La Sabana 911
-Calle Del Parque 250
-Calle Guadalupe Centro 226
-Avenida La California 393
-Calle Amón 661
-Avenida Rohrmoser 101
-Calle Amón 483
-Barrio San Pedro 194
-Avenida Del Mall 293
-Barrio La California 686
-Barrio Los Yoses 313
-Avenida Amón 220
-Avenida Los Ángeles 969
-Avenida Otoya 742
-Avenida La California 403
-Avenida Los Yoses 819
-Avenida Paseo Colón 546
-Calle Central 534
-Barrio Guadalupe Centro 281
-Barrio Barrio Escalante 21
-Barrio Barrio Escalante 617
-Calle Rohrmoser 941
-Calle La Sabana 244
-Avenida Sabanilla 622
-Calle La California 284
-Avenida Sabanilla 599
-Barrio Los Ángeles 102
-Barrio Los Ángeles 124
-Calle Barrio Escalante 390
-Avenida Amón 227
-Avenida Del Parque 10
-Barrio Central 347
-Barrio Barrio Escalante 456
-Calle Rohrmoser 99
-Avenida Escazú Centro 771
-Avenida Barrio México 888
-Avenida Los Ángeles 12
-Barrio Otoya 591
-Avenida Del Mall 508
-Avenida Barrio México 833
-Barrio La Sabana 580
-Avenida Guadalupe Centro 276
+Calle La California 36
+Barrio Guadalupe Centro 303
+Avenida Moravia Centro 426
+Calle Rohrmoser 611
+Barrio Los Yoses 846
+Barrio Barrio Escalante 624
+Barrio La California 861
+Avenida Del Parque 232
+Barrio Curridabat 89
+Avenida La Sabana 158
+Avenida La California 3
+Avenida Tibás Centro 987
+Avenida Barrio México 467
+Barrio Amón 466
 Barrio Del Mall 727
-Barrio Los Ángeles 253
-Avenida Los Yoses 512
-Barrio Escazú Centro 709
-Barrio Barrio Escalante 831
-Avenida La California 846
-Calle Sabanilla 128
-Avenida Central 516
-Barrio Paseo Colón 103
-Barrio Central 738
-Avenida San Pedro 717
-Barrio Moravia Centro 764
-Barrio Guadalupe Centro 921
-Calle Escazú Centro 839
-Calle La Sabana 556
-Barrio La Sabana 359
-Barrio Central 94
-Calle Los Yoses 566
-Calle Barrio México 960
-Avenida Guadalupe Centro 951
-Calle San Pedro 827
-Calle Del Parque 680
-Barrio Barrio Escalante 517
-Avenida Sabanilla 660
-Avenida Central 774
-Calle Los Ángeles 157
-Calle Barrio Escalante 610
-Avenida Los Ángeles 300
-Calle Tibás Centro 377
-Barrio Otoya 174
-Calle Guadalupe Centro 702
-Calle Barrio México 321
-Barrio Central 935
-Avenida Rohrmoser 919
-Barrio Del Parque 791
-Barrio Central 693
-Calle Central 338
-Barrio Tibás Centro 595
-Avenida Del Mall 116
-Calle La Sabana 613
-Calle Moravia Centro 647
-Calle Del Parque 896
-Avenida La California 219
-Calle Los Yoses 758
-Calle Barrio México 153
-Calle Los Yoses 50
-Calle Escazú Centro 125
-Barrio Del Parque 669
-Avenida Otoya 692
-Calle Guadalupe Centro 823
-Avenida Otoya 754
-Avenida Del Parque 484
-Calle Del Parque 666
-Avenida Barrio México 918
-Barrio Barrio México 616
-Barrio La Sabana 296
-Avenida Rohrmoser 646
-Avenida Barrio México 89
-Avenida Tibás Centro 766
-Barrio Del Mall 263
-Barrio Del Mall 149
-Calle Del Mall 736
-Avenida Tibás Centro 791
-Barrio Los Ángeles 953
-Calle La California 771
-Barrio La Sabana 963
-Barrio Central 268
-Barrio Otoya 353
-Calle Escazú Centro 928
-Calle Los Ángeles 373
-Barrio Paseo Colón 762
-Avenida Moravia Centro 53
-Barrio Barrio Escalante 115
-Calle La Sabana 679
+Calle Rohrmoser 182
+Calle Los Yoses 317
+Avenida Del Parque 886
+Avenida La Sabana 165
+Calle Del Mall 671
+Calle La Sabana 557
+Barrio Del Mall 748
+Calle Escazú Centro 825
+Avenida Los Ángeles 388
+Avenida Moravia Centro 596
+Avenida San Pedro 786
+Avenida La California 355
+Barrio Los Yoses 213
+Avenida La California 384
+Barrio Barrio Escalante 868
+Barrio Rohrmoser 733
+Calle Amón 778
+Barrio Curridabat 392
+Calle Barrio México 846
+Calle San Pedro 84
+Avenida Moravia Centro 344
+Barrio Escazú Centro 362
 Calle Curridabat 604
-Avenida Del Parque 641
-Avenida Rohrmoser 799
-Avenida Guadalupe Centro 13
-Barrio Central 426
-Avenida Escazú Centro 164
-Barrio Paseo Colón 544
-Calle Otoya 355
-Calle Del Parque 614
-Avenida Del Mall 198
-Barrio Escazú Centro 877
-Calle Otoya 264
-Avenida Tibás Centro 209
-Barrio Escazú Centro 352
-Barrio Sabanilla 206
-Calle Del Mall 344
-Avenida Otoya 618
-Avenida Barrio Escalante 478
-Avenida La Sabana 808
-Calle San Pedro 748
-Barrio Del Parque 247
-Calle La California 432
-Barrio Del Mall 570
-Barrio Los Ángeles 903
-Avenida Central 874
-Calle Moravia Centro 354
-Avenida Otoya 257
-Calle San Pedro 457
-Barrio San Pedro 327
-Barrio Los Ángeles 795
-Avenida Paseo Colón 617
-Avenida Sabanilla 406
-Calle La California 610
-Avenida San Pedro 199
-Calle Amón 908
-Avenida Curridabat 227
-Avenida Rohrmoser 673
-Avenida Tibás Centro 155
-Avenida Guadalupe Centro 152
-Calle Escazú Centro 865
-Avenida Barrio Escalante 603
-Barrio Curridabat 384
-Avenida Rohrmoser 694
-Barrio Barrio México 805
-Barrio Curridabat 431
-Calle Tibás Centro 306
-Calle Barrio Escalante 593
-Calle Otoya 811
-Calle Guadalupe Centro 15
-Calle Escazú Centro 300
-Barrio Tibás Centro 984
-Calle Curridabat 819
-Calle Central 435
-Barrio Los Ángeles 4
-Barrio Paseo Colón 73
-Avenida La California 62
-Avenida Del Mall 156
-Barrio Sabanilla 502
-Avenida La California 105
-Barrio Barrio México 524
-Avenida Barrio México 165
-Avenida San Pedro 775
-Avenida Del Mall 73
-Barrio Amón 774
-Avenida Tibás Centro 776
-Barrio Sabanilla 6
-Calle Escazú Centro 84
-Avenida La California 709
-Avenida Paseo Colón 514
-Calle Curridabat 17
-Avenida Barrio México 377
-Avenida Los Yoses 361
-Avenida Barrio Escalante 979
-Avenida Los Yoses 414
-Avenida Paseo Colón 108
-Avenida Sabanilla 294
-Avenida Otoya 22
-Barrio Guadalupe Centro 476
-Calle Rohrmoser 26
-Barrio San Pedro 304
-Barrio Curridabat 90
-Barrio Del Parque 394
-Calle Barrio Escalante 104
-Calle La California 74
-Avenida Guadalupe Centro 646
-Calle Barrio México 494
-Calle Los Yoses 608
-Barrio Central 345
-Barrio Barrio Escalante 144
-Barrio Sabanilla 962
-Avenida Los Yoses 257
-Avenida La California 14
-Avenida Del Mall 282
-Calle Los Yoses 882
-Avenida Del Mall 606
-Avenida Barrio Escalante 462
-Avenida Otoya 929
-Calle La Sabana 595
-Calle Amón 459
-Barrio Guadalupe Centro 379
-Avenida Curridabat 957
-Calle Guadalupe Centro 114
-Avenida Curridabat 846
-Calle Paseo Colón 286
-Calle Curridabat 824
-Avenida Barrio México 211
-Barrio Del Mall 827
-Avenida San Pedro 416
-Calle Los Ángeles 285
-Avenida Otoya 252
-Avenida San Pedro 146
-Barrio Rohrmoser 199
-Barrio La Sabana 451
-Avenida Guadalupe Centro 329
-Barrio Barrio México 503
-Avenida Rohrmoser 324
-Barrio Escazú Centro 895
-Barrio Tibás Centro 714
-Avenida Barrio México 308
-Calle Barrio Escalante 499
-Calle Del Mall 731
-Calle Amón 469
-Avenida La Sabana 589
-Barrio Sabanilla 666
-Avenida Central 837
-Avenida Del Mall 690
-Avenida Los Yoses 479
-Calle Curridabat 198
-Barrio La California 432
-Calle Escazú Centro 497
-Barrio Moravia Centro 938
-Barrio San Pedro 404
-Avenida Escazú Centro 695
-Barrio Sabanilla 240
-Barrio Tibás Centro 562
-Avenida Barrio México 642
-Avenida Amón 203
-Calle Barrio Escalante 489
-Avenida Curridabat 20
-Calle Guadalupe Centro 150
-Calle Del Parque 680
-Barrio Escazú Centro 892
-Barrio Del Parque 331
-Calle Del Mall 439
-Avenida Del Mall 358
-Barrio La Sabana 451
-Calle Curridabat 610
-Calle Sabanilla 683
-Avenida Tibás Centro 934
-Barrio La California 329
-Avenida Paseo Colón 992
-Calle Los Ángeles 899
-Avenida Rohrmoser 20
-Barrio Barrio Escalante 35
-Calle Rohrmoser 520
-Barrio Otoya 366
-Barrio Central 870
-Barrio Los Ángeles 399
-Calle Otoya 982
-Calle Central 320
-Calle Del Parque 587
-Calle Rohrmoser 641
-Calle La Sabana 891
-Barrio Curridabat 625
-Barrio Tibás Centro 126
-Calle Escazú Centro 899
-Avenida Barrio Escalante 80
-Barrio Los Ángeles 84
-Barrio Los Ángeles 108
-Avenida Sabanilla 172
-Barrio Paseo Colón 986
-Calle Los Ángeles 594
-Calle Moravia Centro 789
-Barrio La Sabana 885
-Avenida Otoya 628
-Avenida Paseo Colón 583
-Calle Barrio México 814
-Barrio Moravia Centro 572
-Avenida Barrio Escalante 585
-Barrio Los Ángeles 542
-Avenida Central 49
-Calle Barrio México 473
-Barrio San Pedro 706
-Calle Barrio México 405
-Barrio Guadalupe Centro 756
-Avenida La Sabana 783
-Barrio Moravia Centro 815
-Calle La Sabana 922
-Avenida Sabanilla 39
-Avenida Del Parque 889
-Barrio Central 756
-Barrio Otoya 176
-Avenida Otoya 114
-Avenida Barrio Escalante 104
-Avenida Central 623
-Calle Del Parque 292
-Calle Guadalupe Centro 694
-Avenida Del Parque 345
-Calle Central 221
-Avenida Barrio México 789
-Calle La Sabana 191
-Avenida San Pedro 408
-Calle San Pedro 772
-Barrio Los Ángeles 593
-Calle Moravia Centro 787
-Barrio Central 353
-Barrio Barrio Escalante 562
-Barrio Amón 378
-Avenida Los Ángeles 942
-Barrio Barrio México 731
-Calle Los Yoses 715
-Avenida Guadalupe Centro 427
-Barrio Curridabat 184
-Calle Curridabat 800
-Calle Central 804
-Barrio Tibás Centro 820
-Avenida Sabanilla 49
-Barrio Barrio Escalante 268
-Avenida La California 62
-Barrio Barrio Escalante 937
-Barrio Del Mall 391
-Calle La Sabana 390
-Calle La California 136
-Barrio Paseo Colón 175
-Avenida Los Yoses 362
-Avenida Moravia Centro 713
-Barrio Guadalupe Centro 747
-Barrio Rohrmoser 879
-Calle Central 268
-Calle La California 289
-Calle Moravia Centro 849
-Calle Central 107
-Barrio Los Yoses 739
-Barrio Rohrmoser 359
-Calle Otoya 788
-Calle Del Mall 884
-Barrio Paseo Colón 404
-Avenida Escazú Centro 366
-Calle Curridabat 354
+Barrio Central 648
+Avenida Guadalupe Centro 667
+Calle Central 481
+Barrio Los Yoses 594
+Barrio Los Yoses 176
+Barrio Otoya 478
+Barrio Paseo Colón 934
+Avenida La Sabana 96
+Barrio Del Mall 345
+Barrio La Sabana 315
 Avenida Escazú Centro 159
-Barrio Tibás Centro 26
-Calle Otoya 156
-Barrio Barrio Escalante 646
-Avenida San Pedro 73
-Calle Guadalupe Centro 727
-Barrio Barrio Escalante 42
-Calle Barrio Escalante 53
-Barrio Central 818
-Barrio Rohrmoser 268
-Barrio Guadalupe Centro 943
-Avenida Paseo Colón 203
-Avenida La California 167
-Avenida Escazú Centro 502
-Calle Curridabat 402
-Avenida Central 733
-Calle Rohrmoser 869
-Barrio Curridabat 953
-Calle Amón 425
-Barrio Amón 930
-Calle Sabanilla 675
-Barrio Del Mall 180
-Barrio San Pedro 667
-Calle La Sabana 747
-Calle Escazú Centro 97
-Avenida Del Mall 880
-Barrio Del Parque 552
-Calle La Sabana 525
-Barrio Sabanilla 170
-Calle Moravia Centro 662
-Barrio Moravia Centro 531
-Barrio Tibás Centro 987
-Avenida Rohrmoser 366
-Avenida Central 470
-Avenida Paseo Colón 139
-Barrio Guadalupe Centro 444
-Calle Otoya 407
-Calle La Sabana 888
-Calle Barrio Escalante 969
-Barrio La California 383
-Barrio Paseo Colón 594
-Calle Central 996
-Barrio Barrio Escalante 358
-Avenida Guadalupe Centro 412
-Barrio Rohrmoser 146
-Calle Moravia Centro 644
-Calle Paseo Colón 489
-Avenida Amón 356
-Avenida La California 845
-Barrio Amón 629
-Barrio San Pedro 101
-Avenida San Pedro 51
-Avenida Otoya 827
-Barrio Barrio México 722
-Calle Escazú Centro 677
-Barrio La California 556
-Barrio Escazú Centro 341
-Calle Sabanilla 513
-Avenida Moravia Centro 560
-Barrio Del Mall 680
-Calle Curridabat 193
-Barrio Barrio México 946
-Calle La California 352
-Calle Barrio México 425
-Barrio La Sabana 211
-Calle Los Yoses 489
-Calle Curridabat 826
-Avenida Del Parque 203
-Avenida Escazú Centro 715
-Barrio Los Ángeles 374
-Avenida Amón 477
-Barrio Los Ángeles 214
-Calle Central 958
-Calle Los Ángeles 145
-Avenida Moravia Centro 1
-Barrio Otoya 977
-Barrio Otoya 906
-Calle Rohrmoser 954
-Calle Central 96
-Avenida Los Yoses 941
-Calle La California 477
-Calle Los Yoses 661
-Barrio Del Mall 486
-Barrio Curridabat 209
-Barrio Curridabat 304
-Barrio Paseo Colón 779
-Barrio Del Mall 546
-Avenida Del Mall 885
-Calle Guadalupe Centro 772
-Calle Paseo Colón 564
-Calle Del Mall 859
-Barrio Central 279
-Avenida La California 579
-Barrio Del Parque 489
-Calle La California 323
-Avenida Rohrmoser 841
-Barrio La California 677
-Calle Escazú Centro 638
-Avenida Moravia Centro 840
-Barrio La Sabana 869
-Avenida Sabanilla 276
-Calle Los Yoses 241
-Avenida Rohrmoser 839
-Barrio Paseo Colón 52
-Barrio Escazú Centro 732
-Barrio Paseo Colón 151
-Calle Del Parque 554
-Barrio Del Mall 995
-Calle San Pedro 566
-Avenida Del Parque 18
-Barrio Moravia Centro 906
-Calle Sabanilla 358
-Calle Los Ángeles 785
-Barrio La California 911
-Barrio La California 704
-Avenida Otoya 660
-Barrio Rohrmoser 500
-Calle Curridabat 559
-Avenida Los Yoses 957
-Avenida Curridabat 184
-Barrio Paseo Colón 969
-Barrio Otoya 155
-Barrio Del Mall 444
-Avenida Barrio México 576
-Barrio Central 233
-Barrio Barrio Escalante 448
-Calle Barrio México 759
-Barrio Moravia Centro 34
-Barrio Rohrmoser 40
-Barrio Escazú Centro 786
-Avenida Otoya 546
-Calle Amón 498
-Calle San Pedro 488
-Calle Del Mall 93
-Barrio Sabanilla 649
-Calle Central 848
-Barrio La California 2
-Calle Otoya 738
-Calle Central 551
-Barrio Barrio México 876
-Avenida Barrio Escalante 298
-Calle Sabanilla 602
-Barrio Moravia Centro 968
-Calle Del Parque 626
-Calle Guadalupe Centro 84
-Barrio Paseo Colón 88
-Barrio La California 513
-Calle Barrio México 752
-Avenida Barrio Escalante 25
-Calle Los Ángeles 830
-Avenida Guadalupe Centro 8
-Calle Sabanilla 633
-Calle Tibás Centro 697
-Calle Otoya 71
-Calle Amón 492
-Calle Otoya 924
-Barrio Otoya 983
-Calle Amón 386
-Avenida Amón 45
-Avenida La Sabana 772
-Avenida Curridabat 148
-Avenida Moravia Centro 27
-Avenida Rohrmoser 827
-Barrio Sabanilla 119
-Avenida Curridabat 590
-Avenida Amón 704
-Calle Barrio Escalante 480
-Barrio San Pedro 47
-Calle Amón 605
-Avenida Sabanilla 28
-Avenida Curridabat 79
-Calle Los Ángeles 546
-Calle Amón 907
-Calle Los Ángeles 233
-Avenida Los Yoses 20
-Avenida Escazú Centro 122
-Calle Central 957
-Barrio Barrio México 848
-Calle Otoya 564
-Avenida Del Parque 978
-Barrio Escazú Centro 535
-Barrio Otoya 237
-Avenida Central 563
-Calle Escazú Centro 61
-Calle Central 600
-Avenida Central 608
-Avenida Escazú Centro 989
-Barrio Moravia Centro 777
-Avenida Del Parque 949
-Calle San Pedro 641
-Calle Barrio México 387
-Calle Rohrmoser 60
-Calle Escazú Centro 535
-Avenida Amón 193
-Calle Del Parque 400
-Avenida Amón 139
-Barrio Central 112
-Calle Amón 651
-Avenida Los Ángeles 567
-Calle Guadalupe Centro 677
-Avenida Moravia Centro 825
-Calle Paseo Colón 983
-Barrio Otoya 517
-Avenida Del Mall 264
-Avenida Guadalupe Centro 191
-Calle Guadalupe Centro 548
-Calle Moravia Centro 788
-Avenida Los Yoses 127
-Calle La Sabana 786
-Calle Rohrmoser 476
-Avenida Moravia Centro 353
-Barrio Central 529
-Avenida Guadalupe Centro 300
-Calle Barrio Escalante 109
-Calle Central 471
-Avenida Barrio México 904
-Barrio San Pedro 758
-Calle Barrio Escalante 751
-Calle Amón 683
-Calle Guadalupe Centro 318
+Avenida Guadalupe Centro 852
+Calle Tibás Centro 633
+Barrio Amón 134
+Avenida Paseo Colón 611
+Avenida Escazú Centro 493
+Barrio Curridabat 395
+Barrio Escazú Centro 143
+Calle Tibás Centro 659
+Barrio San Pedro 341
+Barrio Central 200
+Calle Del Mall 922
+Calle Del Mall 187
+Avenida Rohrmoser 369
+Barrio Sabanilla 154
+Barrio San Pedro 698
+Barrio La Sabana 200
+Barrio Guadalupe Centro 178
+Calle Del Parque 12
+Calle Del Mall 955
+Barrio Del Parque 241
+Barrio Del Parque 211
+Avenida Los Yoses 83
+Avenida La California 665
+Calle Barrio México 738
+Calle La Sabana 431
+Barrio Tibás Centro 85
+Calle Central 707
+Calle Barrio Escalante 994
+Barrio Otoya 600
+Calle Del Parque 740
+Avenida Otoya 740
+Avenida Los Ángeles 283
+Calle Curridabat 670
+Barrio Escazú Centro 922
+Avenida Paseo Colón 343
+Calle Barrio México 815
+Calle Central 927
+Avenida Central 295
+Avenida Tibás Centro 138
+Calle Del Mall 967
+Barrio Barrio México 688
+Calle Del Mall 407
+Barrio La California 703
+Avenida Barrio Escalante 180
+Barrio Del Parque 95
+Calle Tibás Centro 261
+Barrio Del Mall 193
+Calle Los Yoses 575
+Avenida Barrio México 795
+Avenida Del Mall 106
+Barrio Barrio Escalante 239
+Barrio Tibás Centro 70
+Barrio Curridabat 323
+Calle Curridabat 29
+Avenida Central 510
+Calle Los Yoses 878
+Avenida Rohrmoser 28
+Avenida Tibás Centro 167
+Avenida Escazú Centro 813
+Calle Central 700
+Barrio Rohrmoser 422
+Calle Los Ángeles 477
+Barrio La California 85
+Avenida La Sabana 723
+Barrio Los Yoses 46
+Calle Moravia Centro 290
+Barrio Tibás Centro 695
+Barrio Tibás Centro 672
+Avenida Los Yoses 184
+Barrio San Pedro 167
+Barrio Guadalupe Centro 478
+Avenida Barrio Escalante 882
+Calle Amón 359
+Avenida Central 418
+Barrio Sabanilla 532
+Avenida Amón 469
+Avenida Amón 258
+Calle Barrio México 396
+Barrio La Sabana 182
+Avenida Paseo Colón 633
+Barrio Barrio México 653
+Calle Guadalupe Centro 429
+Calle Del Parque 585
+Barrio Otoya 964
+Barrio Del Mall 924
+Barrio Del Mall 15
+Avenida Barrio Escalante 623
+Calle Guadalupe Centro 189
+Barrio Otoya 515
+Barrio Del Mall 175
+Calle Escazú Centro 11
+Calle Otoya 402
+Barrio Paseo Colón 63
+Barrio Otoya 212
+Barrio Central 563
+Barrio Curridabat 298
+Calle Del Mall 597
+Barrio Tibás Centro 561
+Avenida Los Yoses 91
+Calle Otoya 283
+Calle La California 83
+Barrio La Sabana 975
+Avenida Otoya 597
+Barrio Moravia Centro 426
+Avenida Moravia Centro 926
+Avenida Barrio Escalante 664
+Avenida Del Mall 471
+Calle Tibás Centro 417
+Avenida La Sabana 344
+Calle Guadalupe Centro 816
+Avenida Guadalupe Centro 720
+Barrio Del Parque 611
+Calle Curridabat 551
+Barrio Moravia Centro 95
+Calle Amón 201
+Barrio Del Mall 718
+Calle San Pedro 692
+Calle Los Ángeles 199
+Calle Guadalupe Centro 305
+Calle La California 995
+Calle La Sabana 197
+Barrio Guadalupe Centro 223
+Barrio San Pedro 513
+Barrio Sabanilla 473
+Avenida Central 831
+Avenida Barrio Escalante 513
+Calle Otoya 851
+Barrio Moravia Centro 52
+Barrio Rohrmoser 22
+Avenida Paseo Colón 424
+Calle San Pedro 392
+Avenida Guadalupe Centro 416
+Calle Otoya 715
+Barrio Amón 962
+Calle Curridabat 328
+Barrio Central 887
+Avenida Los Ángeles 309
+Avenida Curridabat 671
+Avenida Paseo Colón 598
+Barrio Guadalupe Centro 436
+Calle Los Ángeles 238
+Avenida Guadalupe Centro 747
+Barrio Moravia Centro 990
+Barrio Central 839
+Calle Amón 998
+Barrio La Sabana 42
+Calle Moravia Centro 530
+Calle La California 641
+Barrio Otoya 509
+Calle Paseo Colón 74
+Calle La Sabana 402
+Avenida Guadalupe Centro 290
+Calle Del Parque 603
+Avenida San Pedro 168
+Barrio Paseo Colón 74
+Calle La Sabana 803
+Barrio Amón 778
+Barrio Sabanilla 169
+Calle Los Ángeles 227
+Calle Curridabat 150
+Avenida Amón 625
+Calle Guadalupe Centro 292
+Calle Guadalupe Centro 79
+Avenida Sabanilla 369
+Barrio Otoya 824
+Barrio Tibás Centro 885
+Barrio Curridabat 813
+Barrio La California 281
+Barrio San Pedro 835
+Barrio Barrio México 373
+Barrio Paseo Colón 694
+Avenida Curridabat 662
+Calle Los Ángeles 580
+Calle Curridabat 143
+Avenida Del Parque 714
+Calle Del Mall 195
+Calle Escazú Centro 275
+Barrio Sabanilla 935
+Calle Barrio Escalante 300
+Barrio Barrio México 726
+Barrio Central 726
+Avenida Guadalupe Centro 444
+Avenida Del Parque 359
+Barrio Del Mall 874
+Avenida Del Parque 460
+Barrio Barrio Escalante 84
+Barrio La Sabana 601
+Barrio San Pedro 681
+Avenida Del Mall 114
+Calle Barrio México 183
+Barrio Del Parque 609
+Avenida Curridabat 104
+Avenida Moravia Centro 735
+Calle Rohrmoser 620
+Calle Barrio México 435
+Barrio Central 33
+Avenida La Sabana 639
+Calle Paseo Colón 153
+Calle Guadalupe Centro 478
+Calle Del Parque 288
+Barrio La Sabana 396
+Avenida Amón 439
+Barrio San Pedro 234
+Avenida Guadalupe Centro 399
+Calle Rohrmoser 80
+Avenida San Pedro 240
+Barrio Del Mall 911
+Calle Moravia Centro 193
+Avenida Moravia Centro 68
+Avenida La Sabana 258
+Calle Tibás Centro 689
+Barrio Otoya 735
+Barrio Otoya 916
+Barrio Curridabat 252
+Avenida Otoya 34
+Barrio La California 14
+Avenida Los Yoses 214
+Barrio Sabanilla 281
+Barrio Los Yoses 119
+Avenida La California 397
+Barrio La California 54
+Barrio Escazú Centro 591
+Calle Los Yoses 617
+Barrio Sabanilla 259
+Calle Amón 37
+Avenida Barrio Escalante 765
+Avenida Curridabat 192
+Calle Amón 209
+Barrio Los Yoses 227
+Calle Los Ángeles 908
+Calle Central 769
+Avenida Central 184
+Avenida Escazú Centro 619
+Barrio Sabanilla 308
+Avenida Central 463
+Calle Los Yoses 426
+Avenida La California 115
+Barrio Central 741
+Barrio San Pedro 121
+Calle Amón 592
+Calle San Pedro 666
+Calle La Sabana 993
+Barrio Del Mall 774
+Calle Moravia Centro 291
+Avenida Del Parque 633
+Calle Los Ángeles 754
+Avenida Otoya 487
+Calle Paseo Colón 975
+Calle Paseo Colón 757
+Avenida Moravia Centro 442
+Calle Rohrmoser 409
+Calle Sabanilla 931
+Avenida Otoya 471
+Avenida San Pedro 920
+Calle Los Yoses 931
+Barrio Tibás Centro 945
+Avenida Escazú Centro 527
+Calle Del Parque 687
+Avenida Moravia Centro 533
+Calle Del Parque 882
+Avenida Otoya 358
+Avenida Tibás Centro 672
+Avenida Guadalupe Centro 755
+Barrio Rohrmoser 622
+Calle Otoya 93
+Avenida Otoya 144
+Calle Del Parque 334
+Calle Los Yoses 671
+Avenida Rohrmoser 144
+Avenida San Pedro 335
+Calle La Sabana 354
+Calle Sabanilla 242
+Barrio Moravia Centro 875
+Avenida Tibás Centro 502
+Calle La Sabana 243
+Avenida Escazú Centro 226
+Calle Moravia Centro 8
+Avenida Del Mall 192
+Calle La California 180
+Barrio Amón 443
+Avenida Guadalupe Centro 582
+Calle Del Mall 472
+Barrio Sabanilla 523
+Calle La California 823
+Avenida Del Parque 756
+Barrio Rohrmoser 32
+Barrio Del Mall 562
+Calle Central 769
+Barrio Sabanilla 565
+Avenida Curridabat 931
+Calle Escazú Centro 503
+Calle Del Parque 813
+Avenida La California 749
+Barrio Central 796
+Calle La California 376
+Avenida Del Mall 87
+Calle Moravia Centro 628
+Barrio La Sabana 725
+Calle Curridabat 55
+Calle Sabanilla 850
+Avenida Sabanilla 385
+Avenida Guadalupe Centro 782
+Barrio Del Mall 880
+Barrio Del Mall 895
+Barrio La California 269
+Avenida Curridabat 688
+Calle Del Parque 455
+Avenida Sabanilla 690
+Calle La Sabana 733
+Calle Central 368
+Barrio Paseo Colón 825
+Avenida Del Parque 797
+Calle Paseo Colón 79
+Barrio Escazú Centro 624
+Avenida Moravia Centro 883
+Barrio Escazú Centro 463
+Calle Escazú Centro 318
+Avenida Central 434
+Barrio Barrio Escalante 747
+Barrio Los Ángeles 92
+Calle Los Yoses 359
+Avenida Moravia Centro 572
+Barrio Otoya 991
+Barrio Los Yoses 957
+Barrio San Pedro 132
+Calle Los Yoses 915
+Calle Moravia Centro 4
+Avenida Amón 305
+Barrio Central 415
+Calle San Pedro 339
+Calle Sabanilla 24
+Avenida Curridabat 932
+Avenida Los Yoses 374
+Barrio Paseo Colón 228
+Calle La California 397
 Calle Central 87
-Calle Sabanilla 781
-Barrio Del Parque 881
-Barrio Curridabat 601
-Barrio San Pedro 199
-Barrio La California 132
-Calle Barrio Escalante 582
-Calle Central 211
-Barrio La California 603
-Barrio Del Parque 668
-Barrio Curridabat 452
-Avenida Barrio Escalante 685
-Calle Barrio México 70
-Avenida Amón 239
-Avenida Sabanilla 452
-Barrio Paseo Colón 676
-Barrio Barrio México 347
-Avenida Del Parque 586
-Barrio Los Ángeles 674
-Calle Del Mall 899
-Avenida Paseo Colón 295
-Avenida Sabanilla 134
-Avenida La California 638
-Avenida Los Yoses 283
-Barrio Los Ángeles 375
-Barrio Barrio Escalante 554
-Calle Escazú Centro 735
-Calle Barrio México 59
-Calle Central 565
-Calle San Pedro 699
-Avenida Otoya 743
-Barrio Amón 204
-Avenida Los Yoses 839
-Avenida Barrio México 158
-Barrio Tibás Centro 790
+Calle Rohrmoser 517
+Barrio Barrio Escalante 669
+Calle Curridabat 418
+Calle Curridabat 663
+Calle Moravia Centro 477
+Avenida Barrio Escalante 788
+Avenida Tibás Centro 503
+Calle Sabanilla 586
+Avenida Moravia Centro 945
+Barrio La California 356
+Avenida La Sabana 948
+Avenida Guadalupe Centro 727
+Calle Los Yoses 833
+Calle Moravia Centro 837
+Avenida Barrio México 163
+Calle Los Ángeles 295
+Barrio Otoya 439
+Calle Otoya 754
+Avenida Guadalupe Centro 637
+Avenida Tibás Centro 118
+Barrio Guadalupe Centro 598
+Calle Rohrmoser 773
+Barrio Amón 347
+Barrio Barrio Escalante 715
+Calle Curridabat 313
+Calle Escazú Centro 399
+Barrio Sabanilla 378
+Avenida Guadalupe Centro 171
+Barrio Otoya 824
+Barrio Paseo Colón 290
+Barrio Rohrmoser 390
+Avenida Otoya 606
+Avenida La California 809
+Barrio Paseo Colón 159
+Barrio Amón 76
+Barrio Tibás Centro 752
+Avenida Los Yoses 807
+Avenida Sabanilla 223
+Barrio Otoya 872
+Calle Del Mall 717
+Calle Paseo Colón 813
+Calle Barrio Escalante 782
+Barrio Los Yoses 739
+Calle San Pedro 387
+Calle San Pedro 826
+Calle Otoya 694
+Barrio Moravia Centro 310
+Avenida Barrio Escalante 824
+Avenida Escazú Centro 669
+Avenida Barrio Escalante 5
+Avenida Otoya 776
+Barrio San Pedro 838
+Avenida Tibás Centro 262
+Barrio Barrio México 152
+Avenida La Sabana 711
+Barrio Moravia Centro 804
+Calle Barrio Escalante 883
+Avenida Sabanilla 271
+Calle Tibás Centro 220
+Calle Amón 143
+Barrio Otoya 570
+Calle Guadalupe Centro 8
+Calle Amón 919
+Avenida Moravia Centro 56
+Avenida La California 923
+Avenida Moravia Centro 888
+Calle La California 246
+Barrio Central 637
+Barrio Barrio Escalante 161
+Barrio Guadalupe Centro 630
+Avenida Barrio México 843
+Calle Escazú Centro 704
+Calle Central 605
+Avenida La Sabana 903
+Calle Moravia Centro 575
+Avenida Barrio México 448
+Avenida Curridabat 424
+Barrio Sabanilla 646
+Barrio Guadalupe Centro 351
+Avenida La California 120
+Avenida Escazú Centro 713
+Calle Sabanilla 914
+Barrio Guadalupe Centro 846
+Calle Amón 801
+Calle Escazú Centro 231
+Calle Rohrmoser 70
+Avenida Escazú Centro 236
+Avenida Sabanilla 322
+Calle Sabanilla 275
+Calle Otoya 867
+Calle La Sabana 885
+Calle Escazú Centro 487
+Barrio Guadalupe Centro 143
+Calle Del Parque 534
+Barrio Barrio Escalante 371
+Calle Barrio Escalante 983
+Avenida Otoya 898
+Calle Del Mall 777
+Avenida Otoya 562
+Calle La Sabana 941
+Avenida Paseo Colón 918
+Barrio Paseo Colón 299
+Avenida Curridabat 588
+Barrio Paseo Colón 165
+Calle La Sabana 536
+Calle Central 607
+Avenida Del Mall 700
+Avenida Moravia Centro 247
+Avenida Barrio Escalante 263
+Barrio La California 976
+Calle Curridabat 892
+Avenida Tibás Centro 417
+Calle Sabanilla 156
+Barrio La Sabana 984
+Avenida Otoya 170
+Calle La California 899
+Calle Barrio México 100
+Avenida La Sabana 795
+Avenida La California 962
+Calle Central 27
+Barrio Sabanilla 387
+Avenida San Pedro 591
+Calle Los Yoses 754
+Calle Central 911
+Avenida Guadalupe Centro 862
+Calle Del Parque 573
+Calle Otoya 347
+Avenida Guadalupe Centro 70
+Barrio Curridabat 569
+Barrio La California 249
+Calle Escazú Centro 531
+Barrio Del Mall 905
+Calle Tibás Centro 279
+Avenida Central 507
+Avenida Moravia Centro 713
+Barrio Del Mall 120
+Calle Moravia Centro 987
+Barrio Central 267
+Calle Barrio México 165
+Avenida La Sabana 178
+Avenida Central 567
+Avenida Rohrmoser 454
+Avenida Del Parque 946
+Calle Barrio México 677
+Calle Los Ángeles 531
+Avenida Tibás Centro 192
+Calle Barrio Escalante 535
+Calle Del Parque 473
+Avenida La California 558
+Barrio Escazú Centro 715
+Avenida Los Yoses 637
+Calle Moravia Centro 127
+Barrio Barrio México 498
+Calle Del Parque 39
+Avenida Barrio México 765
+Avenida Guadalupe Centro 908
+Calle Rohrmoser 801
+Avenida Rohrmoser 21
+Calle La Sabana 834
+Barrio Del Parque 19
+Calle Barrio México 96
+Barrio Rohrmoser 331
+Calle Central 819
+Barrio La Sabana 453
+Avenida Rohrmoser 655
+Calle Sabanilla 585
+Calle Barrio Escalante 422
+Calle Guadalupe Centro 956
+Calle Tibás Centro 206
+Barrio Guadalupe Centro 699
+Avenida Sabanilla 9
+Barrio Escazú Centro 407
+Calle Barrio México 286
+Avenida Los Yoses 515
+Barrio Guadalupe Centro 7
+Avenida La Sabana 481
+Avenida La Sabana 524
+Barrio La California 289
+Barrio Los Yoses 225
+Avenida Del Mall 377
+Calle La California 186
+Barrio Barrio México 318
+Barrio Tibás Centro 407
+Avenida La California 9
+Calle Moravia Centro 331
+Avenida La California 547
+Barrio Moravia Centro 675
+Barrio Del Mall 154
+Barrio Moravia Centro 489
+Calle Paseo Colón 632
+Calle San Pedro 711
+Avenida Amón 863
+Avenida Otoya 815
+Calle Del Parque 244
+Calle La Sabana 725
+Avenida Del Mall 907
+Barrio La Sabana 82
+Barrio Los Yoses 847
+Barrio Escazú Centro 133
+Barrio Rohrmoser 659
+Barrio Rohrmoser 149
+Avenida Amón 592
+Barrio Rohrmoser 496
+Barrio Barrio Escalante 573
+Barrio La California 829
+Calle Moravia Centro 54
+Avenida Rohrmoser 11
+Calle Otoya 20
+Barrio Amón 771
+Calle Los Ángeles 787
+Avenida Los Ángeles 676
+Avenida Barrio México 982
+Barrio Barrio Escalante 3
+Calle La Sabana 267
+Calle Central 466
+Calle Del Parque 637
+Calle Sabanilla 302
+Calle La California 324
+Calle Los Ángeles 522
+Barrio Curridabat 629
+Avenida San Pedro 336
+Barrio Sabanilla 809
+Barrio Guadalupe Centro 431
+Avenida Del Parque 393
+Calle Otoya 316
+Calle Guadalupe Centro 485
+Avenida Barrio México 255
+Avenida Paseo Colón 419
+Avenida Tibás Centro 785
+Barrio Sabanilla 971
+Avenida San Pedro 787
+Barrio Sabanilla 285
+Calle Moravia Centro 423
+Barrio Paseo Colón 743
+Barrio Sabanilla 280
+Avenida Tibás Centro 981
+Barrio Escazú Centro 329
+Calle San Pedro 12
+Calle Central 473
+Barrio Guadalupe Centro 406
+Avenida Amón 897
+Avenida Del Mall 392
+Calle Moravia Centro 835
+Barrio Sabanilla 883
+Barrio Del Mall 318
+Avenida Del Parque 717
+Barrio Los Yoses 10
+Avenida Amón 271
+Avenida Guadalupe Centro 423
+Barrio Paseo Colón 741
+Calle Paseo Colón 876
+Barrio Barrio México 977
+Calle Amón 46
+Calle Amón 415
+Avenida Paseo Colón 543
+Avenida Escazú Centro 817
+Calle Barrio México 758
+Barrio Escazú Centro 763
+Barrio Moravia Centro 134
+Barrio Rohrmoser 412
+Barrio Escazú Centro 28
+Barrio Del Parque 686
+Calle Amón 237
+Calle Barrio Escalante 629
+Avenida La California 67
+Barrio Sabanilla 580
+Avenida Escazú Centro 608
+Avenida San Pedro 18
+Calle Los Ángeles 337
+Avenida Tibás Centro 782
+Avenida Escazú Centro 522
+Avenida Central 459
+Barrio Amón 600
+Calle La California 883
+Avenida Sabanilla 577
+Calle Escazú Centro 368
+Calle Los Ángeles 53
+Calle Del Parque 31
+Calle Barrio México 470
+Calle Barrio Escalante 478
+Barrio Barrio México 35
+Avenida Paseo Colón 31
+Barrio San Pedro 589
+Calle Los Yoses 417
+Barrio Otoya 954
+Avenida San Pedro 967
+Avenida La California 379
+Barrio Central 359
+Avenida La California 658
+Calle Central 568
+Avenida Del Parque 944
+Avenida San Pedro 489
+Calle Barrio Escalante 90
+Calle Escazú Centro 363
+Avenida Del Parque 988
+Avenida Rohrmoser 538
+Calle Guadalupe Centro 14
+Avenida Los Yoses 320
+Avenida Paseo Colón 200
+Avenida Paseo Colón 925
+Barrio Amón 695
+Calle Del Mall 918
+Barrio La Sabana 991
+Avenida La California 850
+Barrio Amón 698
+Barrio Del Parque 753
+Calle Guadalupe Centro 421
+Barrio Barrio Escalante 631
+Calle Los Ángeles 431
+Calle Del Parque 99
+Barrio Los Yoses 313
+Barrio Moravia Centro 820
+Calle Rohrmoser 11
+Avenida Sabanilla 577
+Barrio Moravia Centro 710
+Avenida Los Yoses 863
+Barrio La California 321
+Calle Moravia Centro 492
+Barrio Barrio Escalante 679
+Avenida Rohrmoser 529
+Calle Los Ángeles 431
+Barrio Guadalupe Centro 326
+Barrio Curridabat 482
+Barrio Barrio Escalante 255
+Calle Otoya 191
+Barrio Curridabat 168
+Barrio Amón 102
+Avenida Los Ángeles 308
+Barrio Moravia Centro 517
+Avenida Los Ángeles 507
+Barrio Barrio Escalante 43
+Avenida Barrio Escalante 808
+Calle Paseo Colón 660
+Avenida Barrio México 666
+Avenida Guadalupe Centro 469
+Avenida Central 206
+Barrio La Sabana 38
+Avenida Escazú Centro 451
+Barrio Los Yoses 565
+Avenida Del Parque 715
+Calle Del Parque 638
+Avenida Tibás Centro 339
+Avenida Central 567
+Calle Del Parque 777
+Avenida La Sabana 263
+Calle Curridabat 531
+Barrio Tibás Centro 281
+Calle Paseo Colón 219
+Barrio Del Parque 254
+Barrio La Sabana 999
+Avenida Moravia Centro 733
+Calle Barrio Escalante 697
+Avenida La Sabana 242
+Barrio Amón 8
+Avenida Los Ángeles 869
+Barrio Tibás Centro 268
+Calle Otoya 686
+Avenida San Pedro 358
+Avenida Sabanilla 237
+Avenida Del Parque 567
+Calle Barrio México 947
+Avenida Amón 766
+Calle La California 605
+Avenida Escazú Centro 147
+Avenida Rohrmoser 734
+Barrio San Pedro 604
+Calle Del Parque 196
+Barrio La California 708
+Calle Los Yoses 765
+Barrio Guadalupe Centro 861
+Calle Paseo Colón 603
+Calle Paseo Colón 571
+Calle Sabanilla 804
+Calle Del Mall 882
+Barrio Escazú Centro 217
+Calle Guadalupe Centro 573
+Barrio Rohrmoser 384
+Avenida Otoya 667
+Barrio La California 896
+Barrio La Sabana 689
+Avenida Paseo Colón 1
+Avenida Escazú Centro 309
+Barrio Otoya 16
+Avenida Del Parque 960
+Avenida San Pedro 818
+Calle Central 46
+Barrio Del Parque 632
+Calle Rohrmoser 944
+Barrio Los Ángeles 726
+Avenida Central 41
+Avenida La California 245
+Calle Los Yoses 173
+Barrio Central 892
+Avenida San Pedro 353
+Barrio Barrio Escalante 696
+Calle Paseo Colón 752
+Calle Moravia Centro 884
+Avenida Los Ángeles 554
+Calle Curridabat 521
+Avenida Tibás Centro 898
+Avenida La Sabana 474
+Calle Tibás Centro 492
+Calle Moravia Centro 765
+Avenida Sabanilla 305
+Calle La California 106
+Avenida Paseo Colón 672
+Calle Curridabat 676
+Avenida Rohrmoser 67
+Barrio Escazú Centro 624
+Calle Barrio Escalante 854
+Calle Sabanilla 803
+Avenida Moravia Centro 424
+Calle Los Ángeles 598
+Barrio Los Ángeles 953
+Calle Barrio México 171
+Avenida Escazú Centro 617
+Calle Rohrmoser 448
+Avenida Barrio México 963
+Barrio Paseo Colón 221
+Calle Amón 815
+Barrio Curridabat 581
+Calle Sabanilla 64
+Avenida Central 640
+Barrio Otoya 388
+Calle Guadalupe Centro 604
+Calle Del Parque 230
+Avenida Los Yoses 671
+Avenida Paseo Colón 122
+Calle Curridabat 88
+Calle Amón 292
+Calle Paseo Colón 656
+Avenida Sabanilla 705
+Barrio Los Yoses 767
+Calle Del Parque 803
+Barrio Moravia Centro 391
+Barrio Barrio Escalante 707
+Barrio Escazú Centro 81
+Avenida Escazú Centro 478
+Barrio Del Parque 768
+Avenida Barrio México 839
+Calle Tibás Centro 659
+Avenida Moravia Centro 510
+Calle Barrio México 34
+Avenida Paseo Colón 859
+Barrio Central 914
+Avenida Los Yoses 464
+Avenida Central 627
+Calle Amón 599
+Avenida Los Yoses 849
+Calle Central 582
+Barrio Central 875
+Barrio Sabanilla 676
+Barrio Barrio México 762
+Calle Curridabat 564
+Barrio Barrio México 780
+Avenida Central 815
+Avenida Tibás Centro 99
+Avenida Central 145
+Barrio Curridabat 314
+Barrio Los Ángeles 678
+Barrio Los Ángeles 752
+Barrio Paseo Colón 717
+Calle San Pedro 595
+Avenida Moravia Centro 589
+Avenida Amón 213
+Avenida La California 95
+Barrio Otoya 670
+Barrio Moravia Centro 873
+Avenida Amón 726
+Barrio La Sabana 206
+Barrio Sabanilla 142
+Avenida Sabanilla 496
+Avenida Tibás Centro 250
+Calle Guadalupe Centro 121
+Barrio Sabanilla 749
+Avenida Central 701
+Calle Amón 650
+Avenida Amón 123
+Barrio Del Mall 751
+Barrio Rohrmoser 178
+Barrio Los Yoses 144
+Calle Barrio Escalante 280
+Avenida La Sabana 61
+Avenida Guadalupe Centro 799
+Avenida Sabanilla 352
+Calle Paseo Colón 382
+Calle Del Mall 808
+Calle Paseo Colón 389
+Barrio Central 423
+Barrio Del Mall 774
+Calle Sabanilla 462
+Avenida Rohrmoser 519
+Calle Otoya 666
+Barrio Rohrmoser 344
+Avenida Paseo Colón 443
+Avenida Del Parque 298
+Calle Los Yoses 387
+Avenida Otoya 73
+Avenida Barrio Escalante 467
+Calle La Sabana 907
+Calle La Sabana 14
+Avenida Central 532
+Avenida Los Ángeles 511
+Barrio Guadalupe Centro 554
+Barrio Paseo Colón 635
+Avenida Otoya 85
+Calle Rohrmoser 70
+Barrio Guadalupe Centro 223
+Barrio San Pedro 370
+Avenida Moravia Centro 755
+Barrio San Pedro 321
+Barrio Los Ángeles 975
+Avenida San Pedro 228
+Barrio Del Mall 505
+Avenida Guadalupe Centro 477
+Avenida Tibás Centro 261
+Calle Moravia Centro 163
+Barrio Del Parque 60
+Barrio Tibás Centro 114
+Barrio Curridabat 818
+Calle La Sabana 683
+Avenida La California 478
+Avenida Barrio Escalante 78
+Avenida Tibás Centro 291
+Calle Los Yoses 192
+Calle Escazú Centro 533
+Calle Sabanilla 426
+Barrio Barrio México 796
+Barrio Los Yoses 298
+Avenida Moravia Centro 428
+Calle San Pedro 490
+Calle Otoya 676
+Calle Del Mall 7
+Barrio Guadalupe Centro 945
+Avenida Otoya 102
+Calle Sabanilla 736
+Avenida Sabanilla 901
+Barrio Paseo Colón 47
+Calle Los Yoses 826
+Calle Central 656
+Calle La California 943
+Barrio San Pedro 326
+Avenida Del Parque 138
+Avenida Barrio Escalante 729
+Barrio Paseo Colón 513
+Barrio La California 784
+Calle Los Ángeles 264
+Calle Los Ángeles 799
+Avenida San Pedro 661
+Avenida Barrio Escalante 337
+Barrio San Pedro 947
+Avenida Sabanilla 191
+Calle Barrio Escalante 958
+Calle Sabanilla 962
+Calle Otoya 243
+Avenida San Pedro 509
+Barrio Central 117
+Avenida Del Parque 140
+Calle Del Parque 804
+Avenida Central 915
+Avenida Otoya 313
+Calle La Sabana 694
+Calle Paseo Colón 131
+Calle Central 732
+Barrio Guadalupe Centro 96
+Barrio Barrio México 291
+Barrio Otoya 344
+Calle Los Ángeles 239
+Barrio Los Ángeles 604
+Barrio La California 99
+Avenida San Pedro 798
+Avenida Guadalupe Centro 777
+Calle Barrio México 912
+Avenida Del Mall 948
+Avenida Amón 693
+Barrio Otoya 840
+Avenida Rohrmoser 562
+Avenida Los Ángeles 645
+Calle Amón 828
+Barrio Los Yoses 529
+Avenida Sabanilla 389
+Avenida Del Mall 76
+Avenida Paseo Colón 551
+Barrio La California 636
+Barrio Tibás Centro 717
+Barrio Curridabat 720
+Calle Central 125
+Calle Moravia Centro 673
+Calle Del Mall 880
+Calle Tibás Centro 210
+Calle Curridabat 555
+Barrio San Pedro 725
+Calle Rohrmoser 80
+Barrio Sabanilla 837
+Avenida Paseo Colón 534
+Calle Escazú Centro 30
+Calle Moravia Centro 238
+Calle San Pedro 831
+Avenida Amón 709
+Barrio Otoya 629
+Avenida Los Yoses 230
+Calle Barrio Escalante 886
+Avenida Del Mall 916
+Barrio Barrio Escalante 718
+Calle Sabanilla 993
+Barrio Los Yoses 214
+Avenida Rohrmoser 956
+Avenida Curridabat 768
+Barrio Amón 625
+Avenida Guadalupe Centro 870
+Barrio Del Mall 91
+Calle Escazú Centro 299
+Barrio La California 890
+Avenida Central 803
+Avenida Amón 167

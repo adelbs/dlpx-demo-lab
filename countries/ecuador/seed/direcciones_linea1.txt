@@ -1,1000 +1,1000 @@
-Calle Guayas 1480
-Calle República 641
-Avenida García Moreno 1297
-Calle Los Ceibos 2947
-Calle Sucre 996
-Calle Guayas 281
-Avenida Malecón Simón Bolívar 2579
-Avenida 10 de Agosto 2579
-Calle Malecón Simón Bolívar 1562
-Calle 9 de Octubre 2064
-Avenida García Moreno 2605
-Pasaje Naciones Unidas 2213
-Calle Sucre 1815
-Avenida Patria 373
-Pasaje Amazonas 144
-Calle Los Ceibos 195
-Pasaje García Moreno 620
-Pasaje Rocafuerte 257
-Calle 9 de Octubre 1754
-Pasaje Guayas 2703
-Calle García Moreno 1388
-Pasaje 6 de Diciembre 1099
-Calle Rocafuerte 1085
-Avenida Guayas 1034
-Avenida Portete 1928
-Calle Guayas 642
-Pasaje 6 de Diciembre 848
-Avenida Kennedy 2540
-Pasaje Patria 1034
-Pasaje 6 de Diciembre 944
-Calle Guayas 2939
-Pasaje Malecón Simón Bolívar 1022
-Avenida Amazonas 1945
-Calle República 2113
-Calle García Moreno 1573
-Pasaje Shyris 835
-Avenida Rocafuerte 387
-Avenida Portete 2603
-Calle Naciones Unidas 2500
-Pasaje 10 de Agosto 2756
-Pasaje Guayas 599
-Calle Sucre 188
-Pasaje Rocafuerte 2764
-Avenida Guayas 991
-Calle Sucre 1613
-Pasaje Bolívar 1387
-Avenida Shyris 217
-Avenida Shyris 792
-Avenida Rocafuerte 428
-Pasaje Patria 1283
-Calle García Moreno 2384
-Avenida Bolívar 1302
-Avenida Amazonas 2747
-Avenida Colón 1625
-Avenida República 633
-Calle Urdesa Central 2343
-Calle Colón 1179
-Calle Patria 1150
-Calle Malecón Simón Bolívar 1950
-Avenida Patria 328
-Avenida Amazonas 1792
-Avenida 10 de Agosto 654
-Pasaje Shyris 1768
-Avenida Rocafuerte 1602
-Calle Colón 33
-Pasaje García Moreno 97
-Avenida Los Ceibos 2134
-Calle 10 de Agosto 1211
-Avenida 6 de Diciembre 209
-Avenida Naciones Unidas 1635
-Pasaje Amazonas 1760
-Calle Malecón Simón Bolívar 420
-Calle 6 de Diciembre 758
-Calle Kennedy Norte 2771
-Calle Los Ceibos 288
-Avenida Portete 815
-Avenida Bolívar 2508
-Avenida Los Ceibos 1382
-Calle Sucre 2821
-Calle República 1543
-Calle García Moreno 1010
-Pasaje Kennedy 1900
-Avenida Kennedy 1857
-Avenida 6 de Diciembre 416
-Avenida Bolívar 2014
-Avenida Urdesa Central 1307
-Pasaje Guayas 2108
-Calle Shyris 615
-Avenida 9 de Octubre 531
-Avenida Kennedy 2787
-Avenida Portete 1326
-Pasaje Kennedy 2331
-Avenida Colón 1221
-Calle Patria 331
-Pasaje Naciones Unidas 670
-Calle Colón 1507
-Pasaje Patria 1126
-Avenida Patria 2729
-Pasaje República 2071
-Pasaje Colón 439
-Avenida 9 de Octubre 2895
-Calle 6 de Diciembre 1082
-Avenida Portete 193
-Calle Los Ceibos 2224
-Avenida García Moreno 2015
-Avenida 10 de Agosto 1601
-Avenida 9 de Octubre 1380
-Avenida Bolívar 144
-Avenida 10 de Agosto 2063
-Pasaje Colón 777
-Pasaje Colón 1016
-Avenida Amazonas 2200
-Calle Malecón Simón Bolívar 1743
-Pasaje García Moreno 1315
-Avenida Amazonas 2967
-Calle Patria 1542
-Pasaje República 971
-Avenida 9 de Octubre 1939
-Calle 9 de Octubre 879
-Calle Urdesa Central 2814
-Avenida Sucre 2215
-Calle García Moreno 205
-Avenida Los Ceibos 2483
-Avenida Guayas 1737
-Avenida Rocafuerte 2017
-Calle 10 de Agosto 1983
-Calle 9 de Octubre 981
-Avenida Malecón Simón Bolívar 1452
-Calle Guayas 1245
-Pasaje Kennedy Norte 956
-Calle Kennedy 1882
-Pasaje Guayas 119
-Calle 10 de Agosto 1679
-Avenida Sucre 577
-Pasaje Bolívar 1272
-Avenida Patria 2077
-Avenida Bolívar 963
-Avenida República 2869
-Calle Patria 1522
-Avenida Shyris 700
-Pasaje Amazonas 898
-Avenida Kennedy Norte 1827
-Avenida Kennedy Norte 1759
-Avenida Patria 2709
-Avenida Los Ceibos 1445
-Avenida Amazonas 108
-Pasaje Kennedy 1643
-Pasaje 6 de Diciembre 2150
-Avenida Kennedy 2852
-Pasaje Colón 2696
-Avenida Urdesa Central 841
-Avenida Kennedy 2836
-Avenida Shyris 1112
-Pasaje Kennedy 943
-Calle Kennedy 2088
-Calle República 2500
-Avenida Guayas 2923
-Calle Kennedy Norte 2899
-Pasaje 10 de Agosto 2942
-Pasaje Patria 1539
-Avenida Naciones Unidas 1028
-Pasaje Los Ceibos 1977
-Pasaje Colón 287
-Pasaje Bolívar 2290
-Avenida García Moreno 328
-Calle Kennedy Norte 2108
-Calle Sucre 1583
-Avenida 10 de Agosto 1163
-Avenida Malecón Simón Bolívar 1063
-Calle Bolívar 2066
-Avenida Portete 1736
-Avenida Sucre 2686
-Avenida Amazonas 1403
-Pasaje Los Ceibos 1513
-Pasaje Malecón Simón Bolívar 595
-Pasaje García Moreno 1438
-Calle Guayas 630
-Pasaje Naciones Unidas 1656
-Avenida García Moreno 1251
-Avenida República 1841
-Pasaje Los Ceibos 2991
-Calle República 1821
-Avenida Malecón Simón Bolívar 612
-Avenida Guayas 2557
-Pasaje 9 de Octubre 1319
-Avenida Urdesa Central 2864
-Avenida Bolívar 1152
-Calle Bolívar 1982
-Avenida Malecón Simón Bolívar 328
-Pasaje Bolívar 1946
-Avenida Amazonas 1945
-Pasaje Amazonas 550
-Avenida Urdesa Central 1729
-Avenida Naciones Unidas 2306
-Calle Amazonas 1035
-Pasaje Portete 1776
-Avenida Kennedy Norte 1859
-Avenida Kennedy Norte 811
-Calle Kennedy Norte 2759
-Avenida Patria 739
-Calle Amazonas 818
-Avenida Portete 1500
-Pasaje República 670
-Avenida Patria 2717
-Calle República 1525
-Calle Rocafuerte 2887
-Avenida Shyris 1206
-Pasaje República 17
-Avenida Los Ceibos 2404
-Calle Colón 1099
-Calle Guayas 553
-Avenida Patria 589
-Avenida Rocafuerte 1984
-Pasaje García Moreno 123
-Avenida 10 de Agosto 2425
-Avenida Guayas 2682
-Avenida Portete 1022
-Calle Kennedy 1896
-Avenida Naciones Unidas 2882
-Pasaje Naciones Unidas 1314
-Avenida Urdesa Central 518
-Calle República 1079
-Avenida Kennedy Norte 2122
-Calle Colón 2258
-Pasaje Patria 97
-Pasaje 9 de Octubre 2217
-Avenida García Moreno 2543
-Avenida Kennedy Norte 1097
-Avenida Kennedy Norte 2774
-Calle 10 de Agosto 2784
-Avenida Shyris 1603
-Pasaje Urdesa Central 2955
-Calle República 95
-Avenida 10 de Agosto 329
-Pasaje Patria 1068
-Pasaje 10 de Agosto 1877
-Pasaje Los Ceibos 2112
-Calle Bolívar 280
-Avenida Bolívar 2315
-Pasaje Malecón Simón Bolívar 2578
-Avenida Urdesa Central 681
-Calle Bolívar 2814
-Avenida Kennedy 356
-Calle 6 de Diciembre 1735
-Avenida Malecón Simón Bolívar 1143
-Pasaje Malecón Simón Bolívar 1669
-Avenida 10 de Agosto 441
-Avenida 6 de Diciembre 2904
-Avenida Los Ceibos 1333
-Avenida Bolívar 2627
-Avenida República 397
-Calle 9 de Octubre 1271
-Avenida Los Ceibos 864
-Avenida García Moreno 175
-Avenida Patria 2718
-Avenida Kennedy 2788
-Pasaje Colón 2593
-Avenida Guayas 1697
-Avenida Kennedy Norte 587
-Avenida Urdesa Central 2752
-Avenida Rocafuerte 2536
-Avenida Portete 374
-Calle Los Ceibos 1488
-Avenida Amazonas 2972
-Calle Kennedy Norte 2451
-Avenida Shyris 2329
-Avenida Colón 2935
-Pasaje Kennedy 681
-Calle Colón 1646
-Calle Urdesa Central 2164
-Pasaje Kennedy Norte 1173
-Avenida Rocafuerte 2731
-Pasaje Guayas 1131
-Avenida García Moreno 2024
-Pasaje 6 de Diciembre 1842
-Avenida Portete 22
-Avenida García Moreno 460
-Avenida 6 de Diciembre 812
-Avenida Guayas 2044
-Avenida Malecón Simón Bolívar 631
-Avenida Naciones Unidas 2981
-Calle República 2274
-Calle Los Ceibos 2492
-Avenida Urdesa Central 741
-Pasaje Sucre 276
-Calle 10 de Agosto 2462
-Avenida García Moreno 280
-Calle 9 de Octubre 1053
-Avenida Colón 951
-Avenida Kennedy 2108
-Calle Kennedy Norte 2507
-Avenida Naciones Unidas 2859
-Pasaje 6 de Diciembre 163
-Avenida Shyris 1057
+Avenida Rocafuerte 1589
+Calle 10 de Agosto 2957
+Calle Patria 2110
+Avenida Bolívar 2720
+Pasaje Patria 1317
+Avenida Amazonas 1699
+Calle Sucre 2811
+Avenida Bolívar 50
+Avenida Rocafuerte 1854
+Calle Colón 1770
+Avenida Urdesa Central 2405
+Calle Patria 1962
+Avenida Kennedy 230
+Calle Portete 1488
 Avenida Patria 548
-Avenida Shyris 498
-Avenida Kennedy 487
-Avenida García Moreno 2091
-Calle Los Ceibos 1181
-Calle 6 de Diciembre 611
-Calle Kennedy 1838
-Pasaje 6 de Diciembre 482
-Pasaje Guayas 1665
-Pasaje Bolívar 1154
-Calle Naciones Unidas 1578
-Pasaje Shyris 2633
-Calle Malecón Simón Bolívar 1342
-Calle Patria 2534
-Avenida República 759
-Avenida Los Ceibos 1356
-Avenida Colón 914
-Avenida 9 de Octubre 2176
-Calle Bolívar 1517
-Avenida Bolívar 213
-Avenida Urdesa Central 1005
-Calle Malecón Simón Bolívar 1244
-Avenida Patria 2460
-Avenida Sucre 1796
-Avenida 10 de Agosto 1322
-Avenida Naciones Unidas 18
-Avenida García Moreno 478
-Avenida Malecón Simón Bolívar 1826
-Avenida Amazonas 2484
-Avenida Kennedy 978
-Calle Sucre 190
-Avenida Rocafuerte 227
-Calle Naciones Unidas 823
-Avenida Shyris 901
-Calle Naciones Unidas 1608
-Avenida Kennedy Norte 2132
-Calle República 2808
-Calle Guayas 989
-Avenida 6 de Diciembre 2717
-Avenida Patria 2677
-Pasaje Guayas 231
-Avenida Guayas 1588
-Avenida Naciones Unidas 879
-Avenida Kennedy Norte 706
-Avenida Urdesa Central 2894
-Avenida Kennedy 2554
-Avenida 10 de Agosto 807
-Calle Rocafuerte 1549
-Pasaje Patria 2421
-Pasaje Los Ceibos 1035
-Avenida Shyris 2882
-Avenida Kennedy Norte 1658
-Pasaje Shyris 2911
-Pasaje 10 de Agosto 63
-Calle República 1807
-Avenida Malecón Simón Bolívar 2137
-Avenida Amazonas 468
-Pasaje República 2898
-Avenida Los Ceibos 1724
-Avenida 6 de Diciembre 2400
-Avenida Naciones Unidas 1365
-Avenida Bolívar 1924
-Avenida Naciones Unidas 727
-Avenida Bolívar 1871
-Avenida Kennedy Norte 998
-Pasaje García Moreno 1455
-Calle García Moreno 854
-Avenida 6 de Diciembre 2214
-Calle Kennedy 2706
-Calle Bolívar 936
-Calle Guayas 1201
-Avenida Malecón Simón Bolívar 216
-Calle 9 de Octubre 2576
-Avenida 10 de Agosto 1901
-Avenida Rocafuerte 824
-Avenida Sucre 1363
-Pasaje Kennedy 882
-Avenida García Moreno 2450
-Pasaje República 2238
-Avenida 6 de Diciembre 1041
-Calle Amazonas 1374
-Pasaje Colón 1488
-Pasaje 6 de Diciembre 2332
-Pasaje García Moreno 2924
-Avenida Rocafuerte 1020
-Avenida 10 de Agosto 2517
-Calle 9 de Octubre 105
-Avenida Guayas 2117
-Pasaje García Moreno 1943
-Pasaje Colón 1060
-Calle Urdesa Central 2858
-Pasaje Amazonas 2625
-Calle Kennedy 2987
-Avenida Bolívar 72
-Avenida Patria 895
-Pasaje Rocafuerte 2002
-Avenida Rocafuerte 2236
-Calle Rocafuerte 1828
-Calle Sucre 2309
-Avenida República 2891
-Calle Sucre 478
-Avenida 6 de Diciembre 2932
-Avenida Amazonas 1245
-Avenida Amazonas 867
-Pasaje Bolívar 1057
-Avenida Los Ceibos 1475
-Avenida Sucre 823
-Pasaje Guayas 1644
-Avenida 10 de Agosto 2118
-Pasaje Shyris 1607
-Avenida Patria 18
-Calle Shyris 1150
-Avenida Kennedy 761
-Avenida Los Ceibos 2906
-Pasaje 6 de Diciembre 2940
-Pasaje 10 de Agosto 830
-Avenida Sucre 1651
-Avenida Sucre 20
-Avenida 10 de Agosto 2865
-Pasaje Los Ceibos 1693
-Avenida Portete 1352
-Calle 6 de Diciembre 871
-Pasaje Rocafuerte 1321
-Calle Amazonas 2
-Avenida Bolívar 2357
-Pasaje 10 de Agosto 2133
-Calle Bolívar 1712
-Calle República 2168
-Pasaje Sucre 1502
-Avenida 10 de Agosto 1027
-Pasaje Los Ceibos 2062
-Pasaje Kennedy 1981
-Pasaje Guayas 2889
-Avenida Rocafuerte 1527
-Avenida García Moreno 2227
-Pasaje Rocafuerte 2328
-Avenida Kennedy 2608
-Calle Amazonas 118
-Calle Amazonas 942
-Avenida Rocafuerte 2557
-Calle Guayas 1883
-Avenida República 2559
-Avenida República 302
-Pasaje Naciones Unidas 221
-Avenida Patria 41
-Avenida Colón 2548
-Avenida Guayas 1235
-Pasaje Los Ceibos 638
-Avenida Kennedy 996
-Calle Urdesa Central 2223
-Avenida Patria 84
-Avenida Guayas 841
-Avenida Bolívar 2171
-Pasaje Portete 1197
-Calle Urdesa Central 1284
-Pasaje Bolívar 464
-Pasaje Urdesa Central 574
-Avenida República 1487
-Avenida Guayas 1543
-Calle Urdesa Central 21
-Pasaje Naciones Unidas 1837
-Avenida República 31
-Avenida Los Ceibos 2223
-Avenida Portete 219
-Avenida República 822
-Avenida Naciones Unidas 1627
-Calle Amazonas 2600
-Pasaje Guayas 2366
-Pasaje Bolívar 1569
-Pasaje Sucre 2535
-Avenida Kennedy Norte 1921
-Avenida Amazonas 716
-Avenida Patria 2550
-Calle García Moreno 1847
-Pasaje Shyris 887
-Pasaje Amazonas 2494
-Avenida Amazonas 1752
-Avenida Portete 211
-Calle Shyris 2555
-Avenida Malecón Simón Bolívar 365
-Pasaje Amazonas 1099
-Avenida Rocafuerte 946
-Avenida República 162
-Pasaje Shyris 2631
-Avenida Sucre 1118
-Avenida Sucre 1262
-Avenida Malecón Simón Bolívar 2048
-Avenida Guayas 1693
-Pasaje Kennedy 933
-Avenida Sucre 331
-Avenida República 481
-Avenida Shyris 1226
-Avenida Portete 330
-Avenida 6 de Diciembre 516
-Pasaje García Moreno 343
-Avenida Kennedy 1141
-Avenida Kennedy 2974
-Avenida República 1485
-Avenida Los Ceibos 394
-Avenida Patria 1150
-Pasaje 9 de Octubre 987
-Avenida 10 de Agosto 1245
-Pasaje Los Ceibos 1023
-Avenida 9 de Octubre 2764
-Pasaje Rocafuerte 2974
-Avenida Portete 1465
-Calle Patria 2589
-Avenida Los Ceibos 1150
-Calle Portete 1899
-Pasaje García Moreno 2967
-Pasaje Naciones Unidas 937
-Avenida Colón 2034
-Calle 10 de Agosto 1729
-Avenida Patria 169
-Calle Kennedy 1939
-Avenida Los Ceibos 757
-Pasaje Naciones Unidas 1935
-Calle Shyris 2530
-Avenida Colón 2350
-Calle Kennedy Norte 408
-Avenida Urdesa Central 1229
-Avenida 9 de Octubre 385
-Calle Malecón Simón Bolívar 562
-Avenida Rocafuerte 91
-Avenida Malecón Simón Bolívar 451
-Avenida Guayas 2897
-Calle Portete 1433
-Pasaje Malecón Simón Bolívar 2321
-Avenida Kennedy Norte 1009
-Calle García Moreno 804
-Avenida Patria 797
-Avenida Shyris 2002
-Calle Naciones Unidas 191
-Calle Naciones Unidas 1511
-Calle Colón 2185
-Avenida 10 de Agosto 2021
-Avenida Naciones Unidas 2536
-Calle García Moreno 1737
-Avenida Portete 2740
-Calle Patria 183
-Pasaje Portete 1446
-Calle Kennedy 217
-Avenida Colón 1630
-Avenida 9 de Octubre 981
-Calle Rocafuerte 1377
-Calle Kennedy Norte 1207
-Avenida Colón 1788
-Avenida Urdesa Central 2712
-Avenida 10 de Agosto 860
-Pasaje 6 de Diciembre 2294
-Avenida Malecón Simón Bolívar 2348
-Pasaje Kennedy 1749
-Avenida Portete 1471
-Calle García Moreno 1608
-Pasaje Los Ceibos 1031
-Avenida Urdesa Central 455
-Avenida Rocafuerte 588
-Avenida Guayas 1823
-Avenida República 2010
+Avenida Kennedy 489
+Calle Los Ceibos 245
+Avenida Urdesa Central 287
+Avenida República 2757
+Calle Los Ceibos 50
+Avenida 10 de Agosto 2612
+Calle Bolívar 566
+Avenida Kennedy Norte 410
+Avenida Los Ceibos 2413
+Calle Shyris 244
+Calle República 1
+Avenida Kennedy Norte 2221
+Pasaje Portete 783
+Avenida Los Ceibos 2777
+Pasaje Portete 2709
+Avenida Kennedy Norte 782
+Calle Naciones Unidas 1269
+Calle 9 de Octubre 2565
+Avenida Los Ceibos 2052
+Avenida Colón 463
+Avenida Los Ceibos 1781
+Avenida República 1062
+Calle Kennedy 947
+Avenida 9 de Octubre 2747
+Avenida Kennedy Norte 2750
+Avenida Portete 1811
+Calle Portete 355
+Pasaje 9 de Octubre 925
+Pasaje 10 de Agosto 2283
+Pasaje Kennedy Norte 2487
+Avenida 10 de Agosto 757
+Pasaje García Moreno 39
+Avenida República 859
+Pasaje 10 de Agosto 1804
+Avenida Naciones Unidas 2857
+Pasaje Naciones Unidas 2461
+Pasaje Bolívar 2854
+Pasaje Portete 2465
+Calle Los Ceibos 1308
+Avenida Sucre 563
+Pasaje Bolívar 554
+Avenida García Moreno 2632
+Pasaje Guayas 2070
+Calle Naciones Unidas 753
+Calle 9 de Octubre 1610
+Calle Rocafuerte 1679
+Avenida 6 de Diciembre 119
+Pasaje Portete 2135
+Avenida República 2932
+Avenida Sucre 983
 Avenida Shyris 2861
-Calle Kennedy 823
-Calle Kennedy Norte 2909
-Avenida Bolívar 750
-Calle Kennedy 976
-Avenida Portete 1706
-Pasaje Malecón Simón Bolívar 2939
-Calle Sucre 28
-Avenida Kennedy Norte 36
-Calle Sucre 2988
-Avenida República 61
-Avenida Urdesa Central 1463
-Calle República 2566
-Calle García Moreno 546
-Pasaje Amazonas 2139
-Calle 10 de Agosto 1835
-Calle 9 de Octubre 1770
-Avenida Patria 1830
-Avenida Urdesa Central 243
-Avenida República 369
-Avenida Portete 468
-Avenida Shyris 1338
-Avenida Urdesa Central 1726
-Avenida República 1399
-Avenida Naciones Unidas 1973
-Avenida Portete 1384
-Pasaje Sucre 1677
-Avenida Guayas 922
-Calle Urdesa Central 602
-Pasaje Naciones Unidas 104
-Pasaje Sucre 2712
-Avenida Portete 420
-Pasaje Shyris 1677
-Avenida 6 de Diciembre 2183
-Avenida Rocafuerte 766
-Avenida Sucre 1807
-Calle Naciones Unidas 1295
-Calle García Moreno 2407
-Avenida 10 de Agosto 2490
-Pasaje Sucre 1931
-Calle República 1020
-Avenida Portete 1330
-Avenida García Moreno 1189
-Avenida 9 de Octubre 1948
-Calle Urdesa Central 1292
-Avenida Patria 1971
-Avenida Malecón Simón Bolívar 1743
-Avenida 6 de Diciembre 2282
-Avenida 6 de Diciembre 2163
-Calle Portete 1218
-Pasaje 9 de Octubre 873
-Avenida Portete 72
-Pasaje García Moreno 1851
-Avenida 6 de Diciembre 844
-Calle 10 de Agosto 1447
-Calle Amazonas 800
-Pasaje Colón 1065
-Calle Kennedy Norte 10
-Avenida Malecón Simón Bolívar 1345
-Avenida Guayas 1115
-Calle Colón 2610
-Pasaje 10 de Agosto 1874
-Avenida Shyris 605
-Calle 10 de Agosto 2942
-Avenida Colón 2963
-Avenida Shyris 2268
-Avenida García Moreno 412
-Calle García Moreno 885
-Calle Kennedy 1615
-Pasaje Rocafuerte 246
-Avenida Sucre 1666
-Avenida Rocafuerte 1755
-Avenida Urdesa Central 1826
-Avenida Kennedy 2163
-Avenida 9 de Octubre 1779
-Avenida Rocafuerte 22
-Calle Kennedy Norte 2594
-Calle Patria 1785
-Avenida Guayas 2358
-Avenida Colón 2882
-Avenida República 2408
-Avenida Bolívar 1524
-Avenida 10 de Agosto 1156
-Avenida Amazonas 2668
-Avenida 10 de Agosto 1694
-Avenida Rocafuerte 1779
-Calle Guayas 503
-Avenida Sucre 2753
-Calle República 2045
-Calle Colón 1748
-Calle García Moreno 1043
-Avenida Bolívar 860
-Avenida Rocafuerte 1708
-Avenida Colón 2740
-Avenida Bolívar 231
-Pasaje García Moreno 769
-Pasaje Urdesa Central 686
-Avenida 9 de Octubre 2345
-Calle Colón 358
-Calle Los Ceibos 119
-Avenida 10 de Agosto 1536
-Calle Malecón Simón Bolívar 1472
-Pasaje Malecón Simón Bolívar 1427
-Pasaje 6 de Diciembre 1528
-Pasaje Guayas 149
-Pasaje Malecón Simón Bolívar 2664
-Avenida Amazonas 1838
-Pasaje Naciones Unidas 610
-Pasaje Amazonas 362
-Calle Portete 1436
-Avenida Shyris 2829
-Pasaje Amazonas 2436
-Avenida Sucre 1949
-Avenida Rocafuerte 753
-Avenida República 1488
-Avenida Kennedy Norte 2035
-Calle Bolívar 97
-Calle Shyris 197
-Avenida Portete 672
-Pasaje Sucre 2057
-Calle Kennedy 777
-Avenida República 1613
-Pasaje Los Ceibos 247
-Calle 10 de Agosto 2280
-Avenida Patria 1051
-Pasaje Shyris 1765
-Pasaje Bolívar 1296
-Avenida Bolívar 2410
-Avenida Malecón Simón Bolívar 1875
-Pasaje Urdesa Central 2392
-Avenida Urdesa Central 131
-Pasaje 6 de Diciembre 1619
-Avenida República 1109
-Pasaje Naciones Unidas 2605
-Avenida Urdesa Central 1991
-Calle Amazonas 1553
-Pasaje García Moreno 2529
-Pasaje Urdesa Central 1202
-Avenida Shyris 2016
-Calle 9 de Octubre 1419
-Pasaje Rocafuerte 1755
-Avenida Rocafuerte 1680
-Calle Amazonas 2707
-Avenida Shyris 1393
-Avenida García Moreno 1131
-Pasaje Colón 15
-Avenida Los Ceibos 216
-Avenida 9 de Octubre 1631
-Pasaje Colón 2161
-Avenida Guayas 428
-Calle Amazonas 1104
-Avenida Colón 492
-Calle 6 de Diciembre 575
-Avenida Los Ceibos 184
-Avenida Sucre 412
-Calle Kennedy 1380
-Avenida Colón 1700
-Pasaje Kennedy 1559
-Avenida Bolívar 1125
-Avenida Los Ceibos 2493
-Calle Naciones Unidas 821
-Avenida 10 de Agosto 526
-Pasaje Malecón Simón Bolívar 1151
-Avenida Amazonas 2212
-Calle Malecón Simón Bolívar 1855
-Pasaje República 2609
-Avenida Kennedy Norte 218
-Avenida Rocafuerte 354
-Avenida Patria 1850
-Avenida Malecón Simón Bolívar 249
-Pasaje Shyris 464
-Avenida Guayas 1200
-Pasaje Bolívar 2848
-Avenida Kennedy Norte 2760
-Calle Shyris 2756
-Avenida Sucre 2186
-Calle Kennedy 1008
-Calle 9 de Octubre 491
-Pasaje Kennedy Norte 189
-Calle Bolívar 240
-Avenida García Moreno 1211
-Avenida Sucre 1330
-Pasaje 6 de Diciembre 176
-Calle Colón 2114
-Calle Colón 2961
-Pasaje Malecón Simón Bolívar 1695
-Pasaje Amazonas 2238
-Pasaje Patria 370
-Avenida República 304
-Pasaje Portete 596
-Avenida Colón 2677
-Pasaje Malecón Simón Bolívar 2771
-Pasaje 6 de Diciembre 118
-Calle Kennedy Norte 1074
-Avenida 10 de Agosto 2473
-Calle Malecón Simón Bolívar 1070
-Calle Amazonas 420
-Pasaje Kennedy 2228
-Avenida 10 de Agosto 1535
-Avenida Los Ceibos 1322
-Avenida 9 de Octubre 1227
-Calle García Moreno 2944
-Avenida Bolívar 538
-Avenida Urdesa Central 2508
-Calle Patria 821
-Pasaje Shyris 1757
-Avenida Amazonas 1430
-Calle Portete 2631
-Avenida Malecón Simón Bolívar 1052
-Avenida Bolívar 1108
-Avenida Kennedy Norte 2696
-Avenida Naciones Unidas 2079
-Calle 9 de Octubre 1135
-Avenida Malecón Simón Bolívar 880
-Calle Los Ceibos 48
-Pasaje 6 de Diciembre 576
-Avenida Bolívar 1438
-Pasaje Portete 2159
-Calle Bolívar 1450
-Calle 9 de Octubre 1241
-Avenida Amazonas 480
-Pasaje Naciones Unidas 848
-Avenida 9 de Octubre 1730
-Pasaje Urdesa Central 1174
-Avenida Bolívar 2901
-Pasaje Bolívar 2300
-Pasaje 9 de Octubre 803
-Calle Naciones Unidas 1515
-Calle Kennedy 1674
-Avenida Colón 2181
-Avenida Amazonas 2289
-Avenida Naciones Unidas 2699
-Pasaje Patria 2655
-Avenida García Moreno 1731
-Avenida Amazonas 444
-Pasaje Kennedy Norte 1733
-Avenida Malecón Simón Bolívar 1026
-Calle Malecón Simón Bolívar 2024
-Pasaje Sucre 2990
-Avenida Malecón Simón Bolívar 1324
-Avenida 6 de Diciembre 2326
-Pasaje Los Ceibos 2021
-Avenida Kennedy 2420
-Calle Kennedy 702
-Pasaje Malecón Simón Bolívar 938
-Calle 10 de Agosto 1718
-Avenida Naciones Unidas 2945
-Avenida Patria 592
-Avenida Los Ceibos 352
-Avenida Bolívar 1971
-Avenida Shyris 377
-Avenida Malecón Simón Bolívar 355
-Calle 6 de Diciembre 68
-Calle Shyris 91
-Avenida Rocafuerte 1448
-Avenida 10 de Agosto 1993
-Calle Guayas 874
-Calle Bolívar 435
-Calle Naciones Unidas 1936
-Calle República 2904
-Pasaje Urdesa Central 1000
-Avenida República 1871
-Calle Naciones Unidas 2117
-Calle Amazonas 2422
-Avenida Amazonas 1824
-Pasaje Urdesa Central 592
-Avenida Colón 2928
-Avenida Bolívar 1383
-Calle Urdesa Central 508
-Calle República 1643
-Calle Los Ceibos 2065
-Avenida Portete 2512
-Avenida 9 de Octubre 1552
-Calle Kennedy 878
-Avenida República 181
-Calle Patria 190
-Calle República 517
-Avenida Amazonas 1720
-Avenida República 2960
-Pasaje Naciones Unidas 1141
-Calle Kennedy 1635
-Calle Guayas 1543
-Pasaje Malecón Simón Bolívar 1823
-Avenida Malecón Simón Bolívar 611
-Avenida Urdesa Central 2721
-Avenida República 343
-Calle Naciones Unidas 588
-Avenida Shyris 1402
-Avenida Kennedy Norte 2788
-Avenida Sucre 2846
-Avenida Sucre 1182
-Calle Amazonas 2445
-Pasaje 9 de Octubre 2959
-Avenida Rocafuerte 2759
-Calle 10 de Agosto 2933
-Avenida 6 de Diciembre 596
-Avenida Malecón Simón Bolívar 618
-Avenida García Moreno 1368
-Avenida Kennedy 866
-Avenida Portete 485
-Avenida Shyris 605
-Pasaje Patria 1920
-Avenida García Moreno 538
-Pasaje 9 de Octubre 2948
-Avenida Sucre 1492
-Pasaje Kennedy 710
-Avenida Colón 2552
-Pasaje Kennedy 115
-Avenida 6 de Diciembre 1757
-Calle Los Ceibos 1109
-Avenida Kennedy 1621
-Avenida 10 de Agosto 2334
-Calle Bolívar 2737
-Avenida 6 de Diciembre 2901
-Calle García Moreno 2310
-Avenida Rocafuerte 1110
-Pasaje 9 de Octubre 2094
-Avenida Sucre 848
-Avenida Malecón Simón Bolívar 2624
-Calle Malecón Simón Bolívar 77
-Calle 10 de Agosto 2330
-Pasaje 6 de Diciembre 2233
-Calle Amazonas 751
-Avenida Kennedy 44
-Pasaje Bolívar 2278
-Avenida Malecón Simón Bolívar 2615
-Pasaje Kennedy 2798
-Pasaje Urdesa Central 2389
-Avenida Kennedy 285
-Avenida Amazonas 1159
-Avenida Los Ceibos 2325
-Avenida 6 de Diciembre 1868
-Avenida Bolívar 2360
-Avenida García Moreno 675
-Calle 9 de Octubre 278
-Avenida García Moreno 1004
-Calle Portete 1674
-Calle Guayas 2892
-Avenida García Moreno 2448
-Avenida República 1095
-Avenida Sucre 1630
-Avenida Kennedy 295
-Pasaje 10 de Agosto 2532
-Avenida Kennedy Norte 208
-Avenida Kennedy Norte 884
-Avenida Sucre 2107
-Calle 6 de Diciembre 512
-Pasaje Urdesa Central 1966
-Avenida Colón 253
-Avenida Colón 53
-Avenida Urdesa Central 672
-Avenida Guayas 726
-Calle Portete 1803
-Pasaje Urdesa Central 939
-Avenida Colón 359
-Avenida 9 de Octubre 1953
-Calle República 1472
-Avenida Sucre 2130
-Avenida 10 de Agosto 364
-Pasaje Malecón Simón Bolívar 205
-Avenida Portete 2334
-Avenida Colón 47
-Pasaje Malecón Simón Bolívar 1169
-Avenida García Moreno 39
-Pasaje Urdesa Central 2808
-Pasaje Colón 431
-Avenida República 1602
-Avenida Patria 323
-Avenida Los Ceibos 2223
-Avenida Kennedy 116
-Pasaje 10 de Agosto 2255
-Avenida Rocafuerte 2005
-Calle Guayas 88
-Pasaje 9 de Octubre 2712
-Pasaje Shyris 1078
-Avenida Bolívar 297
-Pasaje 9 de Octubre 1440
-Avenida Guayas 535
-Calle 9 de Octubre 1799
-Avenida Malecón Simón Bolívar 2112
-Calle Sucre 2136
-Pasaje Urdesa Central 2965
-Avenida Los Ceibos 161
-Avenida Patria 1627
-Avenida 6 de Diciembre 800
-Calle Kennedy 1330
-Calle República 669
-Calle Sucre 1680
-Pasaje República 1207
-Avenida Amazonas 1821
-Avenida Patria 2097
-Calle Naciones Unidas 644
-Pasaje República 2853
-Avenida 10 de Agosto 2243
-Calle Bolívar 694
-Pasaje Kennedy Norte 1308
-Avenida Kennedy 665
-Calle Guayas 2638
-Calle Portete 2176
-Avenida Kennedy 2820
-Calle Malecón Simón Bolívar 484
-Calle República 1015
-Pasaje Shyris 1325
-Avenida García Moreno 175
-Calle 10 de Agosto 1929
-Avenida Kennedy 2141
-Calle República 1268
-Calle República 826
-Calle Guayas 1840
-Calle García Moreno 551
-Calle Shyris 2088
-Pasaje Los Ceibos 1836
-Avenida García Moreno 2135
-Avenida Patria 1101
-Avenida Los Ceibos 1473
-Avenida García Moreno 229
-Avenida Colón 1839
-Pasaje Patria 737
-Avenida Urdesa Central 2833
-Avenida República 1229
-Calle República 1078
-Calle Los Ceibos 2276
-Calle Urdesa Central 376
-Pasaje 9 de Octubre 2209
+Avenida 10 de Agosto 568
+Calle Amazonas 1005
+Pasaje Kennedy 1967
+Avenida 9 de Octubre 2574
+Avenida Los Ceibos 2881
+Avenida Los Ceibos 697
+Calle Guayas 1018
+Pasaje Patria 1422
+Calle 9 de Octubre 1191
+Avenida Urdesa Central 2117
+Pasaje Sucre 1760
+Pasaje García Moreno 414
+Avenida Patria 2223
+Avenida García Moreno 552
+Avenida 10 de Agosto 1749
+Avenida Amazonas 1199
+Pasaje Sucre 2841
+Avenida Rocafuerte 1781
+Calle Guayas 2120
+Pasaje Malecón Simón Bolívar 58
+Avenida Los Ceibos 27
+Avenida Sucre 1814
+Calle García Moreno 1967
+Avenida Guayas 2298
+Avenida Patria 484
+Calle Los Ceibos 1888
+Avenida 10 de Agosto 2887
+Pasaje Amazonas 466
+Avenida Bolívar 937
+Avenida Naciones Unidas 2625
+Avenida Colón 1536
+Avenida García Moreno 1337
+Calle República 2276
+Pasaje Naciones Unidas 1705
+Pasaje Rocafuerte 1190
+Avenida Guayas 1013
+Avenida Los Ceibos 1146
+Avenida Colón 14
+Calle Urdesa Central 295
+Avenida Bolívar 877
+Avenida 9 de Octubre 1678
+Pasaje Urdesa Central 1060
+Pasaje Guayas 2601
+Calle Sucre 1631
+Avenida Rocafuerte 2994
+Pasaje Rocafuerte 2121
+Avenida Rocafuerte 1430
+Calle Urdesa Central 674
+Avenida Shyris 270
+Avenida Sucre 1279
+Avenida Los Ceibos 1570
+Avenida Kennedy 2621
+Avenida García Moreno 2229
+Avenida Los Ceibos 2575
+Calle 9 de Octubre 2100
+Pasaje Naciones Unidas 2306
+Avenida República 1152
+Avenida 6 de Diciembre 2818
+Pasaje 6 de Diciembre 358
+Pasaje Patria 968
+Pasaje Patria 1112
+Avenida 10 de Agosto 2258
+Pasaje García Moreno 369
+Pasaje Sucre 2325
+Avenida Sucre 2564
+Calle Los Ceibos 216
+Calle 10 de Agosto 1299
+Pasaje Shyris 1516
+Calle 10 de Agosto 2795
+Pasaje Malecón Simón Bolívar 1801
+Calle Portete 8
+Avenida Malecón Simón Bolívar 1099
+Calle 10 de Agosto 2784
+Pasaje Urdesa Central 139
+Avenida García Moreno 2565
+Avenida Shyris 317
+Pasaje Guayas 508
+Pasaje García Moreno 1510
+Pasaje Rocafuerte 1
+Avenida Kennedy 2929
+Pasaje Naciones Unidas 1589
+Avenida Shyris 265
+Calle Malecón Simón Bolívar 579
+Avenida Portete 2928
+Avenida 6 de Diciembre 2666
+Avenida República 83
+Avenida Sucre 990
+Avenida Rocafuerte 36
+Avenida Rocafuerte 1799
+Pasaje Portete 1278
+Avenida Colón 1262
+Avenida Kennedy 2756
+Calle Amazonas 733
+Pasaje 9 de Octubre 1240
+Pasaje Bolívar 2693
+Avenida Guayas 1329
+Calle 9 de Octubre 115
+Avenida Guayas 301
+Avenida Malecón Simón Bolívar 1089
+Avenida Rocafuerte 995
+Calle 6 de Diciembre 1863
+Calle Rocafuerte 2694
+Avenida Bolívar 1865
+Calle 9 de Octubre 327
+Pasaje Kennedy 1940
+Calle Colón 1555
+Calle Bolívar 551
+Calle Kennedy Norte 391
+Pasaje Rocafuerte 1879
+Pasaje Kennedy 2790
+Calle Amazonas 1365
+Avenida 9 de Octubre 2817
+Avenida Patria 1275
+Avenida Patria 496
+Pasaje Shyris 643
+Calle Bolívar 1503
+Pasaje 10 de Agosto 1389
+Avenida Colón 2880
+Pasaje Guayas 244
+Avenida Portete 1449
+Calle Kennedy Norte 1569
+Avenida Naciones Unidas 820
+Avenida Rocafuerte 2265
+Avenida Colón 1232
+Pasaje García Moreno 2147
+Avenida República 1078
+Calle García Moreno 711
+Avenida Los Ceibos 309
+Pasaje 10 de Agosto 1220
+Calle Kennedy 2153
+Avenida Los Ceibos 977
+Avenida Amazonas 1653
+Calle Sucre 1688
+Calle Portete 2872
+Avenida República 1528
+Calle Kennedy 2666
+Avenida Shyris 2899
+Calle Naciones Unidas 1167
+Avenida Shyris 2511
+Pasaje Portete 1101
+Avenida Malecón Simón Bolívar 605
+Calle Portete 1648
+Pasaje 10 de Agosto 1698
+Avenida Malecón Simón Bolívar 2799
+Pasaje Portete 410
+Avenida Bolívar 1994
+Avenida Los Ceibos 2805
+Avenida Bolívar 2236
+Pasaje Sucre 2457
+Calle Patria 2272
+Pasaje Colón 1493
+Pasaje Shyris 934
+Calle Amazonas 1070
+Avenida Colón 1353
+Calle Naciones Unidas 190
+Pasaje Shyris 1868
+Avenida Urdesa Central 1528
+Pasaje Kennedy 666
+Calle Shyris 1866
+Calle 6 de Diciembre 1019
+Avenida Shyris 1738
+Avenida 6 de Diciembre 846
+Pasaje Naciones Unidas 244
+Avenida Kennedy 1710
+Calle Portete 1062
+Pasaje Naciones Unidas 652
+Avenida Sucre 1897
+Pasaje Shyris 1542
+Avenida Malecón Simón Bolívar 2223
+Avenida Guayas 1992
+Pasaje Malecón Simón Bolívar 2986
+Calle Patria 2593
+Pasaje Urdesa Central 1509
+Avenida Sucre 420
+Avenida Rocafuerte 879
+Avenida Los Ceibos 896
+Calle Kennedy Norte 1841
+Avenida Sucre 2891
+Calle Bolívar 840
+Calle Guayas 2255
+Pasaje Kennedy 902
+Avenida Bolívar 817
+Avenida Malecón Simón Bolívar 572
+Calle Colón 2113
+Pasaje Malecón Simón Bolívar 391
+Calle Rocafuerte 1475
+Pasaje Amazonas 2092
+Calle Portete 498
+Calle Malecón Simón Bolívar 2392
+Calle Colón 486
+Avenida Rocafuerte 1899
+Pasaje 6 de Diciembre 674
+Pasaje García Moreno 2894
+Avenida Colón 1680
+Avenida Amazonas 921
+Pasaje República 1463
+Pasaje Portete 1083
+Avenida Naciones Unidas 2969
+Avenida Urdesa Central 129
+Avenida Amazonas 2391
+Pasaje 10 de Agosto 198
+Avenida Rocafuerte 2579
+Avenida 9 de Octubre 593
+Calle Shyris 853
+Calle Los Ceibos 171
+Calle Kennedy Norte 1705
+Calle República 2928
+Pasaje Rocafuerte 1294
+Avenida Naciones Unidas 2264
+Avenida Sucre 2342
+Pasaje Urdesa Central 2639
+Avenida Guayas 106
+Avenida Urdesa Central 1802
+Calle 6 de Diciembre 1726
+Pasaje Naciones Unidas 2479
+Pasaje 10 de Agosto 2974
+Avenida Colón 600
+Pasaje Malecón Simón Bolívar 1665
+Avenida 9 de Octubre 2937
+Pasaje Shyris 1818
+Calle Malecón Simón Bolívar 37
+Calle Rocafuerte 2128
+Calle 9 de Octubre 2700
+Avenida Los Ceibos 66
+Pasaje Rocafuerte 1971
+Calle 9 de Octubre 1732
+Pasaje 9 de Octubre 107
+Calle Guayas 195
+Avenida Malecón Simón Bolívar 818
+Avenida Los Ceibos 1481
+Avenida 9 de Octubre 760
+Avenida Sucre 145
+Avenida Sucre 2204
+Pasaje República 1048
+Pasaje García Moreno 1442
+Avenida Malecón Simón Bolívar 907
+Avenida 6 de Diciembre 1471
+Calle García Moreno 2992
+Pasaje Urdesa Central 1030
+Avenida Kennedy 2379
+Avenida Los Ceibos 2879
+Pasaje Malecón Simón Bolívar 1600
+Avenida Naciones Unidas 1153
+Pasaje 10 de Agosto 781
+Avenida Patria 2696
+Avenida Colón 2253
+Avenida Shyris 375
+Pasaje Naciones Unidas 286
+Avenida Kennedy Norte 1552
+Calle Kennedy Norte 2193
+Pasaje Kennedy 841
+Pasaje Los Ceibos 809
+Avenida Malecón Simón Bolívar 2173
+Avenida 10 de Agosto 243
+Calle Patria 2095
+Avenida Portete 99
+Avenida García Moreno 2997
+Avenida Bolívar 1073
+Avenida Sucre 203
+Avenida Kennedy Norte 507
+Calle Urdesa Central 1324
+Avenida 10 de Agosto 1002
+Calle Bolívar 2584
+Avenida Amazonas 175
+Avenida Portete 1952
+Avenida Shyris 2340
+Calle Shyris 1316
+Pasaje Naciones Unidas 2352
+Pasaje 10 de Agosto 1283
+Pasaje 10 de Agosto 1019
+Avenida Los Ceibos 285
+Pasaje Amazonas 2480
 Avenida Naciones Unidas 2813
-Avenida Colón 1935
-Avenida Shyris 1782
-Avenida Guayas 7
-Calle Sucre 2034
-Pasaje Kennedy Norte 144
-Pasaje Guayas 2529
-Pasaje García Moreno 904
-Calle 6 de Diciembre 69
-Calle Colón 1663
-Calle Colón 561
-Avenida 6 de Diciembre 128
-Avenida Malecón Simón Bolívar 136
-Avenida Kennedy Norte 28
-Pasaje Colón 2100
-Calle Rocafuerte 1705
-Calle 6 de Diciembre 100
-Avenida Naciones Unidas 203
-Calle Sucre 841
-Avenida Rocafuerte 2380
-Calle Patria 1055
-Avenida 10 de Agosto 2220
-Avenida Shyris 2007
+Calle Rocafuerte 2899
+Avenida Patria 2310
+Avenida 6 de Diciembre 1686
+Avenida Urdesa Central 2419
+Calle República 1527
+Pasaje Shyris 2302
+Avenida Malecón Simón Bolívar 74
+Pasaje 6 de Diciembre 2471
+Calle Sucre 2231
+Avenida Guayas 1145
+Pasaje García Moreno 1359
+Calle Rocafuerte 1096
+Pasaje Patria 2177
+Pasaje Portete 1937
+Avenida Patria 1617
+Avenida Portete 513
+Pasaje 6 de Diciembre 255
+Avenida República 1085
+Avenida 10 de Agosto 2641
+Calle Naciones Unidas 148
+Avenida Portete 2452
+Pasaje 9 de Octubre 1331
+Calle Sucre 2610
+Pasaje 10 de Agosto 664
+Pasaje Naciones Unidas 1136
+Avenida Portete 398
+Pasaje Naciones Unidas 2521
+Avenida Bolívar 1806
+Avenida Naciones Unidas 295
+Avenida Rocafuerte 230
+Pasaje García Moreno 1285
+Avenida García Moreno 794
+Calle Bolívar 2958
+Avenida Kennedy 321
+Avenida Urdesa Central 2601
+Pasaje Bolívar 1320
+Avenida Bolívar 886
+Pasaje Sucre 2088
+Avenida Shyris 984
+Avenida 10 de Agosto 2436
+Avenida Portete 783
+Pasaje República 1318
+Avenida Bolívar 1842
+Avenida Sucre 2393
+Pasaje Portete 2263
+Avenida Malecón Simón Bolívar 1753
+Avenida Los Ceibos 1967
+Avenida 10 de Agosto 2295
+Avenida 9 de Octubre 937
+Pasaje Naciones Unidas 1815
+Avenida Kennedy 1679
+Pasaje 9 de Octubre 1396
+Pasaje Naciones Unidas 2775
+Avenida República 2995
+Avenida Sucre 1056
+Calle Kennedy Norte 1538
+Calle Shyris 3
+Avenida Patria 1538
+Avenida Sucre 764
+Pasaje Sucre 304
+Avenida Amazonas 1650
+Calle García Moreno 1115
+Calle 10 de Agosto 1388
+Pasaje Portete 644
+Avenida 6 de Diciembre 2951
+Pasaje Kennedy 1146
+Avenida Los Ceibos 624
+Avenida República 30
+Calle Colón 2643
+Avenida Urdesa Central 2880
+Pasaje Malecón Simón Bolívar 1155
+Avenida Guayas 503
+Avenida 6 de Diciembre 1850
+Pasaje Shyris 1993
+Calle Kennedy 1221
+Avenida Naciones Unidas 864
+Calle 10 de Agosto 513
+Avenida Bolívar 1896
+Calle Kennedy Norte 861
+Pasaje 9 de Octubre 1495
+Calle Kennedy Norte 2926
+Avenida 10 de Agosto 1387
+Pasaje Naciones Unidas 390
+Avenida Bolívar 42
+Avenida Naciones Unidas 2730
+Pasaje Naciones Unidas 1057
+Pasaje Portete 1305
+Avenida Patria 2407
+Avenida Kennedy Norte 394
+Avenida Bolívar 1639
+Avenida Colón 437
+Calle 10 de Agosto 1321
+Pasaje Guayas 2156
+Avenida Sucre 865
+Calle 9 de Octubre 557
+Calle 9 de Octubre 1511
+Calle Portete 1019
+Pasaje Guayas 1078
+Pasaje Amazonas 85
+Calle Kennedy Norte 2054
+Calle 9 de Octubre 1708
+Avenida Amazonas 1879
+Avenida Rocafuerte 2669
+Calle Guayas 2779
+Avenida Kennedy 2089
+Avenida Kennedy Norte 1678
+Pasaje Kennedy 693
+Calle Amazonas 2553
+Avenida Kennedy 653
+Avenida Bolívar 1958
+Pasaje Kennedy Norte 1535
+Calle García Moreno 2089
+Avenida Patria 2676
+Pasaje García Moreno 1744
+Avenida Urdesa Central 520
+Calle Kennedy Norte 1125
+Pasaje Portete 964
+Avenida Patria 762
+Avenida Guayas 2577
+Pasaje Guayas 2115
+Avenida Portete 1067
+Avenida Kennedy Norte 1870
+Pasaje Kennedy Norte 1016
+Pasaje Patria 768
+Avenida Naciones Unidas 380
+Calle 10 de Agosto 754
+Avenida Naciones Unidas 2739
+Avenida Bolívar 391
+Avenida Amazonas 2469
+Avenida Patria 218
+Avenida Bolívar 335
+Pasaje República 1577
+Avenida Guayas 1900
+Avenida Kennedy Norte 1819
+Avenida Guayas 243
+Avenida Amazonas 839
+Calle Portete 243
+Pasaje Shyris 1943
+Pasaje Rocafuerte 242
+Calle 6 de Diciembre 1815
+Pasaje Rocafuerte 1599
+Avenida 6 de Diciembre 672
+Avenida Amazonas 2499
+Avenida Malecón Simón Bolívar 2599
+Avenida Naciones Unidas 277
+Avenida Guayas 381
+Avenida Kennedy 1291
+Avenida Kennedy 352
+Pasaje Naciones Unidas 284
+Avenida Amazonas 1497
+Calle Kennedy 928
+Avenida Amazonas 716
+Avenida Patria 2227
+Pasaje República 1346
+Avenida Sucre 873
+Calle Sucre 1237
+Avenida 9 de Octubre 449
+Pasaje Rocafuerte 1077
+Calle Malecón Simón Bolívar 2786
+Pasaje Portete 1785
+Calle 6 de Diciembre 1
+Pasaje Shyris 579
+Pasaje República 866
+Pasaje Colón 1044
+Pasaje Colón 1877
+Calle 6 de Diciembre 1161
+Avenida 6 de Diciembre 2699
+Avenida Kennedy Norte 1028
+Pasaje Shyris 358
+Avenida Guayas 2167
+Avenida Rocafuerte 2357
+Calle Sucre 1092
+Avenida Sucre 203
+Avenida Rocafuerte 1569
+Avenida Amazonas 1712
+Avenida Shyris 2829
+Avenida Rocafuerte 920
+Avenida 9 de Octubre 2761
+Avenida Guayas 2819
+Avenida 9 de Octubre 1968
+Pasaje Bolívar 2344
+Avenida Colón 812
+Calle Bolívar 2004
+Avenida Guayas 280
+Avenida Amazonas 1929
+Pasaje Naciones Unidas 1254
+Pasaje Los Ceibos 1039
+Calle Los Ceibos 2973
+Avenida Urdesa Central 1241
+Avenida García Moreno 334
+Pasaje Sucre 1370
+Avenida Amazonas 2783
+Avenida Malecón Simón Bolívar 979
+Avenida Los Ceibos 2568
+Avenida Malecón Simón Bolívar 707
+Pasaje García Moreno 976
+Avenida Los Ceibos 314
+Avenida Sucre 2409
+Avenida Patria 2626
+Pasaje Portete 1605
+Calle Guayas 1557
+Avenida Kennedy Norte 2301
+Calle Portete 2076
+Pasaje Los Ceibos 381
+Calle República 415
+Avenida Bolívar 815
+Pasaje Kennedy Norte 218
+Avenida Kennedy 171
+Avenida Los Ceibos 1097
+Avenida Los Ceibos 942
+Avenida Urdesa Central 1441
+Pasaje Rocafuerte 2313
+Avenida Sucre 1112
+Avenida Kennedy Norte 1664
+Calle Colón 2339
+Pasaje Patria 2643
+Pasaje Bolívar 2360
+Avenida 10 de Agosto 2358
+Pasaje República 1036
+Pasaje Patria 700
+Pasaje Naciones Unidas 149
+Calle 9 de Octubre 1446
+Avenida Rocafuerte 337
+Calle 6 de Diciembre 119
+Avenida Urdesa Central 1352
+Pasaje Shyris 2162
+Pasaje Guayas 1808
+Calle García Moreno 1233
+Calle Naciones Unidas 2067
+Pasaje Portete 1772
+Pasaje República 2152
+Avenida República 839
+Calle Colón 1821
+Pasaje Shyris 663
+Pasaje Colón 22
+Avenida Kennedy Norte 963
+Avenida Amazonas 1916
+Avenida Guayas 887
+Avenida Kennedy 941
+Avenida Shyris 2937
+Avenida Amazonas 1733
+Avenida Patria 1305
+Calle Malecón Simón Bolívar 2254
+Calle Bolívar 2239
+Avenida García Moreno 1529
+Avenida Malecón Simón Bolívar 2989
+Pasaje Naciones Unidas 992
+Avenida Kennedy Norte 901
+Calle Kennedy 1444
+Avenida Portete 2016
+Calle Malecón Simón Bolívar 90
+Calle Urdesa Central 1557
+Avenida Guayas 1199
+Avenida Patria 425
+Pasaje 9 de Octubre 890
+Pasaje Sucre 828
+Avenida García Moreno 391
+Avenida Portete 1382
+Pasaje Patria 1660
+Avenida Bolívar 1946
+Pasaje Urdesa Central 863
+Pasaje Rocafuerte 727
+Avenida 10 de Agosto 1942
+Calle Bolívar 310
+Avenida Sucre 2242
+Avenida Shyris 1867
+Pasaje Shyris 2509
+Calle Kennedy 697
+Avenida Sucre 629
+Avenida García Moreno 2493
+Pasaje Sucre 1866
+Avenida República 1170
+Avenida Rocafuerte 773
+Avenida Shyris 2318
+Calle 10 de Agosto 1571
+Pasaje Kennedy Norte 2382
+Calle Amazonas 2446
+Avenida Rocafuerte 7
+Calle Portete 957
+Avenida Kennedy Norte 196
+Pasaje 10 de Agosto 522
+Calle Kennedy Norte 1044
+Pasaje Shyris 925
+Calle 6 de Diciembre 1646
+Pasaje Naciones Unidas 2048
+Calle Bolívar 86
+Calle Kennedy 582
+Calle Naciones Unidas 2510
+Avenida Bolívar 420
+Pasaje Colón 2973
+Avenida 9 de Octubre 1884
+Avenida 10 de Agosto 1375
+Calle García Moreno 35
+Avenida Kennedy 1295
+Pasaje Guayas 1072
+Avenida Rocafuerte 355
+Avenida Urdesa Central 2523
+Pasaje República 1255
+Calle Shyris 2226
+Avenida República 176
+Avenida Kennedy 2453
+Avenida Naciones Unidas 2936
+Pasaje República 693
+Calle República 2661
+Pasaje Malecón Simón Bolívar 2345
+Avenida Amazonas 1579
+Avenida Portete 2408
+Avenida 9 de Octubre 632
+Avenida 9 de Octubre 525
+Pasaje Guayas 1113
+Avenida 6 de Diciembre 2990
+Pasaje Kennedy 1081
+Avenida Los Ceibos 928
+Pasaje 6 de Diciembre 1894
+Pasaje Patria 2825
+Pasaje 6 de Diciembre 1140
+Calle Portete 1586
+Pasaje 9 de Octubre 2470
+Pasaje República 1291
+Avenida 6 de Diciembre 358
+Calle Amazonas 2962
+Avenida Naciones Unidas 2873
+Avenida República 1591
+Pasaje García Moreno 2859
+Avenida Sucre 2446
+Avenida 9 de Octubre 2689
+Pasaje Naciones Unidas 1432
+Avenida 6 de Diciembre 309
+Pasaje Malecón Simón Bolívar 2010
+Calle 10 de Agosto 759
+Pasaje García Moreno 1396
+Avenida República 174
+Calle 9 de Octubre 1049
+Pasaje Sucre 796
+Pasaje Sucre 2993
+Calle Portete 2798
+Avenida Guayas 316
+Pasaje Amazonas 227
+Pasaje 9 de Octubre 1147
+Pasaje Kennedy Norte 1358
+Pasaje Malecón Simón Bolívar 1878
+Calle Sucre 2436
+Calle 6 de Diciembre 1812
+Calle García Moreno 1929
+Avenida Kennedy Norte 2437
+Calle Los Ceibos 2786
+Calle Bolívar 1627
+Avenida Kennedy 2777
+Calle Shyris 1344
+Calle Kennedy Norte 2815
+Pasaje República 2373
+Calle Guayas 1496
+Avenida García Moreno 682
+Avenida Guayas 546
+Avenida Rocafuerte 1770
+Avenida Colón 2373
+Calle Portete 578
+Avenida Naciones Unidas 2239
+Pasaje Colón 2819
+Calle Naciones Unidas 2702
+Pasaje Urdesa Central 1674
+Calle Portete 481
+Calle Portete 648
+Calle Guayas 1485
+Calle Rocafuerte 1668
+Avenida Patria 585
+Avenida Colón 400
+Avenida 10 de Agosto 1289
+Avenida Amazonas 2633
+Avenida Amazonas 1087
+Calle Sucre 817
+Avenida Kennedy 1901
+Pasaje Patria 1449
+Avenida Kennedy 1344
+Avenida García Moreno 2454
+Calle Patria 1262
+Avenida Los Ceibos 61
+Avenida Urdesa Central 2020
+Avenida Los Ceibos 1466
+Avenida Amazonas 2010
+Avenida Amazonas 806
+Avenida Kennedy 1310
+Avenida 9 de Octubre 38
+Avenida Kennedy 2244
+Avenida Guayas 722
+Pasaje Portete 1977
+Avenida Shyris 1433
+Avenida Colón 1084
+Avenida Urdesa Central 2580
+Pasaje Los Ceibos 2666
+Calle Guayas 1327
+Avenida Amazonas 1045
+Pasaje 9 de Octubre 693
+Avenida 9 de Octubre 19
+Avenida 6 de Diciembre 2350
+Calle 10 de Agosto 190
+Pasaje Malecón Simón Bolívar 2264
+Avenida República 200
+Pasaje Kennedy 1375
+Avenida Amazonas 477
+Calle Malecón Simón Bolívar 965
+Avenida Los Ceibos 2216
+Calle Kennedy 1205
+Avenida Kennedy Norte 798
+Avenida Colón 1
+Calle Urdesa Central 2925
+Avenida Naciones Unidas 1528
+Calle Kennedy 848
+Pasaje Bolívar 2597
+Avenida Portete 2918
+Pasaje República 771
+Pasaje Patria 1320
+Avenida 9 de Octubre 2160
+Pasaje Kennedy 1590
+Avenida Sucre 2140
+Avenida Patria 1175
+Calle Urdesa Central 2885
+Avenida Los Ceibos 866
+Avenida Naciones Unidas 598
+Avenida Amazonas 59
+Pasaje 9 de Octubre 590
+Avenida Los Ceibos 2363
+Calle República 2338
+Avenida Rocafuerte 2097
+Avenida Urdesa Central 1523
+Pasaje Kennedy Norte 2786
+Calle Malecón Simón Bolívar 2930
+Pasaje Urdesa Central 2859
+Avenida Kennedy 426
+Avenida Portete 750
+Calle Amazonas 2960
+Calle 10 de Agosto 2974
+Avenida García Moreno 1251
+Avenida Portete 1073
+Calle Shyris 2241
+Avenida Amazonas 1946
+Pasaje Bolívar 2315
+Avenida 9 de Octubre 2858
+Calle Bolívar 64
+Avenida Amazonas 2924
+Pasaje 6 de Diciembre 2368
+Calle Patria 451
+Avenida Sucre 2305
+Pasaje 6 de Diciembre 2465
+Pasaje 6 de Diciembre 1127
+Avenida República 121
+Calle Guayas 1828
+Pasaje Naciones Unidas 1588
+Pasaje Colón 625
+Avenida Urdesa Central 2923
+Avenida Kennedy Norte 2542
+Avenida 10 de Agosto 272
+Avenida República 2934
+Pasaje 10 de Agosto 1111
+Avenida Kennedy Norte 1817
+Avenida Portete 1007
+Pasaje 6 de Diciembre 1787
+Calle 9 de Octubre 1008
+Pasaje Patria 447
+Calle 10 de Agosto 2102
+Calle Naciones Unidas 2464
+Pasaje Shyris 1167
+Pasaje Kennedy Norte 2848
+Calle Kennedy 2407
+Calle 9 de Octubre 355
+Pasaje Shyris 562
+Avenida Kennedy 387
+Avenida 9 de Octubre 396
+Calle Colón 2751
+Calle Colón 2288
+Avenida 10 de Agosto 965
+Calle Los Ceibos 1114
+Pasaje República 599
+Calle Bolívar 1570
+Avenida Colón 499
+Pasaje Malecón Simón Bolívar 2883
+Avenida Kennedy 763
+Calle Shyris 1796
+Avenida Malecón Simón Bolívar 411
+Avenida 9 de Octubre 1011
+Pasaje Portete 1172
+Avenida República 2748
+Pasaje 10 de Agosto 7
+Avenida Guayas 641
+Avenida Sucre 1348
+Avenida Colón 1911
+Avenida Malecón Simón Bolívar 2858
+Calle Naciones Unidas 2614
+Avenida Urdesa Central 36
+Avenida 9 de Octubre 2615
+Avenida Naciones Unidas 2866
+Avenida 9 de Octubre 932
+Calle Bolívar 15
+Avenida Urdesa Central 1786
+Avenida 9 de Octubre 65
+Avenida 9 de Octubre 2458
+Calle 10 de Agosto 92
+Calle Malecón Simón Bolívar 269
+Calle García Moreno 2837
+Avenida Sucre 556
+Calle García Moreno 2375
+Pasaje Sucre 488
+Avenida Naciones Unidas 126
+Avenida Colón 863
+Calle 6 de Diciembre 1438
+Avenida Los Ceibos 2340
+Calle Kennedy 1582
+Pasaje Los Ceibos 1250
+Avenida Guayas 940
+Avenida Malecón Simón Bolívar 1565
+Calle Shyris 841
+Avenida Portete 829
+Avenida Kennedy 1017
+Pasaje Malecón Simón Bolívar 626
+Calle Malecón Simón Bolívar 790
+Pasaje Sucre 1077
+Pasaje García Moreno 2238
+Pasaje Patria 2289
+Avenida Sucre 1096
+Pasaje Shyris 2914
+Avenida Sucre 2857
+Pasaje Bolívar 488
+Calle Kennedy Norte 204
+Avenida Los Ceibos 2376
+Pasaje Kennedy 2169
+Avenida Amazonas 1007
+Avenida Sucre 2227
+Avenida 10 de Agosto 2487
+Calle 6 de Diciembre 760
+Calle Los Ceibos 498
+Avenida República 2643
+Pasaje Guayas 755
+Calle Bolívar 914
+Avenida Colón 71
+Calle Amazonas 1016
+Calle Los Ceibos 2302
+Calle Sucre 2234
+Calle Naciones Unidas 1286
+Avenida Kennedy 1907
+Pasaje Amazonas 2296
+Avenida Sucre 571
+Avenida Colón 615
+Avenida Colón 1010
+Avenida Rocafuerte 1467
+Avenida Bolívar 798
+Avenida Bolívar 914
+Avenida Los Ceibos 1836
+Avenida Naciones Unidas 871
+Pasaje Bolívar 1663
+Pasaje 6 de Diciembre 1186
+Avenida Amazonas 603
+Pasaje Guayas 191
+Calle Patria 75
+Pasaje Malecón Simón Bolívar 353
+Avenida 6 de Diciembre 1647
+Avenida Naciones Unidas 1531
+Pasaje Kennedy 2799
+Avenida 10 de Agosto 2232
+Calle Amazonas 1969
+Avenida 10 de Agosto 2469
+Pasaje Amazonas 1514
+Pasaje Bolívar 2132
+Pasaje Kennedy 594
+Avenida Naciones Unidas 1127
+Calle Kennedy 1522
+Avenida Colón 1540
+Avenida Colón 2231
+Avenida Los Ceibos 725
+Calle Colón 1662
+Avenida República 2773
+Pasaje Kennedy Norte 288
+Calle Malecón Simón Bolívar 1737
+Avenida Kennedy 1052
+Avenida Patria 2673
+Avenida 10 de Agosto 809
+Avenida García Moreno 53
+Avenida Sucre 1173
+Avenida Portete 2347
+Avenida Shyris 117
+Calle 10 de Agosto 1004
+Calle Rocafuerte 1130
+Avenida Naciones Unidas 2193
+Avenida Los Ceibos 792
+Calle 10 de Agosto 1192
+Pasaje Bolívar 2745
+Avenida Bolívar 896
+Avenida Amazonas 2306
+Avenida Los Ceibos 1237
+Calle 6 de Diciembre 2885
+Pasaje García Moreno 1625
+Avenida Kennedy Norte 2118
+Calle Portete 1108
+Calle Kennedy Norte 2288
+Calle 9 de Octubre 822
+Avenida 10 de Agosto 2890
+Avenida 9 de Octubre 1642
+Calle Portete 344
+Pasaje Urdesa Central 2196
+Calle Sucre 1179
+Calle República 1291
+Pasaje García Moreno 951
+Calle 6 de Diciembre 1205
+Avenida Guayas 1826
+Pasaje Amazonas 2145
+Calle República 858
+Avenida García Moreno 2501
+Avenida 6 de Diciembre 2471
+Calle Colón 1239
+Pasaje 6 de Diciembre 840
+Avenida Naciones Unidas 1547
+Pasaje Shyris 2183
+Pasaje Los Ceibos 2994
+Avenida 10 de Agosto 2311
+Avenida García Moreno 1347
+Pasaje 6 de Diciembre 1088
+Calle Colón 80
+Avenida García Moreno 210
+Calle Rocafuerte 1447
+Avenida Patria 2002
+Avenida Rocafuerte 1787
+Calle 10 de Agosto 2084
+Avenida Guayas 344
+Calle Sucre 300
+Pasaje República 1728
+Calle Shyris 2405
+Avenida Portete 2646
+Avenida 10 de Agosto 1132
+Calle Shyris 108
+Avenida República 1265
+Calle Urdesa Central 1539
+Calle 10 de Agosto 1106
+Avenida Kennedy 850
+Pasaje 10 de Agosto 267
+Avenida Naciones Unidas 753
+Pasaje Amazonas 2710
+Avenida Colón 2862
+Avenida Naciones Unidas 61
+Pasaje Amazonas 414
+Avenida Amazonas 2421
+Calle Naciones Unidas 81
+Avenida Los Ceibos 2735
+Avenida Malecón Simón Bolívar 625
+Calle Patria 1664
+Avenida 6 de Diciembre 680
+Avenida 6 de Diciembre 235
+Pasaje Colón 469
+Pasaje Colón 1975
+Avenida Patria 624
+Avenida Kennedy Norte 2371
+Avenida 9 de Octubre 1982
+Calle Kennedy 1185
+Avenida 9 de Octubre 633
+Avenida 9 de Octubre 2402
+Calle Malecón Simón Bolívar 1062
+Avenida Bolívar 2532
+Avenida Los Ceibos 1505
+Avenida Rocafuerte 53
+Pasaje Naciones Unidas 1788
+Pasaje Shyris 648
+Avenida Los Ceibos 59
+Calle 9 de Octubre 1302

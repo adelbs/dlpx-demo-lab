@@ -4,6 +4,8 @@
 import random
 import os
 
+import mexico_docs
+
 BASE = "/Users/felipe.jacob/Projects/dlpx-demo-lab"
 N = 1000
 random.seed(42)
@@ -77,35 +79,21 @@ def gen_cuit_ar():
     return f"{p}-{n}-{dv}"
 
 def gen_curp_mx():
-    letters = "AEIOU" if random.random() < 0.3 else "BCDFGHJKLMNPQRSTVWXYZ"
-    vowels = "AEIOU"
-    consonants = "BCDFGHJKLMNPQRSTVWXYZ"
-    year = random.randint(50, 99)
-    month = random.randint(1, 12)
-    day = random.randint(1, 28)
-    state = random.choice(["AS","BC","BS","CC","CL","CM","CS","CH","DF","DG",
-                           "GT","GR","HG","JC","MC","MN","MS","NT","NL","OC",
-                           "PL","QT","QR","SP","SL","SR","TC","TS","TL","VZ","YN","ZS"])
-    sex = random.choice(["H", "M"])
-    c1 = random.choice("AEIOU")
-    c2 = random.choice("BCDFGHJKLMNPQRSTVWXYZ")
-    c3 = random.choice("BCDFGHJKLMNPQRSTVWXYZ")
-    c4 = random.choice("BCDFGHJKLMNPQRSTVWXYZ")
-    suffix = f"{random.randint(0,9)}{random.choice('ABCDEFGHIJKLMNOPQRSTUVWXYZ')}"
-    name_part = f"{random.choice('AEIOU')}{random.choice(consonants)}{random.choice(vowels)}{random.choice(vowels)}"
-    return f"{name_part}{year:02d}{month:02d}{day:02d}{sex}{state}{c2}{c3}{c4}{suffix}"
+    """CURP válida (estrutura + dígito verificador) de uma pessoa fictícia."""
+    nome = random.choice(MX_NOMBRES)
+    sexo = "M" if nome in MX_NOMBRES_FEMENINOS else "H"
+    nasc = f"{random.randint(1950, 2005)}-{random.randint(1, 12):02d}-{random.randint(1, 28):02d}"
+    estado = random.choice(sorted(set(mexico_docs.CURP_ESTADOS.values())))
+    return mexico_docs.curp(nome, random.choice(MX_APELLIDOS), random.choice(MX_APELLIDOS),
+                            nasc, sexo, estado, random.choice([0, 0, 0, 1]))
 
-def gen_rfc_mx(is_empresa=False):
-    letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    if is_empresa:
-        prefix = "".join(random.choices(letters, k=3))
-    else:
-        prefix = "".join(random.choices(letters, k=4))
-    year = random.randint(50, 99)
-    month = random.randint(1, 12)
-    day = random.randint(1, 28)
-    suffix = "".join(random.choices(letters + "0123456789", k=3))
-    return f"{prefix}{year:02d}{month:02d}{day:02d}{suffix}"
+def gen_rfc_mx():
+    """RFC de persona moral válido (homoclave + dígito verificador) de uma empresa fictícia."""
+    razao = (f"{random.choice(MX_EMPRESAS_NOMES)} "
+             f"{random.choice(['Tecnología','Servicios','Comercial','Industrial','Construcción','Logística'])} "
+             f"{random.choice(MX_EMPRESAS_TIPO)}")
+    constituicao = f"{random.randint(1970, 2020)}-{random.randint(1, 12):02d}-{random.randint(1, 28):02d}"
+    return mexico_docs.rfc_moral(razao, constituicao)
 
 def gen_cedula_pa():
     prov = random.randint(1, 10)
@@ -397,6 +385,7 @@ MX_NOMBRES = [
     "Jesús","Pedro","Antonio","Arturo","Gerardo","Víctor","Héctor","Raúl","Ernesto","Guillermo",
     "Gloria","Guadalupe","Alicia","Martha","Teresa","Irene","Pilar","Esperanza","Carmen","Dolores"
 ]
+MX_NOMBRES_FEMENINOS = set(MX_NOMBRES[20:40] + MX_NOMBRES[50:])
 
 MX_APELLIDOS = [
     "García","Hernández","Martínez","López","González","Pérez","Sánchez","Ramírez","Cruz","Flores",
@@ -464,7 +453,7 @@ def gen_mexico():
     write(f"{seed_dir}/empresas.txt",
           [f"{random.choice(MX_EMPRESAS_NOMES)} {random.choice(['Tecnología','Servicios','Comercial','Industrial','Construcción','Logística'])} {random.choice(MX_EMPRESAS_TIPO)}" for _ in range(N)])
     write(f"{seed_dir}/curp.txt", unique_n(gen_curp_mx))
-    write(f"{seed_dir}/rfc.txt", unique_n(lambda: gen_rfc_mx(False)))
+    write(f"{seed_dir}/rfc.txt", unique_n(gen_rfc_mx))
     write(f"{seed_dir}/codigo_postal.txt", [gen_mx_cp() for _ in range(N)])
     write(f"{seed_dir}/telefonos.txt", [gen_mx_phone() for _ in range(N)])
     print("México: done")

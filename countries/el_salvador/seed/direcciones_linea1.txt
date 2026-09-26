@@ -1,1000 +1,1000 @@
-Avenida San Antonio Abad 565
-Colonia Delgado 171
-Colonia Delgado 499
-Avenida Bulevar del Ejército 142
-Pasaje Bulevar de Los Próceres 286
-Calle Bulevar de Los Próceres 745
-Avenida Miramonte 309
-Avenida Masferrer 293
-Pasaje Morazán 440
-Calle Escalón 887
-Colonia Independencia 746
-Colonia Masferrer 666
-Avenida Escalón 328
-Pasaje Concepción 809
-Pasaje Cuscatlán 113
-Pasaje Roosevelt 544
-Calle Juan Pablo II 660
-Avenida Independencia 758
-Avenida Roosevelt 144
-Pasaje Cuscatlán 76
-Avenida Sur 290
+Avenida Sur 938
+Calle San Antonio Abad 678
+Avenida Concepción 427
+Avenida Concepción 757
+Avenida El Progreso 209
+Avenida Los Héroes 517
+Avenida Juan Pablo II 48
+Calle Delgado 128
+Avenida Morazán 152
+Avenida Cuscatlán 305
+Avenida Bulevar del Ejército 949
+Avenida Juan Pablo II 563
+Colonia Masferrer 169
+Pasaje Sur 67
+Avenida Juan Pablo II 322
+Pasaje San Antonio Abad 558
+Calle Rubén Darío 425
+Avenida San Antonio Abad 875
+Calle San Antonio Abad 339
+Pasaje Escalón 416
+Avenida Rubén Darío 522
+Pasaje Juan Pablo II 460
+Colonia Cuscatlán 550
+Pasaje Sur 32
+Pasaje Arce 265
+Pasaje Delgado 987
+Calle Miramonte 584
+Avenida Arce 107
+Avenida Juan Pablo II 819
+Avenida Independencia 547
+Avenida Concepción 537
+Calle Concepción 247
+Pasaje Morazán 237
+Pasaje Miramonte 461
+Pasaje Sur 585
+Pasaje San Antonio Abad 21
+Pasaje Escalón 521
+Colonia Sur 188
+Avenida Rubén Darío 420
+Calle Los Héroes 248
+Pasaje Bulevar del Ejército 249
+Pasaje Roosevelt 322
+Colonia Bulevar de Los Próceres 459
+Pasaje Los Héroes 770
+Colonia Cuscatlán 321
+Pasaje Morazán 315
+Avenida Bulevar del Ejército 731
+Colonia Morazán 835
+Calle Sur 486
+Colonia Escalón 69
+Avenida Juan Pablo II 179
+Calle Concepción 622
+Pasaje Masferrer 811
+Avenida Sur 837
+Colonia Sur 92
+Avenida Miramonte 392
+Calle Rubén Darío 829
+Avenida Concepción 131
+Pasaje Sur 374
+Pasaje Escalón 291
+Avenida Morazán 403
+Avenida Arce 746
+Colonia Cuscatlán 847
+Calle Cuscatlán 940
+Pasaje Independencia 718
+Colonia Sur 411
+Calle Delgado 795
+Avenida Arce 37
+Pasaje El Progreso 508
+Avenida Los Héroes 311
+Avenida Cuscatlán 499
+Colonia Cuscatlán 106
+Avenida El Progreso 905
+Calle Rubén Darío 124
+Avenida Bulevar de Los Próceres 95
+Avenida Masferrer 25
+Avenida Arce 696
+Avenida Concepción 543
+Calle Cuscatlán 700
+Avenida Morazán 77
+Calle Bulevar del Ejército 966
+Calle Los Héroes 854
+Colonia Bulevar del Ejército 215
+Colonia Morazán 21
+Avenida Delgado 409
+Avenida Morazán 553
+Colonia Morazán 952
+Calle Bulevar del Ejército 509
+Avenida Juan Pablo II 222
+Avenida Arce 353
+Colonia El Progreso 277
+Pasaje Arce 367
+Colonia Morazán 784
+Avenida Escalón 234
+Avenida Los Héroes 8
+Colonia El Progreso 246
+Pasaje El Progreso 756
+Colonia Bulevar del Ejército 261
+Avenida Cuscatlán 231
+Calle Escalón 680
+Avenida Juan Pablo II 213
+Avenida Masferrer 551
+Pasaje Cuscatlán 825
+Pasaje Bulevar de Los Próceres 307
+Calle El Progreso 301
+Pasaje San Antonio Abad 23
+Pasaje Sur 114
+Pasaje Los Héroes 40
+Avenida Roosevelt 152
+Colonia Miramonte 670
+Colonia Cuscatlán 933
+Calle Cuscatlán 408
+Colonia Cuscatlán 164
+Calle Escalón 423
+Avenida Sur 931
+Pasaje Bulevar de Los Próceres 256
+Calle Los Héroes 549
+Avenida Sur 646
+Colonia Sur 550
+Avenida Los Héroes 807
+Pasaje Delgado 77
+Calle Delgado 285
+Colonia Arce 495
+Calle Bulevar del Ejército 647
+Avenida Sur 422
+Colonia El Progreso 403
+Avenida El Progreso 234
+Pasaje Bulevar de Los Próceres 494
+Colonia Miramonte 278
+Calle Sur 390
+Calle Miramonte 782
+Calle Roosevelt 517
+Avenida Sur 67
+Calle Miramonte 898
+Avenida El Progreso 519
+Avenida Morazán 156
+Calle Roosevelt 311
+Colonia Roosevelt 519
+Avenida Masferrer 29
+Calle Independencia 842
+Avenida Bulevar del Ejército 363
+Pasaje Independencia 453
+Avenida Miramonte 550
+Pasaje Bulevar del Ejército 89
+Avenida Los Héroes 598
+Avenida Bulevar de Los Próceres 617
+Calle Roosevelt 768
+Avenida Roosevelt 38
+Avenida Cuscatlán 787
+Avenida San Antonio Abad 262
+Avenida Escalón 995
+Avenida Rubén Darío 196
+Avenida Los Héroes 401
 Avenida Rubén Darío 581
-Pasaje El Progreso 996
-Pasaje Juan Pablo II 638
-Colonia Miramonte 312
-Avenida San Antonio Abad 493
-Avenida Concepción 150
-Avenida Delgado 288
-Avenida Arce 912
-Avenida Sur 916
-Avenida El Progreso 350
-Calle Miramonte 92
-Colonia Morazán 772
-Pasaje Bulevar de Los Próceres 406
-Colonia Arce 523
-Avenida Bulevar de Los Próceres 121
-Pasaje Sur 985
-Avenida Bulevar de Los Próceres 793
-Colonia El Progreso 506
-Avenida Concepción 658
-Colonia Miramonte 57
-Avenida Juan Pablo II 897
-Colonia Cuscatlán 178
-Colonia Escalón 733
-Colonia Independencia 554
-Avenida San Antonio Abad 658
-Pasaje Bulevar del Ejército 107
-Pasaje Sur 978
-Pasaje Bulevar del Ejército 997
-Avenida Independencia 965
-Pasaje Sur 692
-Avenida Rubén Darío 876
-Pasaje Bulevar del Ejército 626
-Calle San Antonio Abad 880
-Avenida Delgado 73
-Avenida Juan Pablo II 832
-Calle Rubén Darío 850
-Colonia Rubén Darío 33
-Avenida San Antonio Abad 575
-Avenida El Progreso 350
-Pasaje Delgado 213
-Calle Juan Pablo II 386
-Pasaje Arce 565
-Colonia Concepción 93
-Avenida Independencia 808
-Calle Roosevelt 253
-Avenida El Progreso 198
-Pasaje Juan Pablo II 792
-Avenida Los Héroes 39
-Avenida Masferrer 736
-Colonia Cuscatlán 605
-Calle Sur 429
-Avenida Delgado 519
-Pasaje Delgado 172
-Avenida Rubén Darío 184
-Avenida Juan Pablo II 309
-Avenida Delgado 364
-Avenida Juan Pablo II 169
-Pasaje Morazán 115
-Avenida Bulevar del Ejército 342
-Colonia San Antonio Abad 289
-Avenida Cuscatlán 530
-Pasaje Los Héroes 876
-Avenida Escalón 809
-Avenida Delgado 831
-Avenida Rubén Darío 453
-Colonia Masferrer 724
-Colonia Arce 616
-Colonia Miramonte 64
-Avenida Bulevar del Ejército 422
-Colonia Bulevar del Ejército 713
-Calle Arce 456
-Colonia Roosevelt 987
-Pasaje Escalón 701
-Avenida San Antonio Abad 388
-Avenida Sur 99
-Avenida Morazán 485
-Pasaje Cuscatlán 312
-Avenida Rubén Darío 116
-Colonia Arce 964
-Colonia Bulevar de Los Próceres 7
-Avenida Cuscatlán 194
-Avenida San Antonio Abad 930
-Pasaje Bulevar del Ejército 350
-Avenida Independencia 437
-Avenida Escalón 72
-Colonia Independencia 961
-Avenida Sur 90
-Avenida Bulevar de Los Próceres 316
-Colonia Rubén Darío 260
-Avenida Bulevar de Los Próceres 802
-Avenida Morazán 418
-Avenida Concepción 268
-Avenida San Antonio Abad 664
-Pasaje Morazán 854
-Colonia Los Héroes 255
-Pasaje Escalón 614
-Avenida Masferrer 800
-Colonia Los Héroes 340
-Calle Independencia 295
-Calle Escalón 774
-Colonia Sur 923
-Avenida Los Héroes 383
-Pasaje Independencia 526
-Calle Escalón 440
-Avenida Sur 606
-Avenida Arce 569
-Colonia Rubén Darío 284
-Pasaje Los Héroes 482
-Avenida Delgado 483
-Avenida Bulevar del Ejército 233
-Avenida Juan Pablo II 533
-Avenida Roosevelt 778
-Colonia Delgado 341
-Calle San Antonio Abad 127
-Calle Bulevar de Los Próceres 125
-Colonia Rubén Darío 268
-Avenida San Antonio Abad 702
-Avenida Los Héroes 340
-Avenida Los Héroes 502
-Calle Roosevelt 63
-Avenida Concepción 845
-Avenida Independencia 347
-Avenida San Antonio Abad 52
-Avenida Roosevelt 8
-Avenida Miramonte 85
-Pasaje Sur 426
-Calle San Antonio Abad 973
-Avenida Independencia 492
-Pasaje San Antonio Abad 9
-Pasaje Bulevar de Los Próceres 985
-Pasaje Masferrer 854
-Colonia Escalón 115
-Avenida Bulevar de Los Próceres 8
-Calle Los Héroes 478
-Avenida Los Héroes 140
-Avenida Escalón 139
-Avenida Concepción 658
-Calle Independencia 523
-Avenida Cuscatlán 814
-Avenida Escalón 478
-Avenida Arce 58
-Colonia Morazán 391
-Pasaje Delgado 666
-Colonia El Progreso 14
-Colonia Los Héroes 297
-Calle Sur 723
-Calle Bulevar de Los Próceres 79
-Pasaje Escalón 146
-Avenida Miramonte 588
-Calle Sur 274
-Avenida Bulevar del Ejército 202
-Calle Morazán 686
-Avenida Juan Pablo II 7
-Avenida Miramonte 471
-Avenida Juan Pablo II 278
-Pasaje Bulevar del Ejército 193
-Pasaje Cuscatlán 43
-Colonia Los Héroes 709
-Avenida Sur 393
-Avenida Escalón 749
-Colonia Morazán 805
-Avenida Independencia 988
-Avenida Bulevar del Ejército 221
-Calle El Progreso 146
-Calle Escalón 704
-Avenida Rubén Darío 2
-Avenida Arce 509
-Pasaje Escalón 662
-Pasaje Escalón 386
-Colonia Bulevar de Los Próceres 918
-Colonia El Progreso 756
-Avenida Concepción 410
-Colonia Juan Pablo II 489
-Calle Sur 133
-Avenida Morazán 50
-Avenida Arce 89
-Avenida Masferrer 174
-Pasaje San Antonio Abad 841
-Avenida Rubén Darío 657
-Colonia Morazán 926
-Calle San Antonio Abad 276
-Avenida El Progreso 108
-Calle El Progreso 609
-Colonia Masferrer 522
-Calle Escalón 858
-Calle Roosevelt 307
-Avenida Sur 316
-Calle Rubén Darío 721
-Colonia Escalón 90
-Avenida Juan Pablo II 66
-Avenida Miramonte 245
-Calle Rubén Darío 86
-Avenida Los Héroes 936
-Pasaje Independencia 695
-Avenida Masferrer 340
-Pasaje Independencia 400
-Pasaje Concepción 567
-Avenida Miramonte 940
-Calle Los Héroes 585
-Avenida Morazán 916
-Avenida Juan Pablo II 149
-Avenida El Progreso 459
-Avenida Cuscatlán 540
-Calle Miramonte 979
-Pasaje San Antonio Abad 318
-Pasaje Roosevelt 871
-Avenida Cuscatlán 69
-Avenida Bulevar de Los Próceres 174
-Colonia Los Héroes 292
-Pasaje Juan Pablo II 759
-Colonia Juan Pablo II 342
-Avenida Juan Pablo II 320
-Colonia Juan Pablo II 236
-Colonia Juan Pablo II 854
-Pasaje Morazán 650
-Avenida Arce 151
-Avenida Masferrer 206
-Calle Roosevelt 12
-Calle El Progreso 458
-Avenida Morazán 74
-Calle Juan Pablo II 489
-Calle Cuscatlán 577
-Colonia Morazán 220
-Colonia Concepción 131
-Pasaje Independencia 22
-Colonia Miramonte 117
-Pasaje Morazán 357
-Pasaje Arce 405
-Avenida Arce 287
-Pasaje Roosevelt 60
-Avenida El Progreso 224
-Colonia Cuscatlán 943
-Calle San Antonio Abad 311
-Pasaje Arce 497
-Calle Independencia 758
-Avenida Morazán 827
-Colonia Roosevelt 182
-Avenida San Antonio Abad 220
-Avenida San Antonio Abad 762
-Pasaje Delgado 615
-Avenida Miramonte 503
-Avenida Roosevelt 675
-Pasaje Bulevar del Ejército 612
-Colonia Masferrer 269
-Avenida El Progreso 29
-Pasaje El Progreso 297
-Avenida Sur 366
-Pasaje Concepción 559
-Avenida Arce 566
-Avenida Independencia 425
-Pasaje Morazán 923
-Pasaje Bulevar del Ejército 589
-Calle Escalón 754
-Colonia El Progreso 254
-Calle Juan Pablo II 196
-Colonia Bulevar de Los Próceres 812
-Pasaje Escalón 585
-Avenida Roosevelt 398
-Avenida Cuscatlán 922
-Colonia Rubén Darío 758
-Calle Masferrer 285
-Avenida Los Héroes 756
-Avenida El Progreso 884
-Pasaje Masferrer 117
-Calle Morazán 107
-Avenida Masferrer 793
-Pasaje San Antonio Abad 47
-Pasaje Arce 235
-Colonia Delgado 800
-Calle Morazán 701
-Avenida Masferrer 418
-Avenida Bulevar del Ejército 732
-Pasaje Miramonte 961
-Avenida Sur 903
-Calle Delgado 966
-Pasaje Miramonte 764
-Avenida Los Héroes 140
-Avenida Bulevar del Ejército 21
-Avenida Cuscatlán 375
-Avenida San Antonio Abad 778
-Avenida Concepción 911
-Avenida Bulevar del Ejército 266
-Avenida Roosevelt 374
-Avenida Independencia 948
-Calle Cuscatlán 153
-Pasaje Los Héroes 629
-Pasaje Masferrer 206
-Calle Arce 715
-Avenida Bulevar del Ejército 622
-Calle Bulevar del Ejército 653
-Calle Rubén Darío 69
-Colonia Sur 343
-Pasaje Bulevar del Ejército 430
-Colonia San Antonio Abad 175
-Avenida El Progreso 283
-Colonia El Progreso 14
-Avenida Cuscatlán 669
-Colonia Bulevar del Ejército 232
-Calle Arce 952
-Avenida Sur 652
-Pasaje Juan Pablo II 647
-Pasaje Masferrer 702
-Avenida Arce 498
-Calle Miramonte 884
-Avenida Rubén Darío 304
-Avenida San Antonio Abad 891
-Calle Arce 424
-Avenida Masferrer 895
-Calle Roosevelt 639
-Avenida Miramonte 872
-Pasaje Delgado 867
-Pasaje Escalón 124
-Avenida Morazán 76
-Pasaje Concepción 553
-Colonia Bulevar de Los Próceres 240
+Colonia Masferrer 804
+Pasaje Arce 926
+Avenida Arce 431
+Pasaje Sur 11
+Colonia Delgado 223
+Pasaje Bulevar de Los Próceres 566
+Colonia Morazán 152
+Colonia Morazán 928
+Pasaje Independencia 618
+Avenida Cuscatlán 586
+Avenida Cuscatlán 525
+Avenida Sur 774
+Calle Concepción 251
+Avenida Bulevar del Ejército 216
+Pasaje Concepción 525
+Calle Morazán 109
+Pasaje Bulevar del Ejército 357
+Colonia Sur 436
+Pasaje Sur 804
+Pasaje Sur 703
+Calle Arce 195
+Colonia Miramonte 225
+Colonia Sur 576
+Calle Cuscatlán 56
+Calle Masferrer 522
 Avenida Masferrer 196
-Avenida Cuscatlán 757
-Avenida San Antonio Abad 513
-Calle Roosevelt 566
-Pasaje El Progreso 116
-Pasaje Sur 208
-Avenida Delgado 787
-Avenida Rubén Darío 217
-Colonia Arce 961
-Calle El Progreso 584
-Colonia Arce 101
-Pasaje El Progreso 70
-Calle Concepción 780
-Colonia El Progreso 827
-Avenida Roosevelt 289
-Colonia Juan Pablo II 482
-Calle Masferrer 935
-Colonia Escalón 106
-Avenida Cuscatlán 250
-Avenida San Antonio Abad 654
-Avenida Masferrer 729
-Avenida Bulevar del Ejército 105
-Avenida Miramonte 42
-Pasaje Delgado 640
-Calle Cuscatlán 27
-Calle Masferrer 292
-Calle Bulevar del Ejército 362
-Colonia Independencia 461
-Calle San Antonio Abad 716
-Calle Roosevelt 363
-Pasaje Roosevelt 880
-Colonia Juan Pablo II 421
-Colonia Los Héroes 586
-Avenida Masferrer 433
-Pasaje Cuscatlán 673
-Avenida Los Héroes 335
-Avenida Bulevar de Los Próceres 687
-Avenida Roosevelt 623
-Avenida Roosevelt 124
-Avenida Roosevelt 449
-Avenida Cuscatlán 29
-Pasaje Concepción 881
-Avenida Sur 887
-Colonia Los Héroes 212
-Pasaje Bulevar del Ejército 193
-Avenida Arce 429
-Pasaje Masferrer 789
-Avenida Morazán 203
-Colonia Bulevar del Ejército 550
-Avenida Masferrer 20
-Pasaje Bulevar de Los Próceres 43
-Colonia Masferrer 676
-Avenida Morazán 453
-Colonia Sur 642
-Avenida Juan Pablo II 756
-Avenida Arce 384
-Avenida Miramonte 139
-Avenida Concepción 555
-Avenida El Progreso 127
-Pasaje Los Héroes 720
-Avenida Cuscatlán 85
-Colonia Los Héroes 85
-Colonia El Progreso 894
-Avenida Los Héroes 394
-Colonia Delgado 772
-Colonia Independencia 348
-Avenida Miramonte 136
-Colonia Masferrer 483
-Calle Concepción 702
-Calle Miramonte 421
-Avenida Delgado 304
-Pasaje Miramonte 956
-Avenida Miramonte 990
-Colonia El Progreso 547
-Avenida Morazán 922
-Pasaje Concepción 944
-Avenida Sur 648
-Avenida Concepción 361
-Colonia Independencia 520
-Avenida Escalón 209
-Avenida Cuscatlán 492
-Avenida Independencia 63
-Colonia Los Héroes 835
-Avenida Concepción 94
-Avenida San Antonio Abad 824
-Pasaje Miramonte 204
-Pasaje Bulevar del Ejército 706
-Pasaje Juan Pablo II 676
-Calle Independencia 239
-Calle Independencia 567
-Pasaje Independencia 78
-Avenida Roosevelt 636
-Avenida El Progreso 388
-Avenida Juan Pablo II 32
-Avenida Bulevar del Ejército 91
-Avenida Bulevar de Los Próceres 960
-Avenida Rubén Darío 661
-Calle Roosevelt 36
-Pasaje Juan Pablo II 786
-Colonia Roosevelt 106
-Avenida Juan Pablo II 141
-Pasaje Independencia 591
-Avenida Los Héroes 654
-Colonia Miramonte 318
-Calle Juan Pablo II 899
-Avenida Cuscatlán 542
-Avenida Escalón 185
-Avenida Escalón 537
-Pasaje Sur 15
-Pasaje Arce 528
-Avenida Roosevelt 538
-Avenida Arce 716
-Avenida Cuscatlán 589
-Calle Roosevelt 638
-Colonia Cuscatlán 816
-Avenida Bulevar del Ejército 506
-Avenida Arce 244
-Avenida Concepción 745
-Calle El Progreso 606
-Calle Los Héroes 955
-Avenida Roosevelt 821
-Avenida Independencia 786
-Colonia Concepción 860
-Pasaje Arce 759
-Calle Masferrer 589
-Calle Miramonte 219
-Avenida Bulevar de Los Próceres 733
-Avenida Independencia 342
-Avenida Arce 511
-Pasaje Bulevar de Los Próceres 932
-Avenida Morazán 840
-Calle Concepción 806
-Calle Rubén Darío 866
-Avenida Rubén Darío 255
-Avenida Delgado 742
-Colonia Roosevelt 128
-Pasaje Concepción 68
-Avenida Arce 402
-Avenida Bulevar de Los Próceres 460
-Avenida Cuscatlán 425
-Pasaje Independencia 831
-Avenida Bulevar de Los Próceres 894
-Pasaje Sur 202
-Colonia Arce 191
-Avenida Concepción 787
-Avenida Masferrer 268
-Avenida El Progreso 587
-Pasaje San Antonio Abad 637
-Calle Los Héroes 415
-Avenida Morazán 651
-Avenida El Progreso 893
-Avenida Los Héroes 826
-Avenida Miramonte 497
-Calle Concepción 17
-Avenida Independencia 724
-Avenida El Progreso 143
-Avenida Delgado 134
-Avenida Miramonte 384
-Avenida San Antonio Abad 762
-Avenida Concepción 337
-Pasaje Concepción 489
-Calle Masferrer 828
-Pasaje Escalón 430
-Calle Arce 827
-Calle Escalón 286
-Pasaje Cuscatlán 774
-Avenida Independencia 631
-Avenida Los Héroes 111
-Avenida San Antonio Abad 230
-Avenida Juan Pablo II 449
-Avenida El Progreso 493
-Calle Los Héroes 592
-Avenida Roosevelt 212
-Avenida Arce 205
-Colonia Independencia 804
-Colonia San Antonio Abad 147
-Avenida San Antonio Abad 104
-Avenida Miramonte 888
-Avenida Rubén Darío 394
-Pasaje Masferrer 837
-Colonia El Progreso 376
-Pasaje Juan Pablo II 373
-Calle Masferrer 324
-Avenida Delgado 163
-Calle Roosevelt 892
-Avenida Sur 845
-Calle San Antonio Abad 513
-Avenida Juan Pablo II 734
-Pasaje Masferrer 592
-Pasaje Cuscatlán 971
-Calle Cuscatlán 452
-Pasaje Los Héroes 652
-Colonia Masferrer 292
-Avenida San Antonio Abad 319
-Colonia Concepción 733
-Pasaje Delgado 317
-Pasaje Escalón 19
-Colonia Bulevar del Ejército 131
-Avenida El Progreso 436
-Calle El Progreso 899
-Colonia Juan Pablo II 37
-Avenida Concepción 447
-Avenida San Antonio Abad 465
-Avenida Independencia 198
-Calle Morazán 116
-Colonia Sur 483
-Avenida Independencia 944
-Pasaje Masferrer 307
-Calle Escalón 917
-Colonia Concepción 256
-Avenida Morazán 436
-Avenida Bulevar del Ejército 989
-Avenida Los Héroes 805
-Avenida Sur 367
-Colonia Independencia 381
-Colonia Bulevar de Los Próceres 683
-Avenida Miramonte 542
-Avenida San Antonio Abad 468
-Calle Sur 980
-Colonia Morazán 772
-Colonia Escalón 993
-Avenida Miramonte 673
-Avenida Concepción 179
-Calle Roosevelt 323
-Calle Independencia 301
-Pasaje Sur 194
-Avenida Roosevelt 720
-Avenida Delgado 20
-Calle Miramonte 793
-Calle Escalón 286
-Avenida Rubén Darío 870
-Calle San Antonio Abad 969
-Colonia El Progreso 549
-Colonia Cuscatlán 564
-Calle El Progreso 3
-Calle Sur 355
-Avenida Bulevar del Ejército 361
-Avenida Arce 790
-Pasaje Delgado 567
-Avenida Los Héroes 702
-Colonia Independencia 906
-Calle Concepción 576
-Pasaje San Antonio Abad 798
-Colonia San Antonio Abad 814
-Avenida Cuscatlán 349
-Pasaje Rubén Darío 486
-Avenida Masferrer 310
-Avenida Morazán 808
-Pasaje Roosevelt 647
-Avenida Bulevar del Ejército 594
-Pasaje Arce 9
-Avenida El Progreso 212
-Colonia Cuscatlán 697
-Colonia Roosevelt 4
-Avenida Bulevar de Los Próceres 981
-Calle Juan Pablo II 5
-Avenida San Antonio Abad 559
-Calle Roosevelt 401
-Calle Escalón 592
-Avenida San Antonio Abad 834
-Avenida Los Héroes 819
-Colonia Roosevelt 752
-Avenida San Antonio Abad 844
-Avenida Los Héroes 682
-Pasaje Los Héroes 853
-Avenida Juan Pablo II 736
-Calle El Progreso 407
-Calle Los Héroes 635
-Avenida Morazán 155
-Avenida Juan Pablo II 169
-Avenida Arce 88
-Avenida Rubén Darío 667
-Avenida Bulevar de Los Próceres 322
-Avenida Los Héroes 903
-Pasaje Juan Pablo II 424
-Avenida Los Héroes 447
-Calle Delgado 347
-Pasaje Cuscatlán 683
-Colonia Rubén Darío 335
-Colonia Delgado 76
-Colonia San Antonio Abad 149
-Avenida Morazán 555
-Pasaje Bulevar de Los Próceres 276
-Calle El Progreso 564
-Pasaje Sur 732
-Colonia Masferrer 983
-Pasaje Los Héroes 251
-Avenida Arce 702
-Colonia San Antonio Abad 140
-Colonia Juan Pablo II 368
-Pasaje Bulevar de Los Próceres 582
-Avenida Cuscatlán 40
-Avenida Masferrer 397
-Avenida Bulevar de Los Próceres 384
-Pasaje Roosevelt 645
-Pasaje Roosevelt 106
-Avenida Delgado 303
-Avenida Independencia 520
-Pasaje Bulevar del Ejército 716
-Avenida Bulevar del Ejército 717
-Pasaje Los Héroes 584
+Calle Los Héroes 96
+Calle Escalón 894
+Calle El Progreso 545
+Colonia Masferrer 343
+Pasaje Independencia 134
+Avenida Masferrer 966
+Calle Juan Pablo II 232
+Avenida Delgado 809
+Colonia Sur 600
+Calle Escalón 709
+Avenida El Progreso 294
+Calle Sur 992
+Pasaje Delgado 981
+Avenida Escalón 618
+Avenida Masferrer 778
+Avenida Roosevelt 542
+Pasaje Bulevar del Ejército 554
+Avenida Miramonte 365
+Colonia Miramonte 337
+Avenida Masferrer 511
+Calle Los Héroes 921
+Avenida Juan Pablo II 393
+Avenida Independencia 720
+Avenida Arce 999
+Calle Morazán 783
+Pasaje Rubén Darío 217
+Calle Cuscatlán 16
+Avenida Concepción 778
+Pasaje Masferrer 526
+Pasaje Morazán 74
+Calle Masferrer 533
+Pasaje Morazán 987
+Avenida Escalón 970
+Avenida Roosevelt 354
+Calle Juan Pablo II 907
+Avenida Cuscatlán 607
+Colonia Concepción 444
+Avenida Sur 145
 Calle Rubén Darío 55
-Pasaje Roosevelt 922
-Pasaje El Progreso 989
-Colonia Masferrer 411
-Pasaje Sur 778
-Pasaje Roosevelt 534
-Calle Roosevelt 136
-Calle Arce 258
-Avenida Cuscatlán 124
-Colonia San Antonio Abad 713
-Avenida Miramonte 493
-Calle Escalón 122
-Colonia Concepción 676
-Avenida Independencia 324
-Pasaje Bulevar del Ejército 78
-Calle Arce 978
-Colonia Roosevelt 927
-Avenida Miramonte 297
-Calle Arce 702
-Avenida Independencia 606
-Avenida Morazán 310
-Pasaje El Progreso 610
-Avenida Los Héroes 499
-Calle Concepción 47
-Avenida San Antonio Abad 802
-Avenida Delgado 798
-Pasaje Delgado 601
-Colonia Bulevar del Ejército 998
-Avenida Los Héroes 5
-Colonia Bulevar de Los Próceres 721
-Avenida Delgado 437
-Avenida Delgado 384
-Pasaje Morazán 945
-Avenida Miramonte 882
-Colonia Juan Pablo II 300
-Pasaje Roosevelt 384
+Pasaje Juan Pablo II 525
+Colonia San Antonio Abad 306
+Pasaje Concepción 738
+Colonia Arce 778
+Calle Arce 628
+Avenida Roosevelt 573
+Pasaje Arce 374
+Pasaje Independencia 191
+Avenida Juan Pablo II 354
+Colonia Arce 994
+Pasaje Roosevelt 662
+Pasaje Independencia 562
+Colonia Arce 410
+Avenida Masferrer 884
+Calle Delgado 287
+Pasaje Los Héroes 888
+Avenida Rubén Darío 327
+Calle Concepción 872
 Avenida Independencia 864
-Calle Miramonte 489
-Calle El Progreso 325
-Avenida Concepción 499
-Calle Roosevelt 999
-Avenida Cuscatlán 729
-Colonia Concepción 715
-Calle Roosevelt 116
-Colonia Cuscatlán 542
-Colonia San Antonio Abad 999
-Avenida Masferrer 152
-Pasaje Delgado 340
-Avenida Miramonte 106
-Pasaje Miramonte 491
-Pasaje El Progreso 412
-Avenida San Antonio Abad 605
-Colonia Los Héroes 257
-Avenida Independencia 58
-Colonia Cuscatlán 101
-Calle Bulevar del Ejército 109
-Avenida Rubén Darío 918
-Calle Roosevelt 351
-Avenida Juan Pablo II 413
-Avenida Delgado 338
-Pasaje Bulevar de Los Próceres 45
-Avenida Los Héroes 74
-Colonia Escalón 760
-Avenida El Progreso 836
-Avenida Bulevar del Ejército 196
-Calle Sur 196
-Pasaje Rubén Darío 563
-Colonia Bulevar de Los Próceres 564
-Avenida Miramonte 763
-Calle Cuscatlán 63
-Avenida Independencia 567
-Avenida Delgado 804
-Colonia El Progreso 670
-Avenida Arce 795
-Avenida Concepción 318
-Calle Delgado 978
-Avenida Sur 234
-Pasaje Arce 155
-Avenida Bulevar de Los Próceres 805
-Calle Bulevar del Ejército 346
-Avenida Delgado 566
-Calle Bulevar de Los Próceres 498
-Pasaje Arce 801
-Pasaje Independencia 925
-Avenida Cuscatlán 643
-Calle Concepción 923
-Avenida Arce 205
-Calle Concepción 689
-Calle Arce 252
-Avenida El Progreso 588
-Colonia Cuscatlán 563
-Avenida Delgado 73
-Calle El Progreso 437
-Avenida Roosevelt 285
-Pasaje Delgado 475
-Colonia Bulevar de Los Próceres 546
-Avenida Juan Pablo II 875
-Colonia Masferrer 996
-Pasaje Escalón 508
-Avenida San Antonio Abad 848
-Avenida Arce 920
-Avenida Rubén Darío 700
-Avenida Sur 186
-Avenida Miramonte 57
-Calle Roosevelt 69
-Pasaje Morazán 1
-Calle El Progreso 66
-Avenida Independencia 648
-Avenida Independencia 285
-Pasaje Bulevar del Ejército 953
-Avenida Miramonte 297
-Avenida Bulevar de Los Próceres 211
-Avenida Bulevar del Ejército 960
-Pasaje Juan Pablo II 967
-Calle Escalón 133
-Avenida San Antonio Abad 181
-Avenida Bulevar del Ejército 449
-Calle Rubén Darío 604
-Avenida Juan Pablo II 980
-Colonia El Progreso 718
-Calle Morazán 179
-Calle Concepción 323
-Avenida Arce 364
-Colonia Masferrer 33
-Avenida Los Héroes 626
-Colonia Rubén Darío 341
-Avenida Arce 496
-Pasaje Independencia 181
-Colonia Roosevelt 477
-Calle Los Héroes 272
-Calle Arce 682
-Pasaje Delgado 824
-Avenida Bulevar de Los Próceres 207
-Avenida Delgado 131
-Calle Morazán 972
-Colonia Cuscatlán 578
-Pasaje Los Héroes 423
-Colonia Los Héroes 373
-Avenida El Progreso 502
-Avenida Rubén Darío 149
-Pasaje San Antonio Abad 777
-Avenida El Progreso 587
-Colonia El Progreso 767
-Colonia Sur 903
-Avenida Miramonte 428
-Avenida Roosevelt 26
-Avenida Escalón 689
-Avenida Independencia 462
-Calle Bulevar del Ejército 287
-Avenida Delgado 657
-Colonia Sur 284
-Avenida Sur 172
-Pasaje Miramonte 213
-Calle Independencia 562
-Avenida Bulevar de Los Próceres 961
-Colonia Juan Pablo II 375
-Avenida El Progreso 619
-Avenida Miramonte 261
-Colonia Arce 731
-Calle Independencia 594
-Avenida Bulevar del Ejército 253
-Avenida Escalón 27
-Calle Morazán 238
-Avenida Miramonte 980
-Colonia Escalón 440
-Avenida Roosevelt 275
-Avenida Independencia 404
-Avenida Cuscatlán 295
-Avenida San Antonio Abad 554
-Avenida Bulevar de Los Próceres 551
-Pasaje Miramonte 644
-Pasaje Sur 315
-Colonia Roosevelt 595
-Colonia Juan Pablo II 604
-Avenida Arce 713
-Pasaje San Antonio Abad 236
-Avenida Los Héroes 289
-Calle El Progreso 310
-Colonia Arce 736
-Colonia Miramonte 904
-Avenida El Progreso 474
-Colonia Morazán 448
-Calle Independencia 246
-Colonia Masferrer 808
-Colonia Los Héroes 414
-Pasaje Rubén Darío 296
-Colonia Concepción 110
-Avenida Bulevar de Los Próceres 952
-Colonia El Progreso 854
-Avenida Rubén Darío 451
-Calle Masferrer 94
-Avenida Morazán 293
-Pasaje Sur 379
-Avenida Rubén Darío 920
-Colonia Cuscatlán 559
-Calle Roosevelt 933
-Avenida Escalón 233
-Avenida Rubén Darío 969
-Avenida Morazán 926
-Colonia Roosevelt 902
-Pasaje Sur 635
-Avenida Concepción 55
-Colonia Roosevelt 437
-Avenida Bulevar del Ejército 419
-Pasaje Cuscatlán 921
-Colonia El Progreso 614
-Colonia Cuscatlán 508
-Pasaje Masferrer 667
-Calle Delgado 562
-Pasaje Morazán 840
-Pasaje Escalón 802
-Colonia Cuscatlán 863
-Avenida Bulevar del Ejército 635
-Colonia Rubén Darío 686
-Avenida Arce 667
-Calle Arce 486
-Colonia Independencia 640
-Avenida Los Héroes 989
-Avenida Miramonte 448
-Colonia Morazán 815
-Avenida Delgado 223
-Colonia Juan Pablo II 784
-Calle Delgado 213
-Avenida Delgado 152
-Calle Arce 740
-Calle Escalón 86
-Avenida Bulevar del Ejército 398
-Avenida Independencia 300
-Pasaje Cuscatlán 777
-Pasaje San Antonio Abad 161
-Avenida Bulevar de Los Próceres 601
-Calle Los Héroes 778
-Pasaje Miramonte 526
-Colonia Rubén Darío 24
-Calle Arce 837
-Avenida Sur 519
-Calle Arce 767
-Pasaje Arce 178
-Avenida Los Héroes 503
-Calle San Antonio Abad 127
-Pasaje Miramonte 517
-Pasaje Miramonte 156
-Calle San Antonio Abad 577
-Colonia Delgado 999
-Calle Morazán 778
-Pasaje Escalón 358
-Avenida Concepción 204
-Avenida Roosevelt 236
-Colonia Masferrer 170
-Avenida Los Héroes 991
-Pasaje Sur 983
-Pasaje Delgado 118
-Calle Los Héroes 876
-Pasaje Bulevar del Ejército 419
-Avenida El Progreso 383
-Colonia Masferrer 564
-Avenida Bulevar de Los Próceres 188
-Avenida Miramonte 435
-Calle Miramonte 659
-Avenida Concepción 483
-Pasaje Morazán 936
-Avenida Morazán 587
-Avenida Bulevar del Ejército 96
-Pasaje El Progreso 975
-Calle Bulevar de Los Próceres 404
-Pasaje Juan Pablo II 456
-Pasaje Independencia 963
-Colonia Bulevar de Los Próceres 1
-Colonia Arce 439
-Avenida Escalón 739
-Avenida Arce 270
-Calle Miramonte 195
-Colonia Juan Pablo II 149
-Colonia Delgado 541
-Colonia Cuscatlán 205
-Pasaje El Progreso 957
-Avenida Masferrer 850
-Avenida Bulevar de Los Próceres 295
-Calle Delgado 8
-Pasaje Juan Pablo II 688
-Colonia Arce 262
-Pasaje Bulevar de Los Próceres 824
-Avenida Juan Pablo II 82
-Avenida Sur 758
-Colonia Rubén Darío 761
-Avenida Juan Pablo II 424
+Colonia Los Héroes 162
+Calle Morazán 645
+Pasaje Masferrer 556
+Colonia Escalón 510
+Colonia Cuscatlán 512
+Colonia Delgado 448
+Colonia Miramonte 183
+Calle Sur 498
+Avenida Morazán 116
+Avenida Rubén Darío 56
+Calle Concepción 117
+Avenida San Antonio Abad 285
+Calle Rubén Darío 844
+Avenida Cuscatlán 531
+Calle Independencia 257
+Avenida Bulevar de Los Próceres 29
+Calle Rubén Darío 348
+Colonia Escalón 668
+Calle Bulevar de Los Próceres 436
+Colonia Independencia 789
+Avenida Cuscatlán 665
+Pasaje Arce 794
+Calle Miramonte 961
+Avenida Rubén Darío 360
+Avenida Los Héroes 762
+Calle Delgado 27
+Avenida Delgado 45
+Calle Bulevar del Ejército 420
+Avenida El Progreso 121
+Pasaje Bulevar del Ejército 299
+Avenida Bulevar del Ejército 282
+Calle Masferrer 454
+Calle Concepción 19
+Pasaje Arce 332
+Avenida Independencia 731
+Avenida El Progreso 90
+Pasaje Escalón 169
+Pasaje El Progreso 755
+Colonia Sur 517
+Pasaje San Antonio Abad 762
+Avenida Escalón 362
+Colonia Arce 155
+Avenida Bulevar del Ejército 236
+Colonia Delgado 840
+Avenida San Antonio Abad 678
+Avenida Bulevar del Ejército 750
+Avenida Bulevar de Los Próceres 78
+Pasaje Roosevelt 16
+Pasaje Arce 229
+Colonia Bulevar del Ejército 879
+Colonia Independencia 169
+Avenida San Antonio Abad 88
+Colonia Los Héroes 311
+Avenida Bulevar de Los Próceres 421
+Avenida Independencia 825
+Calle Miramonte 836
+Pasaje El Progreso 891
+Avenida Bulevar de Los Próceres 482
+Calle Bulevar del Ejército 523
+Avenida Rubén Darío 819
+Colonia Escalón 73
+Avenida Miramonte 835
+Avenida Cuscatlán 547
+Calle Roosevelt 972
+Avenida Concepción 811
+Calle El Progreso 502
+Avenida Roosevelt 784
+Colonia Cuscatlán 184
+Colonia Bulevar de Los Próceres 515
+Calle Masferrer 459
+Avenida Bulevar del Ejército 307
+Colonia Cuscatlán 9
+Avenida Los Héroes 984
+Avenida San Antonio Abad 212
+Pasaje Los Héroes 33
+Colonia Bulevar de Los Próceres 90
+Pasaje Los Héroes 696
+Calle Juan Pablo II 877
+Colonia Cuscatlán 93
+Colonia Independencia 129
+Avenida Los Héroes 206
+Colonia Escalón 202
+Colonia San Antonio Abad 867
+Pasaje Rubén Darío 480
+Avenida Los Héroes 597
+Pasaje Delgado 423
+Avenida Rubén Darío 754
+Pasaje Escalón 362
+Calle Miramonte 110
+Avenida Bulevar de Los Próceres 489
+Colonia Escalón 229
+Avenida Bulevar del Ejército 488
+Colonia Escalón 901
+Colonia San Antonio Abad 868
 Avenida Delgado 489
-Avenida Concepción 496
-Avenida San Antonio Abad 128
-Pasaje Juan Pablo II 713
-Pasaje Bulevar de Los Próceres 364
-Avenida San Antonio Abad 145
-Pasaje Masferrer 262
-Avenida Masferrer 680
-Avenida San Antonio Abad 453
-Avenida Concepción 436
-Calle Sur 677
-Pasaje Miramonte 195
-Colonia Delgado 722
-Avenida Bulevar del Ejército 636
-Calle Juan Pablo II 785
-Colonia Rubén Darío 329
-Pasaje Bulevar del Ejército 657
+Colonia Morazán 314
+Calle Independencia 433
+Avenida Miramonte 193
+Colonia Sur 481
+Colonia Bulevar del Ejército 251
+Avenida Roosevelt 92
+Avenida Juan Pablo II 682
+Colonia Miramonte 76
+Avenida Bulevar del Ejército 686
+Calle Rubén Darío 353
+Avenida Delgado 526
+Avenida Juan Pablo II 815
+Avenida Bulevar de Los Próceres 31
+Colonia Juan Pablo II 706
+Pasaje Juan Pablo II 427
+Calle Morazán 199
+Calle San Antonio Abad 940
+Avenida Miramonte 849
+Colonia Bulevar del Ejército 292
+Avenida Sur 849
+Avenida Juan Pablo II 413
+Pasaje Delgado 44
+Avenida Cuscatlán 947
+Pasaje Independencia 149
+Avenida Miramonte 419
+Avenida Delgado 145
+Pasaje Arce 773
+Avenida Juan Pablo II 833
+Avenida Roosevelt 799
+Pasaje Bulevar de Los Próceres 480
+Pasaje El Progreso 330
+Pasaje Bulevar de Los Próceres 849
+Avenida Roosevelt 438
+Avenida San Antonio Abad 399
+Calle Roosevelt 812
+Colonia Bulevar de Los Próceres 674
+Colonia Morazán 495
+Avenida Masferrer 395
+Avenida Morazán 861
+Pasaje Bulevar de Los Próceres 18
+Pasaje Bulevar del Ejército 278
+Avenida Concepción 167
+Avenida Morazán 964
+Colonia Morazán 492
+Avenida Cuscatlán 58
+Calle Roosevelt 287
+Calle Sur 853
+Avenida Arce 755
+Calle Sur 970
+Avenida Roosevelt 77
+Calle Sur 528
+Avenida Los Héroes 599
+Pasaje Masferrer 221
+Avenida Los Héroes 446
+Colonia Los Héroes 230
+Avenida Los Héroes 769
+Pasaje Rubén Darío 341
+Calle Los Héroes 319
+Calle Roosevelt 778
+Avenida Delgado 383
+Pasaje Morazán 746
+Pasaje Delgado 782
+Calle Rubén Darío 668
+Colonia El Progreso 571
+Pasaje Delgado 783
+Pasaje Arce 661
+Colonia El Progreso 776
+Pasaje San Antonio Abad 425
+Avenida Miramonte 285
+Pasaje San Antonio Abad 591
+Calle Morazán 672
+Colonia Bulevar de Los Próceres 487
+Colonia Arce 602
+Colonia Bulevar del Ejército 621
+Colonia Rubén Darío 299
+Avenida Los Héroes 967
+Pasaje Independencia 987
+Avenida Concepción 209
+Avenida Miramonte 642
+Avenida Bulevar del Ejército 882
+Avenida Independencia 573
+Avenida Concepción 199
+Colonia Delgado 831
+Colonia Roosevelt 374
+Calle Concepción 396
+Colonia San Antonio Abad 312
+Colonia Rubén Darío 287
+Pasaje Independencia 162
+Avenida Los Héroes 597
+Colonia Los Héroes 855
+Avenida Morazán 803
+Avenida Los Héroes 957
+Avenida Bulevar del Ejército 749
+Pasaje Juan Pablo II 170
+Calle Miramonte 999
+Pasaje Escalón 44
+Colonia Bulevar de Los Próceres 593
+Avenida Miramonte 398
+Calle Los Héroes 898
+Avenida Bulevar de Los Próceres 307
+Avenida El Progreso 543
+Avenida Miramonte 838
+Calle Rubén Darío 602
+Avenida Los Héroes 666
+Calle Los Héroes 301
+Calle Bulevar del Ejército 149
+Avenida Los Héroes 276
+Avenida El Progreso 506
+Avenida El Progreso 34
+Calle Bulevar de Los Próceres 831
+Pasaje Miramonte 229
+Pasaje Cuscatlán 805
+Avenida Bulevar de Los Próceres 931
+Calle Delgado 360
+Avenida Miramonte 293
+Calle San Antonio Abad 559
+Pasaje San Antonio Abad 662
+Avenida Arce 644
+Calle Roosevelt 168
+Calle San Antonio Abad 153
+Avenida Bulevar de Los Próceres 434
+Pasaje Miramonte 730
+Pasaje Concepción 570
+Colonia Cuscatlán 894
+Avenida Los Héroes 59
+Avenida Los Héroes 475
+Calle San Antonio Abad 405
+Colonia Cuscatlán 555
+Calle Rubén Darío 786
+Avenida Juan Pablo II 225
+Pasaje Concepción 699
+Avenida Concepción 942
+Pasaje Morazán 396
+Pasaje Morazán 444
+Colonia Independencia 767
+Avenida Escalón 920
+Calle Roosevelt 523
+Avenida Sur 683
+Calle Juan Pablo II 486
+Avenida Los Héroes 83
+Calle Sur 998
+Avenida El Progreso 162
+Avenida Delgado 747
+Avenida El Progreso 633
+Avenida Morazán 827
+Colonia San Antonio Abad 92
+Avenida Morazán 943
+Calle Bulevar de Los Próceres 312
+Colonia Bulevar de Los Próceres 702
+Avenida Escalón 769
+Calle Bulevar del Ejército 257
+Calle Independencia 517
+Pasaje Escalón 123
+Pasaje Sur 924
+Avenida San Antonio Abad 233
+Avenida Roosevelt 331
+Colonia Delgado 366
+Avenida Rubén Darío 86
+Colonia Miramonte 858
+Pasaje Masferrer 30
+Avenida Bulevar del Ejército 968
+Colonia Bulevar de Los Próceres 105
+Colonia Cuscatlán 476
+Avenida Escalón 446
+Avenida Los Héroes 231
+Avenida Concepción 218
+Calle Miramonte 286
+Calle San Antonio Abad 513
+Avenida El Progreso 445
+Avenida Morazán 473
+Calle Independencia 640
+Pasaje Miramonte 314
+Avenida Masferrer 654
+Calle Juan Pablo II 928
+Avenida Independencia 377
+Pasaje Sur 904
+Avenida Escalón 655
+Pasaje Concepción 267
+Avenida Morazán 530
+Avenida Arce 475
+Avenida Roosevelt 594
+Avenida Rubén Darío 413
+Avenida Bulevar de Los Próceres 860
+Pasaje Bulevar del Ejército 596
+Avenida Los Héroes 918
+Calle Concepción 843
+Pasaje Rubén Darío 783
+Avenida Bulevar de Los Próceres 508
+Avenida Roosevelt 398
+Pasaje Bulevar de Los Próceres 442
+Calle Arce 411
+Calle Delgado 714
+Avenida Delgado 752
+Avenida Sur 101
+Avenida Bulevar del Ejército 4
+Colonia El Progreso 837
+Colonia Arce 848
+Colonia Miramonte 590
+Avenida Bulevar de Los Próceres 498
+Colonia Miramonte 87
+Pasaje Morazán 101
+Calle Juan Pablo II 416
+Calle Morazán 169
+Calle Roosevelt 409
+Avenida Rubén Darío 777
+Colonia Escalón 250
+Calle Morazán 124
+Colonia Morazán 45
+Avenida Concepción 664
+Pasaje Morazán 517
+Calle Rubén Darío 382
+Avenida San Antonio Abad 724
+Avenida Concepción 737
+Avenida Rubén Darío 392
+Avenida Independencia 655
+Pasaje Concepción 740
+Pasaje Rubén Darío 750
+Pasaje Masferrer 135
+Avenida Independencia 300
+Avenida Los Héroes 285
+Pasaje Cuscatlán 456
+Colonia Arce 93
+Calle Los Héroes 606
+Pasaje Arce 150
+Pasaje Bulevar del Ejército 434
+Pasaje Sur 22
+Pasaje Delgado 839
+Colonia Roosevelt 641
+Pasaje Arce 296
+Avenida El Progreso 328
+Avenida Sur 23
+Colonia El Progreso 27
+Colonia Roosevelt 607
+Colonia Masferrer 722
+Avenida Concepción 175
+Colonia Sur 846
+Colonia Bulevar de Los Próceres 162
+Calle Morazán 696
+Colonia Bulevar del Ejército 535
+Calle Miramonte 961
+Calle Independencia 829
+Colonia San Antonio Abad 86
+Colonia Morazán 935
+Colonia Arce 455
+Pasaje Los Héroes 300
+Colonia Sur 238
+Colonia Bulevar del Ejército 921
+Avenida Bulevar de Los Próceres 570
+Colonia Bulevar de Los Próceres 105
+Colonia Los Héroes 97
+Pasaje Bulevar de Los Próceres 704
+Pasaje El Progreso 388
 Calle Escalón 296
-Pasaje Concepción 899
-Avenida Sur 923
-Avenida Escalón 237
-Avenida Escalón 269
-Avenida Rubén Darío 30
-Colonia San Antonio Abad 336
-Calle Miramonte 131
-Avenida Arce 693
-Avenida Cuscatlán 160
-Pasaje Roosevelt 972
-Pasaje Concepción 43
-Pasaje Los Héroes 966
-Avenida Bulevar de Los Próceres 68
-Colonia El Progreso 142
-Avenida El Progreso 40
-Avenida Bulevar del Ejército 600
-Avenida El Progreso 816
-Colonia Cuscatlán 785
-Calle Bulevar del Ejército 306
-Avenida Miramonte 442
-Avenida Rubén Darío 113
-Avenida Bulevar del Ejército 186
-Avenida Roosevelt 731
-Colonia El Progreso 534
-Avenida Masferrer 458
-Calle Bulevar de Los Próceres 746
-Pasaje Juan Pablo II 204
-Colonia Rubén Darío 711
-Pasaje Morazán 491
-Calle Miramonte 250
-Avenida San Antonio Abad 112
-Avenida Juan Pablo II 582
-Avenida San Antonio Abad 839
-Pasaje Independencia 733
-Colonia Bulevar del Ejército 360
-Avenida El Progreso 840
-Avenida Concepción 935
-Pasaje Miramonte 149
-Colonia Rubén Darío 938
-Pasaje Independencia 461
-Avenida Delgado 517
-Avenida San Antonio Abad 640
-Colonia Concepción 131
-Colonia Delgado 125
-Colonia Delgado 813
-Calle Independencia 259
-Colonia Cuscatlán 238
-Avenida Cuscatlán 121
-Pasaje Delgado 894
-Colonia Delgado 137
-Avenida Escalón 730
-Pasaje Bulevar de Los Próceres 713
-Pasaje El Progreso 268
-Avenida Cuscatlán 617
-Pasaje Cuscatlán 815
-Avenida El Progreso 884
-Calle San Antonio Abad 342
-Calle Los Héroes 982
-Colonia San Antonio Abad 450
+Avenida Roosevelt 485
+Pasaje Sur 344
+Pasaje Masferrer 62
+Calle Masferrer 218
+Colonia Masferrer 652
+Colonia Sur 971
+Avenida Bulevar de Los Próceres 847
+Calle Masferrer 266
+Avenida Los Héroes 149
+Pasaje Arce 895
+Avenida Bulevar de Los Próceres 851
+Colonia Bulevar del Ejército 715
+Avenida Sur 156
+Avenida Arce 905
+Avenida Roosevelt 583
+Colonia Morazán 439
+Avenida Concepción 222
+Avenida Rubén Darío 633
+Pasaje Roosevelt 728
+Avenida Roosevelt 310
+Pasaje Concepción 621
+Pasaje Juan Pablo II 271
+Calle Escalón 851
+Avenida Concepción 918
+Calle El Progreso 820
+Pasaje Concepción 541
+Avenida Escalón 891
+Colonia Arce 551
+Calle Miramonte 471
+Avenida Rubén Darío 832
+Avenida Arce 120
+Calle Cuscatlán 162
+Avenida Independencia 661
+Avenida Morazán 683
+Colonia Concepción 194
+Avenida Delgado 930
+Avenida Escalón 508
+Avenida Delgado 559
+Calle Concepción 170
+Avenida Sur 537
+Avenida San Antonio Abad 390
+Avenida Los Héroes 365
+Calle Escalón 742
+Colonia Morazán 779
+Calle Masferrer 484
+Avenida Bulevar de Los Próceres 659
+Avenida El Progreso 144
+Colonia Bulevar del Ejército 9
+Colonia Bulevar de Los Próceres 476
+Avenida Morazán 993
+Avenida Sur 989
+Calle Juan Pablo II 616
+Avenida El Progreso 652
+Colonia Morazán 443
+Colonia San Antonio Abad 293
+Colonia Bulevar de Los Próceres 306
+Colonia Morazán 788
+Calle Delgado 190
+Pasaje Escalón 352
+Avenida Delgado 392
+Avenida Arce 972
+Avenida Arce 597
+Avenida Miramonte 754
+Avenida San Antonio Abad 655
+Avenida Independencia 284
+Colonia Concepción 203
+Calle Morazán 324
+Calle Bulevar de Los Próceres 59
+Calle Arce 319
+Pasaje Bulevar del Ejército 464
+Avenida Morazán 374
+Avenida Bulevar del Ejército 335
+Avenida Miramonte 989
+Avenida Escalón 349
+Pasaje Sur 466
+Calle Independencia 804
+Avenida Masferrer 51
+Avenida Concepción 943
+Avenida Los Héroes 6
+Pasaje Los Héroes 350
+Avenida Roosevelt 866
+Colonia Masferrer 331
+Colonia Independencia 509
+Avenida Escalón 306
+Colonia Los Héroes 484
+Avenida Escalón 216
+Avenida Los Héroes 300
+Colonia Bulevar del Ejército 199
+Calle Escalón 826
+Avenida Rubén Darío 549
+Avenida Delgado 48
+Colonia Los Héroes 454
+Colonia Bulevar de Los Próceres 57
+Colonia Los Héroes 865
+Avenida Bulevar de Los Próceres 850
+Calle Rubén Darío 683
+Pasaje Bulevar del Ejército 940
+Colonia Masferrer 174
+Colonia Concepción 514
+Avenida Juan Pablo II 809
+Pasaje El Progreso 377
+Pasaje Bulevar del Ejército 607
+Avenida Miramonte 499
+Avenida El Progreso 691
+Colonia Independencia 87
+Colonia Arce 490
+Avenida Roosevelt 716
+Colonia El Progreso 548
+Avenida El Progreso 499
+Pasaje Sur 759
+Avenida Delgado 36
+Avenida Sur 650
+Avenida Bulevar del Ejército 718
+Colonia Independencia 82
+Avenida San Antonio Abad 637
+Avenida Masferrer 984
+Avenida El Progreso 619
+Colonia Arce 572
+Avenida Escalón 34
+Avenida Roosevelt 176
+Calle Rubén Darío 995
+Avenida Independencia 288
+Avenida Rubén Darío 405
+Avenida El Progreso 151
+Colonia Roosevelt 341
+Colonia Delgado 251
+Calle Roosevelt 621
+Colonia Rubén Darío 3
+Calle Miramonte 386
+Pasaje Cuscatlán 973
+Avenida Concepción 807
+Calle Juan Pablo II 282
+Avenida Rubén Darío 890
+Avenida Rubén Darío 238
+Calle Roosevelt 580
+Pasaje Morazán 56
+Avenida Cuscatlán 677
+Avenida Miramonte 321
+Colonia Masferrer 851
+Calle Juan Pablo II 139
+Avenida Independencia 693
+Calle Sur 646
+Colonia Escalón 970
+Pasaje Los Héroes 443
+Avenida Delgado 756
+Avenida Morazán 604
+Avenida Sur 250
+Pasaje Bulevar de Los Próceres 863
+Pasaje Bulevar de Los Próceres 907
+Avenida Concepción 490
+Calle Concepción 668
+Calle Bulevar del Ejército 573
+Avenida Bulevar del Ejército 956
+Pasaje Independencia 926
+Avenida Rubén Darío 841
+Calle Escalón 918
+Pasaje El Progreso 498
+Calle San Antonio Abad 580
+Pasaje Roosevelt 461
+Calle Miramonte 993
+Avenida Sur 311
+Calle Independencia 584
+Avenida Arce 310
+Avenida Miramonte 723
+Colonia Rubén Darío 651
+Colonia Los Héroes 65
+Avenida Miramonte 545
+Pasaje San Antonio Abad 569
+Pasaje Juan Pablo II 590
+Pasaje Roosevelt 685
+Colonia Roosevelt 356
+Avenida Roosevelt 485
+Calle Miramonte 246
+Colonia Independencia 217
+Avenida Arce 879
+Pasaje Delgado 985
+Colonia Juan Pablo II 917
+Avenida Morazán 280
+Avenida Miramonte 178
+Calle Bulevar del Ejército 790
+Calle Bulevar del Ejército 755
+Avenida San Antonio Abad 757
+Avenida Concepción 502
+Avenida Rubén Darío 559
+Avenida Concepción 122
+Colonia Independencia 614
+Pasaje Los Héroes 25
+Avenida Masferrer 661
+Avenida Juan Pablo II 119
+Calle Miramonte 94
+Colonia Masferrer 69
+Colonia Rubén Darío 722
+Colonia Miramonte 502
+Avenida Independencia 376
+Avenida Bulevar del Ejército 524
+Calle Delgado 429
+Avenida Arce 768
+Avenida Juan Pablo II 288
+Avenida Rubén Darío 532
+Avenida Concepción 328
+Avenida Independencia 106
+Calle Sur 305
+Colonia San Antonio Abad 102
+Pasaje Morazán 214
+Calle Independencia 265
+Avenida Juan Pablo II 755
+Avenida Escalón 177
+Colonia Concepción 231
+Avenida Roosevelt 445
+Colonia Roosevelt 870
+Avenida Concepción 825
+Avenida Masferrer 368
+Colonia Delgado 717
+Avenida Rubén Darío 624
+Calle Morazán 294
+Avenida Sur 410
+Pasaje El Progreso 205
+Avenida Escalón 738
+Avenida Bulevar de Los Próceres 342
+Avenida Delgado 83
+Pasaje Los Héroes 887
+Avenida Sur 83
+Avenida Bulevar del Ejército 16
+Pasaje Roosevelt 634
+Avenida Independencia 823
+Calle Bulevar de Los Próceres 268
+Calle Morazán 522
+Avenida Bulevar de Los Próceres 614
+Colonia Los Héroes 701
+Calle Rubén Darío 728
+Colonia Rubén Darío 337
+Pasaje Sur 344
+Avenida Bulevar del Ejército 908
+Colonia Morazán 633
+Calle Morazán 39
+Avenida Rubén Darío 218
+Calle Morazán 957
+Avenida Escalón 146
+Calle Independencia 367
+Avenida Concepción 365
+Avenida Delgado 497
+Calle Masferrer 569
+Calle Sur 142
+Avenida Roosevelt 993
+Avenida Rubén Darío 108
+Calle Bulevar del Ejército 283
+Colonia San Antonio Abad 978
+Pasaje Roosevelt 793
+Avenida Sur 425
+Calle Los Héroes 742
+Pasaje Cuscatlán 969
+Colonia Bulevar del Ejército 958
+Pasaje Independencia 387
+Avenida Sur 864
+Colonia Independencia 426
+Colonia Cuscatlán 598
+Pasaje Arce 480
+Calle Masferrer 951
+Pasaje Arce 320
+Avenida Roosevelt 749
+Colonia San Antonio Abad 652
+Avenida Escalón 35
+Pasaje Masferrer 743
+Colonia Miramonte 469
+Colonia Miramonte 369
+Pasaje Delgado 160
+Calle San Antonio Abad 986
+Calle Sur 241
+Colonia Cuscatlán 456
+Calle Sur 848
+Pasaje Independencia 353
+Colonia Cuscatlán 27
+Pasaje Delgado 797
+Colonia El Progreso 290
+Colonia Rubén Darío 767
+Avenida Morazán 646
+Calle Masferrer 612
+Avenida Independencia 332
+Avenida Bulevar del Ejército 82
+Avenida Morazán 233
+Calle Arce 532
+Avenida Concepción 272
+Avenida Masferrer 552
+Avenida Delgado 496
+Pasaje Rubén Darío 698
+Colonia Masferrer 774
+Calle San Antonio Abad 283
+Avenida Delgado 787
+Avenida Bulevar del Ejército 530
+Colonia Miramonte 195
+Avenida Sur 690
+Calle Cuscatlán 676
+Colonia Cuscatlán 890
+Avenida Independencia 126
+Colonia Arce 726
+Calle Escalón 126
+Pasaje Roosevelt 110
+Avenida Masferrer 670
+Calle Bulevar de Los Próceres 132
+Calle Los Héroes 939
+Avenida Miramonte 285
+Pasaje Masferrer 430
+Colonia Morazán 809
+Calle Sur 178
+Avenida Los Héroes 723
+Calle Concepción 196
+Avenida Bulevar del Ejército 602
+Calle Arce 607
+Pasaje Rubén Darío 767
+Calle Independencia 491
+Pasaje Sur 596
+Avenida Masferrer 156
+Calle Arce 614
+Colonia Masferrer 495
+Pasaje Roosevelt 707
+Calle Bulevar del Ejército 621
+Calle El Progreso 998
+Calle Los Héroes 380
+Avenida Sur 691
+Avenida Masferrer 228
+Pasaje Independencia 836
+Avenida Arce 13
+Avenida Morazán 787
+Avenida San Antonio Abad 717
+Calle Arce 785
+Colonia Bulevar del Ejército 103
+Avenida Delgado 388
+Calle Miramonte 328
+Pasaje Los Héroes 447
+Avenida Concepción 487
+Avenida Juan Pablo II 182
+Calle San Antonio Abad 734
+Avenida Roosevelt 483
+Avenida Cuscatlán 179
+Calle Rubén Darío 478
+Avenida Arce 932
+Avenida Bulevar del Ejército 331
+Calle Arce 558
+Avenida Delgado 197
+Calle Rubén Darío 177
+Colonia San Antonio Abad 421
+Colonia San Antonio Abad 98
+Pasaje Escalón 83
+Pasaje Morazán 937
+Calle Bulevar de Los Próceres 194
+Colonia El Progreso 175
+Pasaje Rubén Darío 915
+Avenida Morazán 429
+Avenida Sur 553
+Calle Rubén Darío 277
+Avenida Delgado 170
+Avenida Cuscatlán 813
+Avenida Rubén Darío 724
+Avenida Los Héroes 842
+Colonia Bulevar del Ejército 899
+Avenida Masferrer 521
+Pasaje Morazán 664
+Avenida Delgado 753
+Colonia El Progreso 615
+Avenida Masferrer 702
+Avenida San Antonio Abad 713
+Avenida Morazán 908
+Pasaje Bulevar del Ejército 438
+Pasaje Los Héroes 271
+Calle Delgado 11
+Colonia Independencia 771
+Pasaje Arce 202
+Calle Miramonte 271
+Calle Los Héroes 632
+Calle Delgado 731
+Calle El Progreso 656
+Avenida Roosevelt 224
+Avenida Arce 860
+Avenida Morazán 408
+Pasaje Juan Pablo II 620
+Pasaje Concepción 674
+Colonia Roosevelt 918
+Calle Escalón 734
+Avenida Delgado 392
+Avenida Bulevar del Ejército 148
+Pasaje San Antonio Abad 738
+Colonia San Antonio Abad 736
+Pasaje Los Héroes 959
+Avenida Roosevelt 658
+Avenida Masferrer 439
+Avenida Concepción 498
+Colonia Concepción 937
+Colonia Bulevar del Ejército 250
+Avenida Bulevar del Ejército 432
+Colonia Arce 999
+Colonia Miramonte 986
+Avenida Roosevelt 527
+Pasaje Roosevelt 682
+Colonia Juan Pablo II 313
+Avenida Juan Pablo II 253
+Avenida Bulevar del Ejército 195
+Calle Roosevelt 605
+Colonia Bulevar del Ejército 820
+Avenida Rubén Darío 80
+Avenida Concepción 763
+Pasaje Masferrer 563
+Calle Bulevar del Ejército 885
+Avenida Delgado 118
+Avenida Delgado 204
+Avenida Miramonte 930
+Colonia Independencia 328
+Avenida Concepción 688
+Colonia Arce 959
+Pasaje Cuscatlán 374
+Pasaje Roosevelt 190
+Avenida Bulevar del Ejército 197
+Pasaje Rubén Darío 432
+Calle Roosevelt 114
+Avenida Miramonte 959

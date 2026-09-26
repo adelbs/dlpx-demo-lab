@@ -23,6 +23,7 @@ Change the `random.seed` value in each script to produce a different dataset.
 ```
 generate_seed.py              ← generates countries/*/seed/*.txt
 generate_ddl.py               ← generates ddl/*/*.sql
+mexico_docs.py                ← CURP / RFC (persona moral) algorithms, shared by both scripts
 
 countries/
   <country>/seed/             ← .txt seed lists for masking (1 value/line, 1000 lines)
@@ -55,6 +56,19 @@ ddl/
 | el_salvador | ES   | dui        | nit              | ciudad        | departamento   |
 
 \* Belize's official language is English; the table/column schema stays Spanish for pipeline consistency, but seed names reflect Belize's actual English/Creole/Mestizo/Garifuna demographic mix (see `generate_seed.py`'s Belize section).
+
+**México — derived documents.** In the DDL, CURP and RFC are *computed from the
+row*, not taken from the seed: the CURP comes from `nombre`, `apellido`
+(two surnames, paterno + materno), `fecha_nacimiento`, `genero` (F→M, M→H)
+and the residence `estado`, with a valid check digit; the supplier RFC
+(persona moral, 12 chars) comes from `nombre_empresa` plus a random
+incorporation date, with homoclave and check digit. The seed lists `curp.txt` /
+`rfc.txt` also hold valid values (independent of any row).
+
+**Gender.** `genero` (`M`/`F`) is derived from the first name by
+`genero()` in `generate_ddl.py`: names ending in "a" are female, plus the
+explicit `NOMES_FEMININOS` set. When adding names to a country's seed list,
+add female names that don't end in "a" to that set.
 
 Document columns are suffixed with their role in each table (e.g., `cpf_titular`, `dni_cliente`, `rut_paciente`, `nit_empresa`).
 
